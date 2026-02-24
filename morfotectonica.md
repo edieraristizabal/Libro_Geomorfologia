@@ -20,7 +20,7 @@ Aunque están íntimamente relacionados y a menudo se superponen, la geomorfolog
 
 En las regiones estables del interior de los continentes, lejos de los bordes de placa activos, el relieve está fuertemente controlado por la estructura de la roca y la erosión diferencial. Un cratón es la porción más antigua, estable y rígida de la litosfera continental. Son los núcleos ancestrales de los continentes, formados y estabilizados durante el Precámbrico (hace más de 540 millones de años), y no han sido afectados significativamente por la actividad tectónica desde entonces. Un escudo es la región de un cratón donde las rocas del basamento cristalino (rocas ígneas y metamórficas del Precámbrico) están expuestas directamente en la superficie.
 
-Debido a miles de millones de años de erosión, los **escudos** son típicamente áreas de bajo relieve, como extensas llanuras suavemente onduladas o peneplanicies. Son el "esqueleto" del continente a la vista. Como ejemplos clásicos estan el Escudo Canadiense, el Escudo Báltico en Escandinavia, y aquí en Sudamérica, el Escudo Guayanés y el Escudo Brasileño, que juntos forman el Cratón Amazónico.
+Debido a miles de millones de años de erosión, los **escudos** son típicamente ááreas de bajo relieve, como extensas llanuras suavemente onduladas o peneplanicies. Son el "esqueleto" del continente a la vista. Como ejemplos clásicos estan el Escudo Canadiense, el Escudo Báltico en Escandinavia, y aquí en Sudamérica, el Escudo Guayanés y el Escudo Brasileño, que juntos forman el Cratón Amazónico.
 
 Una **plataforma** es la región de un cratón donde el basamento cristalino antiguo está cubierto por una capa relativamente delgada de rocas sedimentarias más jóvenes, depositadas de forma horizontal o con un buzamiento muy suave. Estas rocas sedimentarias se depositaron en mares interiores poco profundos que inundaron el cratón en diferentes momentos del Fanerozoico. La topografía de las plataformas es la que da lugar a los paisajes de mesas, buttes y cuestas que discutimos a continuación.
 
@@ -28,6 +28,7 @@ Una **plataforma** es la región de un cratón donde el basamento cristalino ant
 ```{figure} https://i.pinimg.com/736x/12/c3/1e/12c31e4607133bd053867e87f9045726.jpg
 :name: fig-1740
 :width: 400
+
 escudo
 ```
 
@@ -43,6 +44,7 @@ Cuando las capas de roca sedimentaria son horizontales, la erosión diferencial 
 ```{figure} https://i.pinimg.com/1200x/51/6c/75/516c75f756ed09b3d1ccb592a559a704.jpg
 :name: fig-9975
 :width: 600
+
 escudo
 ```
 
@@ -55,6 +57,7 @@ Los bordes de los continentes se dividen en dos grandes tipos: pasivos y activos
 ```{figure} https://i.pinimg.com/1200x/97/fe/b0/97feb017b2139a8715ddf5496d802788.jpg
 :name: fig-2134
 :width: 600
+
 escudo
 ```
 
@@ -68,6 +71,7 @@ Estos no son bordes de placa. Son el resultado de la ruptura de un continente en
 ```{figure} https://i.pinimg.com/736x/bd/40/43/bd40434bd25cd58d47eb2aa70a981be4.jpg
 :name: fig-4532
 :width: 600
+
 escudo
 ```
 
@@ -86,6 +90,7 @@ El esfuerzo (σ) es la fuerza aplicada por unidad de área sobre un material. En
 ```{figure} https://i.pinimg.com/1200x/22/a8/21/22a821c27c9b7533a3b5ef94118daa4f.jpg
 :name: fig-3499
 :width: 600
+
 escudo
 ```
  
@@ -113,6 +118,7 @@ El lenguaje para describir la orientación en el espacio 3D de cualquier estruct
 ```{figure} https://i.pinimg.com/736x/8c/ac/2f/8cac2fb850feb101bab1a6be94083a69.jpg
 :name: fig-2189
 :width: 300
+
 escudo
 ```
 
@@ -336,13 +342,13 @@ Colombia es un escenario privilegiado para el estudio de la morfotectnica debido
 * **Cratn y Escudo:** El **Escudo Guayans** en el oriente (Amazona y Orinoqua) es el ncleo estable con paisajes de bajo relieve y tepuyes (mesas estructurales).
 * **Mrgenes Activas:** Los Andes colombianos representan un **Arco Volcnico Continental** (Cordillera Central) y zonas de **acrecionamiento** (Cordillera Occidental y Serrana del Baud).
 * **Fallas de Rumbo:** El **Sistema de Fallas de Romeral** y la **Falla de Ibagu** presentan geoformas clsicas como drenajes desplazados, lomos de presin y valles lineares.
-* **Relieve Invertido:** En el **Valle Superior del Magdalena**, es posible observar estructuras plegadas donde la erosin ha generado relieves conforme e invertidos sobre rocas sedimentarias.
+* **Relieve Invertido:** En el **Valle Superior del Magdalena**, es posible observar estructuras plegadas donde la erosión ha generado relieves conforme e invertidos sobre rocas sedimentarias.
 
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
 1. **Control Estructural:** Cul es la diferencia fundamental entre una ladera cataclinal y una anaclinal? Cul de ellas representa un mayor riesgo geolgico por deslizamientos en una zona de alta pluviosidad?
-2. **Patrones de Drenaje:** Si observa un patrn de drenaje sobreimpuesto que atraviesa una cordillera plegada sin desviarse, qu nos dice esto sobre la cronologa relativa entre el ro y el levantamiento de la cordillera?
-3. **Ambientes Tectnicos:** Compare las geoformas resultantes de un borde divergente (rift) con las de un borde de rumbo (transformante). Qu importancia tienen los 'shutter ridges' para identificar fallas activas?
-4. **Isostasia:** Explique por qu el rebote isosttico tras el derretimiento de un gran glaciar puede causar que reas costeras experimenten un descenso aparente del nivel del mar.
+2. **Patrones de Drenaje:** Si observa un patrn de drenaje sobreimpuesto que atraviesa una cordillera plegada sin desviarse, qu nos dice esto sobre la cronología relativa entre el ro y el levantamiento de la cordillera?
+3. **Ambientes Tectnicos:** Compare las geoformas resultantes de un borde divergente (rift) con las de un borde de rumbo (transformante). Qué importancia tienen los 'shutter ridges' para identificar fallas activas?
+4. **Isostasia:** Explique por qu el rebote isostático tras el derretimiento de un gran glaciar puede causar que áreas costeras experimenten un descenso aparente del nivel del mar.
 5. **Anlisis de Campo:** Utilizando el concepto de buzamiento y rumbo, describa cmo identificara en el campo una estructura de *hogback* frente a una *cuesta*.

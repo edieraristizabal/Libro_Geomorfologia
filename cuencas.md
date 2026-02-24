@@ -193,7 +193,7 @@ El hidrograma (gráfico de caudal vs. tiempo) muestra dos componentes:
 
 La urbanización (impermeabilización de suelos con concreto y asfalto) altera drásticamente la hidrología.
 
-1.  **Reduce la Infiltración:** Casi a cero en áreas pavimentadas.
+1.  **Reduce la Infiltración:** Casi a cero en ááreas pavimentadas.
 2.  **Reduce la Interceptación:** Se elimina la cobertura vegetal.
 3.  **Aumenta la Escorrentía:** Todo lo que no se infiltra, se convierte en escorrentía superficial.
 
@@ -216,15 +216,15 @@ La urbanización **aumenta la magnitud del caudal pico para un mismo periodo de 
 
 Colombia cuenta con cinco grandes regiones hidrogrficas (Amazonas, Orinoco, Caribe, Pacfico y Catatumbo).
 
-* **Cuenca del Magdalena-Cauca:** Es la ms importante desde el punto de vista socioeconmico, drenando el 24% del territorio nacional. Es una cuenca de gran complejidad tectnica y climtica.
-* **Cuencas del Pacfico:** Caracterizadas por longitudes cortas, pendientes extremas y una de las pluviosidades ms altas del mundo (ej. cuenca del ro Atrato), lo que genera caudales especficos altsimos y gran transporte de sedimentos.
+* **Cuenca del Magdalena-Cauca:** Es la más importante desde el punto de vista socioeconmico, drenando el 24% del territorio nacional. Es una cuenca de gran complejidad tectnica y climtica.
+* **Cuencas del Pacfico:** Caracterizadas por longitudes cortas, pendientes extremas y una de las pluviosidades más altas del mundo (ej. cuenca del ro Atrato), lo que genera caudales especficos altsimos y gran transporte de sedimentos.
 * **Gestin de Cuencas:** En Colombia, las **POMCA** (Planes de Ordenacin y Manejo de Cuencas Hidrogrficas) son el instrumento legal para la gestin del riesgo y el recurso hdrico.
 
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
 1. **rdenes de Drenaje:** Dado un mapa de una red de drenaje, identifique los canales de orden 1, 2 y 3 segn Strahler. De qu orden es la cuenca si su ro principal es de orden 4?
-2. **Respuesta Hidrolgica:** Explique por qu una cuenca ovalada tiende a producir crecidas ms peligrosas que una cuenca alargada.
-3. **Urbanizacin:** Cmo afecta la pavimentacin de una cuenca al tiempo de retraso (*lag time*) entre la tormenta y el pico del hidrograma?
-4. **Perfil Longitudinal:** Describa cmo cambia el sustrato del lecho desde la cuenca alta hasta la desembocadura. Por qu ocurre este cambio?
-5. **Balance Hidrulico:** Si un ro tiene un rea de seccin de 50 m y una velocidad de 2 m/s, cul es su caudal? Si aguas abajo el rea aumenta a 100 m y no hay tributarios, cul ser la nueva velocidad promedio?
+2. **Respuesta Hidrolgica:** Explique por qu una cuenca ovalada tiende a producir crecidas más peligrosas que una cuenca alargada.
+3. **Urbanizacin:** Cómo afecta la pavimentacin de una cuenca al tiempo de retraso (*lag time*) entre la tormenta y el pico del hidrograma?
+4. **Perfil Longitudinal:** Describa cmo cambia el sustrato del lecho desde la cuenca alta hasta la desembocadura. Por qué ocurre este cambio?
+5. **Balance Hidrulico:** Si un ro tiene un rea de sección de 50 m y una velocidad de 2 m/s, cul es su caudal? Si aguas abajo el rea aumenta a 100 m y no hay tributarios, cul ser la nueva velocidad promedio?

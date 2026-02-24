@@ -1,3 +1,14 @@
+---
+jupytext:
+  formats: md:myst
+  text_representation:
+    extension: .md
+    format_name: myst
+kernelspec:
+  display_name: Python 3
+  language: python
+  name: python3
+---
 (sec-meteorizacion)=
 # Meteorización: procesos, perfiles y geoformas
 
@@ -536,10 +547,10 @@ Las láminas tetraédricas y octaédricas se combinan para formar las capas de l
 
 * **Capas 2:1**: En este caso, una lámina octaédrica está "sándwich" entre dos láminas tetraédricas. Estos minerales, como la pirofilita o el talco, se conocen como filosilicatos 2:1. En estas arcillas, como la esmectita, las láminas tetraédricas de la parte superior e inferior están unidas por enlaces débiles (fuerzas de Van der Waals). Esto permite que el agua, con su naturaleza polar, se infiltre entre las capas. El agua hidrata los cationes que equilibran la carga, como el sodio ($Na^{+}$) y el calcio ($Ca^{2+}$), lo que fuerza la separación de las capas y provoca un hinchamiento masivo. A medida que el suelo se seca, el agua se elimina y las capas se contraen. Este comportamiento de "hinchamiento-contracción" causa grandes problemas en la ingeniería geotécnica.
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
-1. **Fsica vs. Qumica:** Bajo qu condiciones climticas (P, T) predomina la meteorizacin fsica por gelifraccin y bajo cules la meteorizacin qumica por hidrlisis?
+1. **Fsica vs. Qumica:** Bajo qu condiciones climticas (P, T) predomina la meteorizacin fsica por gelifraccin y bajo cules la meteorizacin qumica por hidrólisis?
 2. **Ciclo del Carbono:** Explique cmo la meteorizacin de silicatos acta como un termostato natural del planeta a escalas de tiempo geolgicas.
 3. **Perfil de Meteorizacin:** Defina operacionalmente qu es un **saprolito**. En qu se diferencia visualmente de la roca fresca y del suelo residual (VI)?
-4. **Ingeniera Geotcnica:** Por qu las arcillas con estructura 2:1 (como la montmorillonita) son ms problemticas para la construccin de obras civiles que las arcillas 1:1 (como la caolinita)?
+4. **Ingeniera Geotécnica:** Por qué las arcillas con estructura 2:1 (como la montmorillonita) son más problemticas para la construccin de obras civiles que las arcillas 1:1 (como la caolinita)?
 5. **Mobildad de Iones:** En un perfil de meteorizacin desarrollado en un ambiente tropical hmedo (ej. Choc, Colombia), qu elementos qumicos esperara encontrar concentrados en la superficie y cules habrn sido lixiviados?

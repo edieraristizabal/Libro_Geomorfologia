@@ -169,14 +169,14 @@ Se centran en disipar la energía del agua y promover la infiltración:
 ## Erosin Pluvial en Colombia
 
 * **Va al Llano:** Las laderas de la Cordillera Oriental presentan crcavas gigantescas debido a la combinacin de litologas dbiles, altas pendientes y deforestacin.
-* **El desierto de La Tatacoa (Huila):** Es un ejemplo clsico de un paisaje dominado por la erosin pluvial extrema (badlands), donde la falta de vegetacin permite que el splash y el escurrimiento laminar esculpan geoformas intrincadas.
-* **Los Estoraques (Norte de Santander):** Paisaje nico de chimeneas de hadas y pilares esculpidos por la erosin pluvial en depsitos gneos y sedimentarios friables.
+* **El desierto de La Tatacoa (Huila):** Es un ejemplo clsico de un paisaje dominado por la erosión pluvial extrema (badlands), donde la falta de vegetacin permite que el splash y el escurrimiento laminar esculpan geoformas intrincadas.
+* **Los Estoraques (Norte de Santander):** Paisaje nico de chimeneas de hadas y pilares esculpidos por la erosión pluvial en depósitos gneos y sedimentarios friables.
 
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
-1. **Splash:** Qu papel juega la energa cintica de la gota de lluvia en el proceso de erosin? Cmo ayuda el dosel de los rboles a reducir este efecto?
-2. **Curva de Hjulstrm:** Por qu las arcillas requieren una velocidad de flujo mayor que las arenas para ser erosionadas (desprendidas), a pesar de ser mucho ms pequeas?
-3. **Evolucin de Geoformas:** Describa la progresin de la erosin hdrica en laderas, desde el impacto de la gota hasta la formacin de una crcava.
+1. **Splash:** Qué papel juega la energía cinética de la gota de lluvia en el proceso de erosión? Cómo ayuda el dosel de los árboles a reducir este efecto?
+2. **Curva de Hjulstrm:** Por qué las arcillas requieren una velocidad de flujo mayor que las arenas para ser erosionadas (desprendidas), a pesar de ser mucho más pequeñas?
+3. **Evolucin de Geoformas:** Describa la progresin de la erosión hdrica en laderas, desde el impacto de la gota hasta la formación de una crcava.
 4. **Erosin Remontante:** Explique el mecanismo por el cual una crcava crece pendiente arriba.
-5. **Manejo de Suelos:** Por qu los cultivos de contorno (siguiendo curvas de nivel) son ms efectivos que los cultivos en el sentido de la pendiente para controlar la erosin laminar?
+5. **Manejo de Suelos:** Por qué los cultivos de contorno (siguiendo curvas de nivel) son más efectivos que los cultivos en el sentido de la pendiente para controlar la erosión laminar?

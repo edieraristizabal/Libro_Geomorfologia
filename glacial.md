@@ -39,7 +39,7 @@ Un **glaciar** es una gran masa de hielo perenne, formada por la compactación y
 Los trópicos de alta montaña (como los Andes) son laboratorios únicos. A pesar de su baja latitud, la altitud extrema permite la existencia de ambientes glaciales y periglaciales.
 
 * **Ambientes Actuales:** Pequeños glaciares (casquetes) y zonas periglaciales activas (con ciclos de hielo-deshielo diarios) se encuentran por encima del límite de bosque, en los páramos y superpáramos.
-* **Ambientes Heredados (Legacy):** Durante las glaciaciones del Cuaternario, la Línea de Equilibrio (EQL) descendió significativamente. Esto significa que vastas áreas que hoy son páramos estuvieron cubiertas por hielo. Las morrenas, valles en U y lagos que vemos en los parques nacionales (ej. El Cocuy, Los Nevados) son geoformas heredadas de esa actividad glacial pasada.
+* **Ambientes Heredados (Legacy):** Durante las glaciaciones del Cuaternario, la Línea de Equilibrio (EQL) descendió significativamente. Esto significa que vastas ááreas que hoy son páramos estuvieron cubiertas por hielo. Las morrenas, valles en U y lagos que vemos en los parques nacionales (ej. El Cocuy, Los Nevados) son geoformas heredadas de esa actividad glacial pasada.
 
 
 ```{figure} https://i.pinimg.com/1200x/f4/e8/c2/f4e8c2b577d4f550a42268f69b58cf7d.jpg
@@ -332,13 +332,13 @@ El término "periglacial" se refiere a los ambientes fríos no glaciados, domina
 
 ---
 ## 15. Evidencias Glaciales Pasadas en Colombia
-* **Última Glaciación (LGM):** Durante el Último Máximo Glacial (~21.000 años), la EQL en los Andes colombianos descendió hasta los ~3.000-3.500 msnm. Los glaciares cubrieron vastas áreas que hoy son páramos.
+* **Última Glaciación (LGM):** Durante el Último Máximo Glacial (~21.000 años), la EQL en los Andes colombianos descendió hasta los ~3.000-3.500 msnm. Los glaciares cubrieron vastas ááreas que hoy son páramos.
 * **Evidencias:** Las morrenas terminales y laterales, los valles en U, los circos y los numerosos lagos (tarns) en parques como Los Nevados, El Cocuy o el Parque Nacional Natural Chingaza son la evidencia geomorfológica inequívoca de esta extensa glaciación pasada.
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
 1. **Balance de Masa:** Si un glaciar presenta una Lnea de Equilibrio (EQL) que asciende en altitud ao tras ao, qu podemos concluir sobre su estado de salud? Est en avance o retroceso?
 2. **Erosin Glacial:** Explique cmo el proceso de *arranque* (plucking) y la *abrasin* trabajan en conjunto para profundizar un valle glacial.
-3. **Morfologa de Valle:** Cules son las diferencias principales entre un valle fluvial y un valle glacial en trminos de su perfil transversal y su trazado en planta?
-4. **Glaciares Tropicales:** Por qu los glaciares de Colombia son particularmente sensibles al cambio climtico en comparacin con los glaciares de latitudes altas (ej. Antrtida)?
-5. **Sedimentologa:** Describa las caractersticas del *till* glacial. Por qu es un sedimento tan mal seleccionado?
+3. **Morfologa de Valle:** Cules son las diferencias principales entre un valle fluvial y un valle glacial en términos de su perfil transversal y su trazado en planta?
+4. **Glaciares Tropicales:** Por qué los glaciares de Colombia son particularmente sensibles al cambio climtico en comparacin con los glaciares de latitudes altas (ej. Antrtida)?
+5. **Sedimentologa:** Describa las características del *till* glacial. Por qué es un sedimento tan mal seleccionado?

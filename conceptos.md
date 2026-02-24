@@ -19,7 +19,7 @@ Comprender los procesos y las formas del relieve geomorfológicas requiere consi
 ```{figure} https://i.pinimg.com/736x/8f/67/76/8f67767fbe7d852aa0bd5a5210f043c6.jpg
 :name: fig-5106
 :width: 600px
-Descripción de la imagen
+
 ```
 
 Esta relación positiva se fundamenta en principios físicos de energía y momentum. Un proceso geomorfológico de mayor tamaño implica la movilización de una masa sustancialmente mayor, lo que a su vez requiere una cantidad de energía inicial (ya sea potencial, como en los deslizamientos, o de un forzamiento externo, como en las tormentas) de órdenes de magnitud superiores. Una vez que el proceso se desencadena, este sistema de gran masa posee una inercia y un momentum considerablemente más altos. En consecuencia, el tiempo necesario para disipar su enorme energía cinética a través de la fricción, la deformación interna y la resistencia del medio es proporcionalmente más largo. En esencia, la duración del evento no es más que el reflejo del tiempo que tarda el sistema en agotar su vasto presupuesto energético hasta alcanzar un nuevo estado de equilibrio, un proceso que se prolonga inevitablemente a medida que la escala espacial y la masa involucrada aumentan.
@@ -45,6 +45,7 @@ Para entender la complejidad del paisaje, no podemos mirar sus partes de forma a
 ```{figure} images/3-s2.0-B9780124095489093878-f09387-01-9780124095489.jpg
 :name: fig-escalas
 :width: 600px
+
 Relación entre las escalas espaciales y temporales de los procesos geológicos.
 ```
 
@@ -54,7 +55,7 @@ Relación entre las escalas espaciales y temporales de los procesos geológicos.
 
 Técnicamente, un paisaje se considera en equilibrio dinámico (o estado estacionario, steady-state) cuando la tasa de levantamiento tectónico (U), que añade masa y energía potencial al sistema, es igualada por la tasa de erosión o denudación (E), que remueve masa y disipa esa energía.
 
-$E=KA^mS^n$\$
+$E=KA^mS^n$
 
 Por lo que, $dz/dt=U-E$:
 
@@ -77,7 +78,7 @@ La clave del concepto es la respuesta no lineal: el paisaje puede absorber tensi
 ```{figure} https://www.researchgate.net/profile/Daniel-Knitter/publication/351054986/figure/fig7/AS:1015402712821765@1619102280804/Different-types-of-equilibria-a-decay-equilibrium-b-dynamic-equilibrium-c_W640.jpg
 :name: fig-8219
 :width: 600px
-Descripción de la imagen
+
 ```
 
 **Retroalimentación (Feedback)**: es el mecanismo por el cual el resultado de un proceso (el output) influye de vuelta sobre el propio proceso que lo generó (el input), ya sea para amplificarlo o para atenuarlo. Es la forma en que el paisaje se auto-regula o, por el contrario, se desestabiliza y cambia drásticamente.
@@ -94,7 +95,7 @@ Un pequeño surco en una ladera (un rill) concentra el flujo de agua. Esta conce
 ```{figure} https://i.pinimg.com/736x/b5/ce/a3/b5cea3c9621b03fff79415d99d26acef.jpg
 :name: fig-5442
 :width: 400
-Decripción de la imagen
+
 ```
 
 ## Frecuencia vs. Magnitud
@@ -109,7 +110,7 @@ Existe una relación inversa entre el tamaño de un evento geomorfológico y la 
 ```{figure} https://lh3.googleusercontent.com/proxy/4ICv0TulF1SAHKk9xqx5Hb1t6aUKkUMMxK30QK-QurfPL4YhAakNK-D-VKBUpNq7MfjBy-_5Xq2MjqbL_BfN0MMGmCX-LJ7MWpe47ow6jQzj86YnGlVwSS93t8rgxCVc_zyJkfE_JzOv1SC-DXGg188
 :name: fig-7550
 :width: 600px
-Descripción de la imagen
+
 ```
 
 ---

@@ -25,6 +25,7 @@ El término **"avenida torrencial"** es amplio y su definición ha sido objeto d
 ```{figure} https://i.pinimg.com/736x/be/2e/c6/be2ec63356ead5b933217ae717e9e526.jpg
 :name: fig-1184
 :width: 500
+
 escudo
 ```
 
@@ -32,6 +33,7 @@ escudo
 ```{figure} https://i.pinimg.com/736x/1d/75/23/1d75230ec9c0beb03837308b1b6b333d.jpg
 :name: fig-3783
 :width: 500
+
 escudo
 ```
 
@@ -49,6 +51,7 @@ Esta dicotomía ha llevado a metodologías de evaluación de amenaza muy diferen
 ```{figure} https://i.pinimg.com/736x/df/03/71/df03715fe1bbda3fb50a6d77e906a084.jpg
 :name: fig-3428
 :width: 600
+
 escudo
 ```
 
@@ -64,6 +67,7 @@ Independientemente de la definición, toda avenida torrencial comparte tres comp
 ```{figure} https://i.pinimg.com/1200x/70/07/4b/70074b59f169e99adf125629a62c7486.jpg
 :name: fig-4470
 :width: 600
+
 escudo
 ```
 
@@ -77,6 +81,7 @@ Los **detonantes** principales (lluvia, sismos, etc.) no siempre causan el flujo
 ```{figure} https://i.pinimg.com/1200x/70/07/4b/70074b59f169e99adf125629a62c7486.jpg
 :name: fig-4470
 :width: 600
+
 escudo
 ```
 
@@ -95,6 +100,7 @@ Un flujo torrencial pierde energía y se detiene principalmente por:
 ```{figure} https://i.pinimg.com/1200x/61/76/45/6176459c6f45d39f3cf5bcff67e9076f.jpg
 :name: fig-3485
 :width: 500
+
 escudo
 ```
 
@@ -107,6 +113,7 @@ La **reología** (el estudio de cómo fluyen los materiales) es clave para difer
 ```{figure} https://i.pinimg.com/1200x/de/85/e2/de85e211be3a7b4ced9cd06ccedcf342.jpg
 :name: fig-4120
 :width: 700
+
 escudo
 ```
 
@@ -117,6 +124,7 @@ La Tabla del artículo de Aristizábal et al. (2020) resume las diferencias clav
 ```{figure} https://i.pinimg.com/736x/15/3d/9a/153d9af7334697548457f20c42c1464e.jpg
 :name: fig-9406
 :width: 700
+
 escudo
 ```
 
@@ -125,6 +133,7 @@ escudo
 ```{figure} https://i.pinimg.com/736x/c9/c3/a5/c9c3a50381332c2e2de7b9e63dc80791.jpg
 :name: fig-8958
 :width: 400
+
 escudo
 ```
 ---
@@ -139,6 +148,7 @@ escudo
 ```{figure} https://i.pinimg.com/736x/7f/1a/00/7f1a00c021716d39ef69f6fd67a4786e.jpg
 :name: fig-2095
 :width: 400
+
 escudo
 ```
 
@@ -155,6 +165,7 @@ Para describir matemáticamente estos flujos, se usan varios modelos:
 ```{figure} https://i.pinimg.com/1200x/58/ad/45/58ad45847d713f041cf494e1f1d6c2ab.jpg
 :name: fig-2040
 :width: 400
+
 escudo
 ```
 
@@ -162,6 +173,7 @@ escudo
 ```{figure} https://i.pinimg.com/1200x/00/a8/97/00a897f9269263100dd73a4b25d9857b.jpg
 :name: fig-6926
 :width: 400
+
 escudo
 ```
 
@@ -169,6 +181,7 @@ escudo
 ```{figure} https://i.pinimg.com/1200x/13/ab/a5/13aba5b9705dff738d2f30616141f667.jpg
 :name: fig-6714
 :width: 400
+
 escudo
 ```
 
@@ -181,6 +194,7 @@ La capacidad de un flujo para transportar bloques gigantescos depende de cómo "
 ```{figure} https://i.pinimg.com/736x/2e/0a/5a/2e0a5ad9841eaf41b7f454c0efedba6a.jpg
 :name: fig-8984
 :width: 600
+
 escudo
 ```
 
@@ -188,6 +202,7 @@ escudo
 ```{figure} https://i.pinimg.com/736x/39/8a/6b/398a6b0c302dcfbc6c4c9ef6303d45bb.jpg
 :name: fig-8490
 :width: 600
+
 escudo
 ```
 
@@ -206,6 +221,7 @@ escudo
 ```{figure} https://i.pinimg.com/1200x/45/0e/4f/450e4f1b2583cf18a6b476f19ea049fb.jpg
 :name: fig-4309
 :width: 500
+
 escudo
 ```
 
@@ -213,6 +229,7 @@ escudo
 ```{figure} https://i.pinimg.com/736x/7e/03/e4/7e03e4ea4834c7747e8e8df7c7b0ba32.jpg
 :name: fig-686
 :width: 800
+
 escudo
 ```
 ---
@@ -220,15 +237,15 @@ escudo
 
 Colombia es extremadamente vulnerable a estos fenmenos debido a su relieve joven y alta pluviosidad.
 
-* **Eventos Emblemticos:** El flujo de detritos de **Mocoa (2017)** es uno de los ms estudiados recientemente, demostrando el poder destructivo de los flujos de escombros en cuencas pequeas.
+* **Eventos Emblemticos:** El flujo de detritos de **Mocoa (2017)** es uno de los más estudiados recientemente, demostrando el poder destructivo de los flujos de escombros en cuencas pequeñas.
 * **Salgar (2015):** Una avenida torrencial en la quebrada La Liboriana cobr decenas de vidas, resaltando la importancia de los sistemas de alerta temprana.
 * **Puebla de Antn:** En el suroccidente del pas, los flujos torrenciales son recurrentes debido a la combinacin de laderas empinadas y cenizas volcnicas inestables.
 
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
 1. **Definiciones:** Segn Aristizbal et al. (2020), cul es la diferencia reolgica fundamental entre una creciente sbita y un flujo de escombros?
 2. **Fenmeno en Cascada:** Describa cmo una lluvia intensa puede desencadenar una avenida torrencial a travs de un 'enjambre de movimientos en masa'.
-3. **Mecanismos de Soporte:** Por qu un flujo de escombros puede transportar bloques de varios metros de dimetro que un ro normal no podra mover? Mencione la boyancia y la fuerza de la matriz.
-4. **Depsitos:** Si encuentra en el campo un depsito no estratificado, con bloques 'flotando' en una matriz fina y sin seleccin, qu tipo de proceso lo origin?
-5. **Disipacin de Energa:** Mencione tres factores que causan que una avenida torrencial se detenga al llegar a la parte baja de la cuenca.
+3. **Mecanismos de Soporte:** Por qué un flujo de escombros puede transportar bloques de varios metros de diámetro que un ro normal no podría mover? Mencione la boyancia y la fuerza de la matriz.
+4. **Depsitos:** Si encuentra en el campo un depósito no estratificado, con bloques 'flotando' en una matriz fina y sin selección, qu tipo de proceso lo origin?
+5. **Disipación de Energía:** Mencione tres factores que causan que una avenida torrencial se detenga al llegar a la parte baja de la cuenca.

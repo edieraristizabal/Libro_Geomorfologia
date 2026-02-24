@@ -4,6 +4,7 @@
 ```{figure} images/ocean_floor.jpeg
 :name: fig-intro
 :width: 800px
+
 ```
 
 **Como referenciar**: Aristizábal Edier. 2025. Libro guía del curso Geomorfología de la Facultad de Minas, Universidad Nacional de Colombia. 

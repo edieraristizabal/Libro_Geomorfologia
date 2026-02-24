@@ -16,6 +16,7 @@ El debate sobre cómo evolucionan las laderas a lo largo del tiempo geológico e
 ```{figure} images/Theories-and-Process-of-Slope-Development.png
 :name: fig-teorias-laderas
 :width: 600px
+
 Teorías y procesos del desarrollo de laderas.
 ```
 

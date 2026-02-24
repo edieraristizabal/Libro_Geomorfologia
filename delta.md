@@ -1,7 +1,7 @@
 (sec-delta)=
 # Geomorfología de Ambientes Deltaicos
 
-Los **deltas** son uno de los ambientes de deposición más importantes y complejos de la Tierra, formados en la interfaz entre un río y un cuerpo de agua estancada (un mar, lago o estuario). Su morfología y estructura están controladas por un delicado balance entre la fuerza del río y la energía del cuerpo receptor (olas, mareas y densidad del agua).
+Los **deltas** son uno de los ambientes de deposición más importantes y complejos de la Tierra, formados en la interfaz entre un río y un cuerpo de agua estancada (un mar, lago o estuario). Su morfología y estructura están controladas por un delicado balance entre la fuerza del río y la energía del cuerpo receptor (olas, maáreas y densidad del agua).
 
 :::{important}
 **Objetivos de aprendizaje:**
@@ -15,7 +15,12 @@ Los **deltas** son uno de los ambientes de deposición más importantes y comple
 ## 1. ¿Qué es un Delta?
 Un delta es un cuerpo de sedimento formado por la **deposición aluvial** de material transportado por un río que desemboca en un cuerpo de agua relativamente estancada. El término se deriva de la forma triangular (similar a la letra griega mayúscula delta, $\Delta$) del delta del Nilo.
 
-   <image src=https://i.pinimg.com/736x/f5/0e/68/f50e68ca70fceeb82fd31650b806df7b.jpg  width="400">
+   
+```{figure} https://i.pinimg.com/736x/f5/0e/68/f50e68ca70fceeb82fd31650b806df7b.jpg
+:width: 400
+
+```
+
 
 ---
 ## 2. Proceso de Formación de un Delta
@@ -26,7 +31,12 @@ La formación de un delta requiere dos condiciones fundamentales:
 
 Cuando el río entra en el cuerpo de agua, su velocidad y turbulencia disminuyen abruptamente, haciendo que su capacidad de transporte colapse. Los sedimentos caen por decantación (suspensión) y se apilan, iniciando la **progradación** (crecimiento) del delta hacia el mar.
 
-   <image src=https://i.pinimg.com/1200x/65/35/0f/65350f6967145979ae46aa74a1935438.jpg  width="600">
+   
+```{figure} https://i.pinimg.com/1200x/65/35/0f/65350f6967145979ae46aa74a1935438.jpg
+:width: 600
+
+```
+
 
 ---
 ## 3. Partes de un Delta (Sección Transversal)
@@ -44,7 +54,12 @@ Un delta activo se construye hacia el cuerpo receptor y exhibe una estructura cl
     * Es la porción subacuática y de menor pendiente, más alejada del canal.
     * Está compuesta por los sedimentos más finos (limo y arcilla) que son transportados en suspensión lejos del frente del delta.
   
-   <image src=https://i.pinimg.com/736x/48/ed/55/48ed559b01775c35a0ab91e39ecdfc13.jpg  width="700">
+   
+```{figure} https://i.pinimg.com/736x/48/ed/55/48ed559b01775c35a0ab91e39ecdfc13.jpg
+:width: 700
+
+```
+
 
 ---
 ## 4. Tipos de Delta (Clasificación Morfológica)
@@ -60,24 +75,29 @@ La morfología de un delta es un reflejo del balance entre el **Río** (fuerza d
 * **Morfología:** La línea de costa es recta y suave. La acción de las olas forma **barras de arena** paralelas a la costa y un frente deltaico más compacto. Tiende a tener una forma **triangular** u ojival.
 * **Ejemplo Clásico:** Delta del Nilo.
 
-### 4.3. Delta Dominado por las Mareas (*Tide-Dominated Delta*)
+### 4.3. Delta Dominado por las Maáreas (*Tide-Dominated Delta*)
 * **Proceso Dominante:** Las fuertes corrientes de marea transportan y reelaboran los sedimentos en dirección paralela y perpendicular a la costa.
 * **Morfología:** El delta tiene forma de **embudo** y está disectado por numerosos canales amplios y rectos (barras de arena y canales orientados perpendicularmente a la costa).
 * **Ejemplo Clásico:** Delta del Ganges/Brahmaputra (Bangladesh).
   
-   <image src=https://i.pinimg.com/1200x/f0/3a/6b/f03a6bf1bb0c3aaa8c9d0a6e9ea4022c.jpg  width="600">
+   
+```{figure} https://i.pinimg.com/1200x/f0/3a/6b/f03a6bf1bb0c3aaa8c9d0a6e9ea4022c.jpg
+:width: 600
+
+```
+
 ---
 ## Sistemas Deltaicos en Colombia
 
 * **Delta del Ro Magdalena:** Es un sistema complejo. Su desembocadura actual (**Bocas de Ceniza**) ha sido modificada por tajamares, pero el sistema incluye el **Canal del Dique**, un brazo distributario que desemboca en la Baha de Cartagena.
-* **Delta del Ro San Juan (Choc):** Es un ejemplo espectacular de un delta dominado por mareas y alta carga de sedimentos en un ambiente de selva hmeda tropical.
+* **Delta del Ro San Juan (Choc):** Es un ejemplo espectacular de un delta dominado por maáreas y alta carga de sedimentos en un ambiente de selva hmeda tropical.
 * **Importancia Ambiental:** Los deltas colombianos albergan extensos bosques de manglar, ecosistemas crticos para la proteccin de la costa y la biodiversidad.
 
 ---
-## Taller de Autoevaluacin
+## Taller de Autoevaluación
 
 1. **Condiciones de Formacin:** Si un mar tiene olas extremadamente fuertes y corrientes constantes que barren la costa, es probable que se forme un delta de tipo 'pata de pjaro'?
 2. **Estructura:** Describa la secuencia de sedimentos que esperara encontrar si perforamos un delta que est progradando (creciendo hacia el mar), desde el prodelta hasta el plano deltaico.
 3. **Clasificacin:** En qu se diferencia visualmente un delta dominado por el ro de uno dominado por las mareas?
-4. **Dinmica:** Qu es la **avulsin** en un delta y por qu es importante para su crecimiento lateral?
-5. **Caso Local:** El Canal del Dique es un 'brazo distributario artificializado'. Qu impacto ha tenido el aumento de su carga de sedimentos en los arrecifes de coral de las islas del Rosario?
+4. **Dinmica:** Qué es la **avulsin** en un delta y por qu es importante para su crecimiento lateral?
+5. **Caso Local:** El Canal del Dique es un 'brazo distributario artificializado'. Qué impacto ha tenido el aumento de su carga de sedimentos en los arrecifes de coral de las islas del Rosario?
