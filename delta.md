@@ -18,9 +18,7 @@ Un delta es un cuerpo de sedimento formado por la **deposición aluvial** de mat
    
 ```{figure} https://i.pinimg.com/736x/f5/0e/68/f50e68ca70fceeb82fd31650b806df7b.jpg
 :width: 400
-
 ```
-
 
 ---
 ## 2. Proceso de Formación de un Delta
@@ -34,9 +32,7 @@ Cuando el río entra en el cuerpo de agua, su velocidad y turbulencia disminuyen
    
 ```{figure} https://i.pinimg.com/1200x/65/35/0f/65350f6967145979ae46aa74a1935438.jpg
 :width: 600
-
 ```
-
 
 ---
 ## 3. Partes de un Delta (Sección Transversal)
@@ -57,9 +53,7 @@ Un delta activo se construye hacia el cuerpo receptor y exhibe una estructura cl
    
 ```{figure} https://i.pinimg.com/736x/48/ed/55/48ed559b01775c35a0ab91e39ecdfc13.jpg
 :width: 700
-
 ```
-
 
 ---
 ## 4. Tipos de Delta (Clasificación Morfológica)
@@ -83,7 +77,6 @@ La morfología de un delta es un reflejo del balance entre el **Río** (fuerza d
    
 ```{figure} https://i.pinimg.com/1200x/f0/3a/6b/f03a6bf1bb0c3aaa8c9d0a6e9ea4022c.jpg
 :width: 600
-
 ```
 
 ---

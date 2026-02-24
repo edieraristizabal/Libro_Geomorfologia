@@ -1,29 +1,28 @@
 (sec-morfotectoúnica)=
-# Morfotectóúnica y geomorfología estructural
+# Morfotectónica y geomorfología estructural
 
-La morfotectóúnica (o tectóúnica geomorfológica) se enfoca en cómo los procesos tectóúnicos activos y a gran escala (levantamiento, subsidencia, deformación) construyen la topografía y cómo podemos usar las formas del paisaje para entender y cuantificar esos procesos.
+La morfotectónica (o tectónica geomorfológica) se enfoca en cómo los procesos tectónicos activos y a gran escala (levantamiento, subsidencia, deformación) construyen la topografía y cómo podemos usar las formas del paisaje para entender y cuantificar esos procesos.
 
 :::{important}
 **Objetivos de aprendizaje:**
-* Diferenciar entre el control estructural pasivo y la morfotectóúnica activa en la formación del relieve.
-* Identificar las geoformas características de diferentes ambientes tectóúnicos (divergentes, convergentes y transformantes).
-* Comprender la relación entre el esfuerzo tectóúnico, la deformación de las rocas y el patrón de drenaje resultante.
-* Analizar ejemplos reales de morfotectóúnica en el territorio colombiano (ej. Fallas de Romeral e Ibagué).
+* Diferenciar entre el control estructural pasivo y la morfotectónica activa en la formación del relieve.
+* Identificar las geoformas características de diferentes ambientes tectónicos (divergentes, convergentes y transformantes).
+* Comprender la relación entre el esfuerzo tectónico, la deformación de las rocas y el patrón de drenaje resultante.
+* Analizar ejemplos reales de morfotectónica en el territorio colombiano (ej. Fallas de Romeral e Ibagué).
 :::
 
 Por otro lado, la geomorfología estructural se enfoca en cómo la estructura geológica preexistente y pasiva (el tipo de roca (litología), su disposición (pliegues) y sus fracturas (fallas, diaclasas)) controla la forma del paisaje a través de la erosión diferencial.
 
-Aunque están íntimamente relacionados y a menudo se superponen, la geomorfología estructural y la morfotectóúnica se diferencian principalmente en su enfoque y escala de análisis. La geomorfología estructural describe cómo la anatomía geológica pasiva controla la forma del relieve, mientras que la morfotectóúnica estudia cómo los procesos tectóúnicos activos construyen ese relieve a gran escala.
+Aunque están íntimamente relacionados y a menudo se superponen, la geomorfología estructural y la morfotectónica se diferencian principalmente en su enfoque y escala de análisis. La geomorfología estructural describe cómo la anatomía geológica pasiva controla la forma del relieve, mientras que la morfotectónica estudia cómo los procesos tectónicos activos construyen ese relieve a gran escala.
 
 ---
-## Paisajes Tectóúnicos al Interior Continental
+## Paisajes Tectónicos al Interior Continental
 
-En las regiones estables del interior de los continentes, lejos de los bordes de placa activos, el relieve está fuertemente controlado por la estructura de la roca y la erosión diferencial. Un cratón es la porción más antigua, estable y rígida de la litosfera continental. Son los núcleos ancestrales de los continentes, formados y estabilizados durante el Precámbrico (hace más de 540 millones de años), y no han sido afectados significativamente por la actividad tectóúnica desde entonces. Un escudo es la región de un cratón donde las rocas del basamento cristalino (rocas ígneas y metamórficas del Precámbrico) están expuestas directamente en la superficie.
+En las regiones estables del interior de los continentes, lejos de los bordes de placa activos, el relieve está fuertemente controlado por la estructura de la roca y la erosión diferencial. Un cratón es la porción más antigua, estable y rígida de la litosfera continental. Son los núcleos ancestrales de los continentes, formados y estabilizados durante el Precámbrico (hace más de 540 millones de años), y no han sido afectados significativamente por la actividad tectónica desde entonces. Un escudo es la región de un cratón donde las rocas del basamento cristalino (rocas ígneas y metamórficas del Precámbrico) están expuestas directamente en la superficie.
 
-Debido a miles de millones de años de erosión, los **escudos** son típicamente áááreas de bajo relieve, como extensas llanuras suavemente onduladas o peneplanicies. Son el "esqueleto" del continente a la vista. Como ejemplos clásicos estan el Escudo Canadiense, el Escudo Báltico en Escandinavia, y aquí en Sudamérica, el Escudo Guayanés y el Escudo Brasileño, que juntos forman el Cratón Amazóúnico.
+Debido a miles de millones de años de erosión, los **escudos** son típicamente áááreas de bajo relieve, como extensas llanuras suavemente onduladas o peneplanicies. Son el "esqueleto" del continente a la vista. Como ejemplos clásicos estan el Escudo Canadiense, el Escudo Báltico en Escandinavia, y aquí en Sudamérica, el Escudo Guayanés y el Escudo Brasileño, que juntos forman el Cratón Amazónico.
 
 Una **plataforma** es la región de un cratón donde el basamento cristalino antiguo está cubierto por una capa relativamente delgada de rocas sedimentarias más jóvenes, depositadas de forma horizontal o con un buzamiento muy suave. Estas rocas sedimentarias se depositaron en mares interiores poco profundos que inundaron el cratón en diferentes momentos del Fanerozoico. La topografía de las plataformas es la que da lugar a los paisajes de mesas, buttes y cuestas que discutimos a continuación.
-
 
 ```{figure} https://i.pinimg.com/736x/12/c3/1e/12c31e4607133bd053867e87f9045726.jpg
 :name: fig-1740
@@ -53,7 +52,6 @@ escudo
 
 Los bordes de los continentes se dividen en dos grandes tipos: pasivos y activos.
 
-
 ```{figure} https://i.pinimg.com/1200x/97/fe/b0/97feb017b2139a8715ddf5496d802788.jpg
 :name: fig-2134
 :width: 600
@@ -78,14 +76,13 @@ escudo
 ### Márgenes Activas: 
 Estos son bordes de placa, donde la interacción directa entre placas genera esfuerzos y crea paisajes muy dinámicos y relieve.
 
-El esfuerzo (σ) es la fuerza aplicada por unidad de área sobre un material. En geología, la fuente de esta fuerza son los movimientos de las placas tectóúnicas. Existen tres tipos principales de esfuerzo que deforman las rocas:
+El esfuerzo (σ) es la fuerza aplicada por unidad de área sobre un material. En geología, la fuente de esta fuerza son los movimientos de las placas tectónicas. Existen tres tipos principales de esfuerzo que deforman las rocas:
 
 * **Esfuerzo Compresivo**: Ocurre cuando las fuerzas convergen sobre un cuerpo rocoso, acortándolo en la dirección del esfuerzo. Dominan fallas inversas.
 
 * **Esfuerzo Tensional (o Extensional)**: Ocurre cuando las fuerzas divergen de un cuerpo rocoso, alargándolo. Dominan fallas normales. 
 
 * **Esfuerzo de Cizalla (o Cortante)**: Ocurre cuando las fuerzas actúan en direcciones paralelas pero opuestas, deslizando un bloque con respecto al otro. Dominan fallas de rumbo.
-
 
 ```{figure} https://i.pinimg.com/1200x/22/a8/21/22a821c27c9b7533a3b5ef94118daa4f.jpg
 :name: fig-3499
@@ -114,7 +111,6 @@ El lenguaje para describir la orientación en el espacio 3D de cualquier estruct
 
 **Buzamiento (Dip)**: Es el ángulo de máxima inclinación del plano, medido hacia abajo desde la horizontal. Siempre es perpendicular al rumbo. El buzamiento se compone de dos partes: El ángulo de inclinación (de 0° a 90°) y la dirección hacia la que el plano se inclina (ej., SE, NW).
 
-
 ```{figure} https://i.pinimg.com/736x/8c/ac/2f/8cac2fb850feb101bab1a6be94083a69.jpg
 :name: fig-2189
 :width: 300
@@ -132,9 +128,7 @@ escudo
 ```{figure} https://i.pinimg.com/736x/bf/9b/50/bf9b5013dbdb9b61d919476d2168c749.jpg
 :name: fig-8256
 :width: 500
-
 ```
-
 
 #### Laderas Estructurales
 La forma de una ladera (su pendiente y aspecto) en relieves de rocas estratificadas está íntimamente ligada a la orientación (rumbo y buzamiento) de esas capas.
@@ -149,7 +143,6 @@ La forma de una ladera (su pendiente y aspecto) en relieves de rocas estratifica
 ```{figure} https://i.pinimg.com/736x/e4/99/4c/e4994cebb30ec14e0d60cf46e864bee7.jpg
 :name: fig-7945
 :width: 400
-
 ```
 
 ### Tipos de Drenaje Controlados por la Estructura
@@ -170,29 +163,24 @@ indican una historia de evolución del paisaje compleja.
 
 * **Drenaje Sobreimpuesto**: Ocurre cuando un río establece su curso sobre una cubierta de rocas horizontales, pero con el tiempo, erosiona y se "encaja" en las rocas plegadas o falladas que había debajo. El río mantiene su patrón original, aunque este no guarde relación con la nueva estructura que está cortando.
 
-* **Drenaje Antecedente** (*Antecedent*): Se refiere a un río que es más antiguo que una estructura tectóúnica que se está levantando (como un anticlinal en crecimiento). Si el río tiene suficiente poder erosivo, puede mantener su curso cortando la estructura a medida que esta se eleva, formando un profundo cañón o cluse. El río "antecede" al levantamiento.
+* **Drenaje Antecedente** (*Antecedent*): Se refiere a un río que es más antiguo que una estructura tectónica que se está levantando (como un anticlinal en crecimiento). Si el río tiene suficiente poder erosivo, puede mantener su curso cortando la estructura a medida que esta se eleva, formando un profundo cañón o cluse. El río "antecede" al levantamiento.
   
 
 ```{figure} https://i.pinimg.com/1200x/65/b8/09/65b80917cb437798d07e9ebd1c9b5786.jpg
 :name: fig-8
 :width: 400
-
 ```
 
 ### Tipos de bordes activos
 
-
 ```{figure} https://i.pinimg.com/1200x/26/88/38/268838c3878c9d24b68e6aaa61aa3eea.jpg
 :name: fig-2023
 :width: 800
-
 ```
-
 
 ```{figure} https://i.pinimg.com/1200x/c0/81/73/c0817380925ad82bb5694feec8029991.jpg
 :name: fig-4401
 :width: 600
-
 ```
 
 #### A. Bordes Divergentes (Rifting)
@@ -200,11 +188,9 @@ Donde las placas se separan, la corteza es estirada y adelgazada.
 
 * **Valle del Rift:** Una gran depresión alargada limitada por fallas normales.
 
-
 ```{figure} https://i.pinimg.com/736x/12/ff/da/12ffda830f6a9568045b71bc0dcad8df.jpg
 :name: fig-4221
 :width: 400
-
 ```
 
 * **Horsts y Grabens:** Bloques elevados (horst) y hundidos (graben) que forman la topografía característica del rift.
@@ -213,23 +199,21 @@ Donde las placas se separan, la corteza es estirada y adelgazada.
 ```{figure} https://i.pinimg.com/736x/fd/84/2d/fd842d864c81d511b328e5aa23323fc4.jpg
 :name: fig-8343
 :width: 400
-
 ```
   
 #### B. Bordes Convergentes (Subducción y Colisión)
-Donde las placas chocan. El paisaje depende del tipo de corteza que colisiona. Un orógeno, o cinturón orogéúnico, es una franja de la corteza continental que ha sido intensamente deformada, plegada y fallada por la colisión de placas tectóúnicas, dando como resultado una cadena montañosa.
+Donde las placas chocan. El paisaje depende del tipo de corteza que colisiona. Un orógeno, o cinturón orogénico, es una franja de la corteza continental que ha sido intensamente deformada, plegada y fallada por la colisión de placas tectónicas, dando como resultado una cadena montañosa.
 
-* **Convergencia Oceáúnica-Oceáúnica:**. Subducción de una placa oceáúnica bajo otra, fusión parcial, volcanismo. Como geoformas se observan las Fosa Oceáúnica profunda, Arco de Islas Volcáúnicas (ej. Japón, Aleutianas), y una Cuenca de Retroarco.
+* **Convergencia Oceánica-Oceánica:**. Subducción de una placa oceánica bajo otra, fusión parcial, volcanismo. Como geoformas se observan las Fosa Oceánica profunda, Arco de Islas Volcánicas (ej. Japón, Aleutianas), y una Cuenca de Retroarco.
 
-* **Convergencia Oceáúnica-Continental:**. Subducción de la placa oceáúnica (más densa) bajo la continental, magmatismo, y acortamiento cortical (plegamiento y fallamiento inverso). Como geoformas se encuentran Prisma de Acreción (sedimentos raspados de la placa que subduce), Arco Volcáúnico Continental (una cordillera de volcanes, como los Andes), y una Cuenca de Antearco (*forearc basin*).
+* **Convergencia Oceánica-Continental:**. Subducción de la placa oceánica (más densa) bajo la continental, magmatismo, y acortamiento cortical (plegamiento y fallamiento inverso). Como geoformas se encuentran Prisma de Acreción (sedimentos raspados de la placa que subduce), Arco Volcánico Continental (una cordillera de volcanes, como los Andes), y una Cuenca de Antearco (*forearc basin*).
 
-* **Convergencia Continental-Continental:**. Como ninguna placa puede subducir fácilmente, se produce una colisión con intenso acortamiento, engrosamiento cortical y fallamiento inverso (cabalgamientos). No hay volcanismo significativo. Las geoformas son Cadenas montañosas no volcáúnicas de gran altitud (ej. Himalayas), extensas mesetas o plateaux detrás de la cordillera principal (ej. Meseta del Tíbet), y zonas de sutura (la "cicatriz" donde los continentes se unieron).
+* **Convergencia Continental-Continental:**. Como ninguna placa puede subducir fácilmente, se produce una colisión con intenso acortamiento, engrosamiento cortical y fallamiento inverso (cabalgamientos). No hay volcanismo significativo. Las geoformas son Cadenas montañosas no volcánicas de gran altitud (ej. Himalayas), extensas mesetas o plateaux detrás de la cordillera principal (ej. Meseta del Tíbet), y zonas de sutura (la "cicatriz" donde los continentes se unieron).
   
 
 ```{figure} https://i.pinimg.com/1200x/03/26/dc/0326dc875b7e1d2c2f948ec32159d9dc.jpg
 :name: fig-6007
 :width: 600
-
 ```
 
 #### C. Bordes de Rumbo o Transformantes
@@ -242,22 +226,18 @@ Donde las placas se deslizan lateralmente una junto a la otra con fallamiento de
 * **Lomo de Presión** (*Pressure Ridge*). es una colina o cordillera alargada que se forma directamente sobre la zona de compresión. El material apilado y levantado crea una cresta topográfica que a menudo está orientada de forma oblicua con respecto al trazo principal de la falla.
 * **Boquerón (Fault Saddle)**. Un sillín es una geoforma sutil. Se refiere a una depresión o punto bajo a lo largo de una cresta que está siendo cortada por la falla. La falla tritura y debilita la roca a su paso. La erosión (fluvial o de laderas) actúa de forma mucho más eficiente sobre esta roca debilitada, excavando una muesca, collado o "sillín" en la cresta. Es una geoforma erosional guiada por la estructura.
 
-
 ```{figure} https://i.pinimg.com/1200x/c6/b8/ed/c6b8ed810d03e78b44f7a74574253370.jpg
 :name: fig-6897
 :width: 600
-
 ```
 
 ### Paisajes plegados
 
-El paisaje plegado es el resultado de la erosión diferencial actuando sobre una serie de rocas sedimentarias que han sido comprimidas y deformadas en pliegues (anticlinales y sinclinales) por esfuerzos tectóúnicos. La topografía resultante no es el pliegue en sí, sino lo que la erosión ha esculpido a partir de él.
-
+El paisaje plegado es el resultado de la erosión diferencial actuando sobre una serie de rocas sedimentarias que han sido comprimidas y deformadas en pliegues (anticlinales y sinclinales) por esfuerzos tectónicos. La topografía resultante no es el pliegue en sí, sino lo que la erosión ha esculpido a partir de él.
 
 ```{figure} https://i.pinimg.com/736x/09/45/e2/0945e2a00395e4053ce41fe9d7c05ae4.jpg
 :name: fig-5590
 :width: 600
-
 ```
 
 * **Monte Anticlinal**: El anticlinal (pliegue en forma de A ∩) forma una montaña o una cresta elevada, ya que su capa superior resistente aún no ha sido significativamente erosionada.
@@ -277,13 +257,11 @@ Este estilo, nombrado por las Montañas del Jura en Europa, representa una etapa
 
 * **Cret**: se refiere a la cresta alargada y asimétrica formada por una capa de roca dura y resistente que ha sido inclinada por el plegamiento y expuesta por la erosión. Esencialmente, un crêt es la geoforma que da lugar a una cuesta (si el buzamiento es suave) o a un hogback (si el buzamiento es fuerte). Su perfil es característico: es de na ladera muy empinada (anaclinal o "frente") donde la erosión ha cortado a través de los estratos. Una ladera más suave (cataclinal o "reverso") que sigue la superficie de la capa resistente inclinada.
 
-* **Mont**: se traduce como "monte derivado". Se refiere a una cresta o montaña que no es el resultado directo de la estructura primaria del plegamiento (como el mont anticlinal original), sino que es una forma "derivada" de la erosión diferencial. En muchos casos el mont dérivé y el crêt son prácticamente la misma geoforma. El término mont dérivé enfatiza que esta montaña existe úúnicamente porque la erosión ha eliminado las rocas blandas que la rodeaban, "derivando" su forma de la estructura resistente que ha quedado expuesta.
-
+* **Mont**: se traduce como "monte derivado". Se refiere a una cresta o montaña que no es el resultado directo de la estructura primaria del plegamiento (como el mont anticlinal original), sino que es una forma "derivada" de la erosión diferencial. En muchos casos el mont dérivé y el crêt son prácticamente la misma geoforma. El término mont dérivé enfatiza que esta montaña existe únicamente porque la erosión ha eliminado las rocas blandas que la rodeaban, "derivando" su forma de la estructura resistente que ha quedado expuesta.
 
 ```{figure} https://i.pinimg.com/1200x/66/63/ac/6663acfcb9d6f4c7c4b967972cfd3643.jpg
 :name: fig-4381
 :width: 600
-
 ```
 
 #### El Paisaje Apalachense (Relieve Invertido)
@@ -295,12 +273,9 @@ La erosión ha actuado durante un largo periodo. La parte superior de los anticl
 
 * **Cresta Sinclinal** (o Sinclinal Colgado): Lo que era un valle sinclinal se ha convertido en una cresta o montaña. Esto ocurre porque las capas resistentes del sinclinal, al estar en una posición estructuralmente baja y comprimida, han resistido mejor la erosión generalizada que afectó a los anticlinales circundantes.
 
-
-
 ```{figure} https://i.pinimg.com/1200x/fa/ed/61/faed6136aab7451db607756da0717027.jpg
 :name: fig-1479
 :width: 600
-
 ```
 
 ### Isostacia
@@ -309,18 +284,16 @@ la isostasia es el principio de flotación aplicado a la corteza terrestre. Sost
 
 Corteza Continental (un promedio de 35-40 km): Está compuesta principalmente por rocas graníticas. Es menos densa (aproximadamente 2.7 g/cm³). Piensa en ella como un bloque de madera.
 
-Corteza Oceáúnica (un promedio de 7-10 km): Está compuesta por basalto. Es más densa (aproximadamente 3.0 g/cm³). Piensa en ella como un bloque de un plástico pesado.
-
+Corteza Oceánica (un promedio de 7-10 km): Está compuesta por basalto. Es más densa (aproximadamente 3.0 g/cm³). Piensa en ella como un bloque de un plástico pesado.
 
 ```{figure} https://i.pinimg.com/1200x/6a/9d/2f/6a9d2f76427ba1fe4650880540aed4d4.jpg
 :name: fig-4102
 :width: 300
-
 ```
 
 El principio de Arquímedes, que es la base de la isostasia, nos dice que un objeto flotante desplaza un volumen de fluido equivalente a su peso. Para que un bloque grueso y ligero (continente) esté en equilibrio, necesita hundirse profundamente en el manto para desplazar suficiente material (creando una "raíz"), pero por su gran grosor total, una porción significativa también queda expuesta por encima: la elevación continental.
 
-Por el contrario, un bloque delgado y denso (corteza oceáúnica) no necesita hundirse tanto para alcanzar el equilibrio, y al ser tan delgado, su superficie queda a una elevación mucho menor.
+Por el contrario, un bloque delgado y denso (corteza oceánica) no necesita hundirse tanto para alcanzar el equilibrio, y al ser tan delgado, su superficie queda a una elevación mucho menor.
 
 El ajuste isostático es el proceso mediante el cual la litosfera se hunde o se eleva para recuperar el equilibrio isostático después de que se ha añadido o eliminado una carga (masa) en la superficie. Es la respuesta dinámica del planeta para volver a su estado de flotación preferido.
 
@@ -328,11 +301,9 @@ Un ejemplo clásico de ajuste isostático es el rebote postglacial. Durante las 
 
 Otro ejemplo es la erosión de cadenas montañosas. Este proceso ocurre en escalas de tiempo mucho más largas. Cuando se forma una cordillera, la corteza se engrosa y, para soportar la enorme masa de las montañas, desarrolla una "raíz" profunda que se hunde en el manto. Durante millones de años, los ríos, glaciares y deslizamientos erosionan las cimas de las montañas, transportando y eliminando miles de millones de toneladas de roca. A medida que se elimina masa de la superficie, la cordillera se vuelve más "ligera". Para mantener el equilibrio, toda la placa litosférica se eleva isostáticamente. Este proceso es fundamental porque explica cómo rocas que se formaron a grandes profundidades (como los granitos y las rocas metamórficas) pueden llegar a estar expuestas en la cima de las montañas.
 
-
 ```{figure} https://i.pinimg.com/736x/97/8e/be/978ebe7d7b7674e02f408304636ddd1c.jpg
 :name: fig-3439
 :width: 500
-
 ```
 ---
 ## Morfotectúnica en Colombia: Un Laboratorio Vivo

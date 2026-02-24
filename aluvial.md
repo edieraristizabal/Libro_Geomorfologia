@@ -2,11 +2,7 @@
 
 # Geomorfología de Ambientes Fluviales
 
-
-
 Este documento aborda los conceptos y procesos fundamentales que rigen la dinámica de los ríos, su clasificación morfológica y las geoformas resultantes, esenciales para la interpretación del paisaje.
-
-
 
 :::{important}
 
@@ -22,23 +18,15 @@ Este documento aborda los conceptos y procesos fundamentales que rigen la dinám
 
 :::
 
-
-
 ---
 
 ## 1. La Balanza de Lane
 
 La **Balanza de Lane** (o Ley de Lane) es un principio fundamental que describe el estado de **equilibrio dinámico** de un sistema fluvial. Postula que un río buscará mantener un equilibrio entre el **transporte de sedimentos** y el **poder de transporte** del flujo.
 
-
-
 La relación se expresa conceptualmente como:
 
-
-
 $$Q_s \cdot D \propto Q \cdot S$$
-
-
 
 Donde:
 
@@ -50,11 +38,7 @@ Donde:
 
 * $S$ (**Pendiente del Canal**): La energía potencial disponible para el flujo.
 
-
-
 Si el equilibrio se rompe (ej. si la carga de sedimento, $Q_s$, aumenta o la pendiente, $S$, disminuye), el río buscará restablecer el equilibrio ajustando sus variables (pendientes, patrón de canal o profundidad).
-
-
 
 ```{figure} https://i.pinimg.com/736x/c4/74/2e/c4742e421874f6f3d2ecd59ae07d71b6.jpg
 :name: fig-balanza-lane
@@ -63,15 +47,11 @@ Si el equilibrio se rompe (ej. si la carga de sedimento, $Q_s$, aumenta o la pen
 Balanza de Lane: equilibrio dinámico entre caudal, pendiente y carga de sedimentos.
 ```
 
-
-
 ---
 
 ## 2. Tipos de Canales Fluviales
 
 La morfología del canal es una respuesta al caudal, la carga de sedimentos y la estabilidad de las márgenes.
-
-
 
 ### Canal Meándrico
 
@@ -81,15 +61,11 @@ La morfología del canal es una respuesta al caudal, la carga de sedimentos y la
 
 * **Proceso Clave:** Erosión en la margen exterior (corte) y deposición en la margen interior (barra de meandro).
 
-
-
 ### Canal Recto
 
 * **Características:** Son extremadamente raros en la naturaleza, ya que cualquier irregularidad genera meandros.
 
 * **Condiciones:** Se encuentran en canales de drenaje cortos, pendientes muy altas, o bajo control estructural (fallas, diaclasas). Incluso los canales que parecen rectos a escala de mapa suelen tener sinuosidad a escala de detalle.
-
-
 
 ### Canal Trenzado (*Braided*)
 
@@ -97,16 +73,9 @@ La morfología del canal es una respuesta al caudal, la carga de sedimentos y la
 
 * **Condiciones:** Se encuentran en ríos que transportan una **carga de fondo muy alta** (principalmente gravas y arenas gruesas) y tienen un caudal **muy variable**. Sus márgenes son inestables (materiales no cohesivos).
 
-
-
-
 ```{figure} https://i.pinimg.com/1200x/a4/e7/fd/a4e7fd07924f8d63cba03e7537063054.jpg
 :width: 700
-
 ```
-
-
-
 
 ---
 
@@ -114,16 +83,9 @@ La morfología del canal es una respuesta al caudal, la carga de sedimentos y la
 
 Los depósitos aluviales son aquellos sedimentos transportados y depositados por el agua de un río.
 
-
-
-
 ```{figure} https://i.pinimg.com/1200x/53/44/53/534453e6dcf5a20ade53d4b36e609d0a.jpg
 :width: 700
-
 ```
-
-
-
 
 * **Estructuras de Sedimentación:**
 
@@ -145,17 +107,11 @@ Los depósitos aluviales son aquellos sedimentos transportados y depositados por
 
     * **Lodos de Cubeta de Inundación (*Flood Basin Fines*):** Sedimentos muy finos (limos y arcillas) depositados por suspensión en las áááreas más alejadas del canal durante las crecidas.
 
-
-
-
-
 ---
 
 ## 4. Geoformas de la Llanura de Inundación
 
 La **llanura de inundación** es la superficie de bajo relieve adyacente al canal, construida por la deposición de sedimentos durante las crecidas.
-
-
 
 * **Dique Natural (*Levee*):** Crestas topográficas ligeramente elevadas que se forman inmediatamente adyacentes al canal. Se construyen por la deposición de sedimentos más gruesos y pesados que caen rápidamente cuando el río se desborda y pierde velocidad.
 
@@ -169,14 +125,9 @@ La **llanura de inundación** es la superficie de bajo relieve adyacente al cana
 
   
 
-
 ```{figure} https://i.pinimg.com/1200x/2a/21/73/2a21736658bb6b4698f7b53294b376a4.jpg
 :width: 700
-
 ```
-
-
-
 
 ---
 
@@ -184,26 +135,19 @@ La **llanura de inundación** es la superficie de bajo relieve adyacente al cana
 
 Las **terrazas fluviales** son antiguos niveles de llanura de inundación que han sido abandonados por el río y se encuentran elevados sobre el nivel actual del canal. Indican cambios en el régimen del río (agradación o degradación) o cambios en el nivel de base.
 
-
-
 * **Terrazas Degradacionales (Erosivas):** Se forman cuando el río **incide** (corta hacia abajo) en un depósito aluvial preexistente. La terraza está formada por roca madre o aluvión antiguo. Indican un predominio de la erosión vertical.
 
 * **Terrazas Agradacionales (Deposicionales):** Se forman cuando el río primero **deposita** un gran volumen de sedimento (agradación) y luego **incide** en ese depósito. La terraza está completamente formada por el material aluvial depositado. Indican un predominio de la acumulación de sedimentos.
 
-* **Terrazas Apareadas (*Paired*):** Las terrazas se encuentran a la misma elevación en ambos lados del valle. Generalmente indican un cambio rápido y vertical en el nivel de base (ej. levantamiento tectóúnico, descenso del nivel del mar).
+* **Terrazas Apareadas (*Paired*):** Las terrazas se encuentran a la misma elevación en ambos lados del valle. Generalmente indican un cambio rápido y vertical en el nivel de base (ej. levantamiento tectónico, descenso del nivel del mar).
 
 * **Terrazas No Apareadas (*Unpaired*):** Las terrazas no se encuentran a la misma elevación en los lados opuestos. Generalmente indican una incisión lenta combinada con una migración lateral constante del río.
 
   
 
-
 ```{figure} https://i.pinimg.com/1200x/fc/b6/34/fcb634072f1cf232c27220bb0db3b58f.jpg
 :width: 700
-
 ```
-
-
-
 
 ---
 
@@ -211,42 +155,29 @@ Las **terrazas fluviales** son antiguos niveles de llanura de inundación que ha
 
 Un **abaúnico aluvial** es una geoforma de deposición de bajo gradiente, con forma de cono que irradia desde un punto de salida confinado (usualmente la boca de un valle de montaña) hacia una llanura adyacente.
 
-
-
 * **Proceso:** Se forman donde un río experimenta una **disminución súbita y drástica de la pendiente y la confinación lateral**. Al salir del valle estrecho, la energía del flujo se dispersa rápidamente, obligando al río a depositar su carga de sedimento, especialmente en el **ápice** (la parte más cercana a la montaña).
 
 * **Morfología:** El canal es generalmente **trenzado** (*braided*) e inestable en el abaúnico.
 
 * **Depósitos:** Son extremadamente **gruesos y mal seleccionados** (debido a la mezcla de flujos de agua y flujos de detritos), lo que los convierte en zonas de alto riesgo geomorfológico.
 
-
-
-
 ```{figure} https://i.pinimg.com/736x/8a/05/d7/8a05d7927144aa8b16bf7e96bb2e3e3f.jpg
 :width: 700
-
 ```
-
 
 ---
 
 ## Ríos y Abaúnicos en Colombia
 
-
-
 * **Río Magdalena:** Es un sistema meándrico-trenzado complejo con una llanura de inundación inmensa poblada por ciénagas (cubetas de inundación).
 
 * **Abaúnicos Aluviales del Piedemonte Llanero:** Son algunos de los abaúnicos más extensos del mundo, formados por la salida de los ríos andinos hacia la Orinoquía.
 
-* **Río Cauca:** En su curso medio, presenta terrazas fluviales apareadas y no apareadas que registran el levantamiento tectóúnico de los Andes.
-
-
+* **Río Cauca:** En su curso medio, presenta terrazas fluviales apareadas y no apareadas que registran el levantamiento tectónico de los Andes.
 
 ---
 
 ## Taller de Autoevaluación
-
-
 
 1. **Balanza de Lane:** Si se construye una represa que captura todo el sedimento aguas arriba pero deja pasar el agua, ¿cómo reaccionará el río aguas abajo según la Ley de Lane?
 

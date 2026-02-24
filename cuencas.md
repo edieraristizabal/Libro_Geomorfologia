@@ -15,20 +15,16 @@ Este documento explora la cuenca hidrográfica como la unidad fundamental del pa
 ## 1. ¿Qué es una Cuenca Hidrográfica?
 Una **cuenca hidrográfica** es la unidad geomorfológica fundamental. Se define como la superficie total de terreno que drena el agua de la precipitación hacia un punto común de salida (llamado *outlet*), que puede ser un río, un lago o el mar.
 
-
 ```{figure} https://i.pinimg.com/736x/48/a7/4b/48a74b7df6e5629486c66003d392e9b8.jpg
 :name: fig-2982
 :width: 200
-
 ```
 
 El límite de la cuenca está definido por la **divisoria de aguas** (o *watershed divide*), una línea imaginaria que sigue las cimas y crestas topográficas y separa los flujos de agua que van en direcciones opuestas.
 
-
 ```{figure} https://i.pinimg.com/736x/e1/5d/da/e15dda02972d286bebc4ad290c87cb61.jpg
 :name: fig-341
 :width: 400
-
 ```
 
 ---
@@ -45,18 +41,14 @@ Una cuenca se zonifica longitudinalmente en tres partes, cada una dominada por d
     * **Características:** Pendientes muy bajas, valles amplios, ríos meándricos, llanuras de inundación extensas.
     * **Procesos:** Baja energía. Domina la **deposición** de sedimentos. Formación de deltas en la desembocadura.
 
-
 ```{figure} https://i.pinimg.com/1200x/09/2d/76/092d76f16db55d44623e185d459c9396.jpg
 :name: fig-1370
 :width: 600
-
 ```
-
 
 ```{figure} https://i.pinimg.com/736x/8a/dd/67/8add6778eb2beae51c8ad0e88a1c10ae.jpg
 :name: fig-786
 :width: 600
-
 ```
 
 ---
@@ -70,11 +62,9 @@ Es un método para clasificar la jerarquía de la red de drenaje, lo cual es un 
 
 El orden de la cuenca se define por el orden del río en su desembocadura.
 
-
 ```{figure} https://i.pinimg.com/736x/f0/cc/09/f0cc09fb205fdb24a71aa2772af339b1.jpg
 :name: fig-4519
 :width: 400
-
 ```
 
 ---
@@ -89,7 +79,6 @@ A medida que el río avanza por las partes de la cuenca, sus características ca
 ```{figure} https://i.pinimg.com/736x/0f/2c/7e/0f2c7e75a1d34441f4e567b40d81582c.jpg
 :name: fig-5466
 :width: 400
-
 ```
 
 ---
@@ -113,7 +102,6 @@ Donde:
 ```{figure} https://i.pinimg.com/1200x/31/6a/93/316a93232c0b102947cdf0bb5c99f630.jpg
 :name: fig-8332
 :width: 300
-
 ```
 
 ---
@@ -132,7 +120,6 @@ Cuando llueve, el agua sigue varias rutas antes de llegar al canal:
 ```{figure} https://i.pinimg.com/736x/9a/5a/dc/9a5adcaebff1ed6dd88495cf94d1581a.jpg
 :name: fig-8307
 :width: 700
-
 ```
 
 ---
@@ -170,7 +157,6 @@ El hidrograma (gráfico de caudal vs. tiempo) muestra dos componentes:
 ```{figure} https://i.pinimg.com/736x/db/d6/58/dbd658e9049f882148da51be58eb5aa2.jpg
 :name: fig-3295
 :width: 600
-
 ```
 
 ---
@@ -185,7 +171,6 @@ El hidrograma (gráfico de caudal vs. tiempo) muestra dos componentes:
 ```{figure} https://i.pinimg.com/1200x/5b/b7/46/5bb746ebf650e27663fd8e64b25ea642.jpg
 :name: fig-382
 :width: 400
-
 ```
 
 ---
@@ -205,11 +190,9 @@ La urbanización (impermeabilización de suelos con concreto y asfalto) altera d
 **Efecto en los Periodos de Retorno:**
 La urbanización **aumenta la magnitud del caudal pico para un mismo periodo de retorno**. Por ejemplo, una tormenta que antes (sin urbanizar) causaba una inundación con periodo de retorno de 10 años, ahora (urbanizada) puede causar un caudal pico que antes solo se veía cada 50 o 100 años. El sistema se vuelve mucho más propenso a inundaciones frecuentes y severas.
 
-
 ```{figure} https://i.pinimg.com/736x/b8/a9/60/b8a9603575787606d8caff50ed0deb49.jpg
 :name: fig-7885
 :width: 700
-
 ```
 ---
 ## Cuencas Hidrogrficas en Colombia

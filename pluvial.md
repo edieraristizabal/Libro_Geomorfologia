@@ -22,7 +22,6 @@ La erosión hídrica en laderas es uno de los procesos de denudación más activ
 ```{figure} https://i.pinimg.com/736x/1f/93/f7/1f93f7c9afd104d55df231c097c4f3bd.jpg
 :name: fig-1615
 :width: 400
-
 ```
   
 
@@ -35,12 +34,9 @@ La capacidad de un agente (agua o viento) para erosionar y transportar partícul
 * **Transporte:** Una vez que una partícula está en movimiento (en suspensión o saltación), se necesita menos velocidad para mantenerla en transporte.
 * **Deposición:** Ocurre cuando la velocidad del fluido cae por debajo del umbral crítico para un tamaño de partícula dado, y la gravedad supera a la fuerza de transporte.
 
-
-
 ```{figure} https://i.pinimg.com/1200x/6b/c4/06/6bc4066fe7c388806f537f45bfa6fa00.jpg
 :name: fig-725
 :width: 400
-
 ```
 
 ---
@@ -51,11 +47,9 @@ La erosión se clasifica según el agente geomorfológico dominante:
 * **Erosión Eólica:** Causada por el viento.
 * **Erosión Glacial:** Causada por el hielo en movimiento.
 
-
 ```{figure} https://i.pinimg.com/1200x/be/82/ac/be82ac4587c1c84d2579d0d238c7f40f.jpg
 :name: fig-4806
 :width: 600
-
 ```
 
 ---
@@ -74,7 +68,6 @@ Es la erosión causada por el impacto directo de las gotas de lluvia y el escurr
 ```{figure} https://i.pinimg.com/736x/f4/aa/a0/f4aaa0c5bf2fe78e0dd6c70ab554aa70.jpg
 :name: fig-5030
 :width: 500
-
 ```
 
 ---
@@ -82,11 +75,9 @@ Es la erosión causada por el impacto directo de las gotas de lluvia y el escurr
 
 La erosión pluvial en laderas sigue una progresión clara desde la desagregación inicial hasta la incisión profunda, a medida que el flujo de agua se concentra.
 
-
 ```{figure} https://i.pinimg.com/1200x/c0/a7/7d/c0a77da37970cc72ae4ffa433d90b318.jpg
 :name: fig-8142
 :width: 400
-
 ```
 
 ### Erosión por Gota de Lluvia (Splash)
@@ -95,15 +86,13 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 ```{figure} https://i.pinimg.com/736x/e5/de/83/e5de83df0ffbcfc616e14e1a2bbeeff5.jpg
 :name: fig-3429
 :width: 400
-
 ```
 
-* **Geoforma Resultante (Estoraques o Chimeneas de Hadas):** Son geoformas residuales espectaculares. Se forman cuando un bloque de roca resistente (o suelo cementado) actúa como una "sombrilla" protectora. La erosión por *splash* y laminar elimina el material más blando circundante (a menudo cenizas volcáúnicas o suelos poco consolidados), dejando un pilar protegido por la roca en la cima.
+* **Geoforma Resultante (Estoraques o Chimeneas de Hadas):** Son geoformas residuales espectaculares. Se forman cuando un bloque de roca resistente (o suelo cementado) actúa como una "sombrilla" protectora. La erosión por *splash* y laminar elimina el material más blando circundante (a menudo cenizas volcánicas o suelos poco consolidados), dejando un pilar protegido por la roca en la cima.
   
 ```{figure} https://i.pinimg.com/736x/b5/e0/97/b5e0977d17bb8140e701080e03c58e3f.jpg
 :name: fig-4902
 :width: 400
-
 ```
 
 ### Erosión Laminar (Sheet Erosion)
@@ -113,7 +102,6 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 ```{figure} https://i.pinimg.com/736x/6e/8f/d2/6e8fd269f275845dd989a3bfda92cdc7.jpg
 :name: fig-9670
 :width: 300
-
 ```
 
 ### Erosión en Surcos (Rills)
@@ -124,7 +112,6 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 ```{figure} https://i.pinimg.com/736x/2d/e1/12/2de112979c52042c4f48608a8e24f08f.jpg
 :name: fig-9852
 :width: 300
-
 ```
 
 ### Erosión en Cárcavas (Gullies)
@@ -135,14 +122,12 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 ```{figure} https://i.pinimg.com/1200x/1b/2a/c2/1b2ac28d6292c318b3b90a59da660254.jpg
 :name: fig-8530
 :width: 500
-
 ```
 
   
 ```{figure} https://i.pinimg.com/736x/30/7e/f0/307ef09219b0b3a848f13e6695e38392.jpg
 :name: fig-1302
 :width: 300
-
 ```
 
 ---
@@ -150,19 +135,17 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 
 Se centran en disipar la energía del agua y promover la infiltración:
 * **Control Biológico:** Reforestación, pasturas, cultivos de contorno (siguiendo las curvas de nivel), cobertura vegetal (mulch).
-* **Control Mecáúnico:** Construcción de terrazas, zanjas de infiltración (para cortar la longitud de la ladera), y trinchos (check dams) dentro de las cárcavas para reducir la pendiente y la velocidad del flujo.
+* **Control Mecánico:** Construcción de terrazas, zanjas de infiltración (para cortar la longitud de la ladera), y trinchos (check dams) dentro de las cárcavas para reducir la pendiente y la velocidad del flujo.
   
 ```{figure} https://i.pinimg.com/1200x/72/ef/39/72ef392bf387250875070b317a005201.jpg
 :name: fig-8277
 :width: 400
-
 ```
 
   
 ```{figure} https://i.pinimg.com/1200x/dc/dd/d4/dcddd4da37057c8d598f5075fe47e3af.jpg
 :name: fig-5533
 :width: 400
-
 ```
 
 ---
@@ -175,7 +158,7 @@ Se centran en disipar la energía del agua y promover la infiltración:
 ---
 ## Taller de Autoevaluación
 
-1. **Splash:** Qué papel juega la energía cinética de la gota de lluvia en el proceso de erosión? Cómo ayuda el dosel de los áárboles a reducir este efecto?
+1. **Splash:** Qué papel juega la energía cinética de la gota de lluvia en el proceso de erosión? Cómo ayuda el dosel de los ááárboles a reducir este efecto?
 2. **Curva de Hjulström:** Por qué las arcillas requieren una velocidad de flujo mayor que las arenas para ser erosionadas (desprendidas), a pesar de ser mucho más pequeñas?
 3. **Evolucin de Geoformas:** Describa la progresión de la erosión hídrica en laderas, desde el impacto de la gota hasta la formación de una cárcava.
 4. **Erosión Remontante:** Explique el mecanismo por el cual una cárcava crece pendiente arriba.

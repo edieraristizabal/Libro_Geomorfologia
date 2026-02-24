@@ -25,13 +25,11 @@ Este documento presenta los conceptos fundamentales de la meteorización abarcan
 ---
 La meteorización es la alteración *in situ* de las rocas y minerales en la superficie de la Tierra (o cerca de ella) en respuesta a las condiciones físicas, químicas y biológicas. De acuerdo con Anon (1995) es la desintegración (física) y descomposición (química) de la roca en su lugar de origen, sin un transporte significativo del material resultante. La susceptibilidad de la roca a procesos de meteorización química es función de la mineralogía, textura y presencia de fracturas, aumentando con el tamaño del grano, el incremento de la porosidad y la permeabilidad, sin embargo el control dominante en el modo de meteorización es la lluvia y la temperatura, al igual que el rápido cambio de dichas variables durante el día (Ollier, 1984). Es por esto que masas rocosas en ambientes tropicales húmedos se caracterizan por la generación de profundos perfiles de meteorización.
 
-La causa fundamental es el desequilibrio termodinámico. Las rocas, especialmente las ígneas y metamórficas, se forman a altas temperaturas y presiones en el interior de la Tierra, donde son estables. Cuando el levantamiento tectóúnico y la erosión las exponen en la superficie, se encuentran en un ambiente radicalmente diferente (baja T°, baja P°, alta O₂, alta H₂O). En estas nuevas condiciones, sus minerales constituyentes son inestables y reaccionan químicamente para alcanzar un nuevo estado de equilibrio, transformándose en minerales más estables en la superficie (como las arcillas).
-
+La causa fundamental es el desequilibrio termodinámico. Las rocas, especialmente las ígneas y metamórficas, se forman a altas temperaturas y presiones en el interior de la Tierra, donde son estables. Cuando el levantamiento tectónico y la erosión las exponen en la superficie, se encuentran en un ambiente radicalmente diferente (baja T°, baja P°, alta O₂, alta H₂O). En estas nuevas condiciones, sus minerales constituyentes son inestables y reaccionan químicamente para alcanzar un nuevo estado de equilibrio, transformándose en minerales más estables en la superficie (como las arcillas).
 
 ```{figure} https://i.pinimg.com/736x/8c/de/08/8cde087a06b6c96ca3b058c842f5881d.jpg
 :name: fig-1015
 :width: 600
-
 ```
 
 ## El Ciclo del Carbono y la Meteorización de Silicatos
@@ -39,31 +37,31 @@ La relación entre el CO₂, la meteorización y el cambio climático es un sist
 
 El ciclo geológico del carbono opera en escalas de tiempo de cientos de miles a millones de años y es el principal mecanismo de control del CO₂ atmosférico y, por lo tanto, de la temperatura global en estas escalas. La meteorización de rocas de silicato es el componente clave que extrae CO₂ de la atmósfera.
 
-* **Captura de CO₂**: El dióxido de carbono (CO₂) de la atmósfera se disuelve en el agua de lluvia para formar ácido carbóúnico (H₂CO₃), una reacción que se puede simplificar como: 
+* **Captura de CO₂**: El dióxido de carbono (CO₂) de la atmósfera se disuelve en el agua de lluvia para formar ácido carbónico (H₂CO₃), una reacción que se puede simplificar como: 
   
   $CO₂ + H₂O \leftrightarrow H₂CO₃$.
   
-* **Meteorización Química**: Este ácido carbóúnico ataca y disuelve los minerales de silicato, un proceso conocido como hidrólisis. Un ejemplo clásico es la meteorización del feldespato potásico (silicato):
+* **Meteorización Química**: Este ácido carbónico ataca y disuelve los minerales de silicato, un proceso conocido como hidrólisis. Un ejemplo clásico es la meteorización del feldespato potásico (silicato):
   
-  $2KAlSi₃O₈ + 2H₂CO₃ + 9H₂O \rightarrow Al₂Si₂O₅(OH)₄ + 2K⁺ + 2HCO₃⁻ + 4H₄SiO₄$(Feldespato + Ácido carbóúnico + Agua $\rightarrow$ Arcilla + Iones de potasio + Bicarbonato + Ácido silícico)
+  $2KAlSi₃O₈ + 2H₂CO₃ + 9H₂O \rightarrow Al₂Si₂O₅(OH)₄ + 2K⁺ + 2HCO₃⁻ + 4H₄SiO₄$(Feldespato + Ácido carbónico + Agua $\rightarrow$ Arcilla + Iones de potasio + Bicarbonato + Ácido silícico)
   
-  Durante esta reacción, dos moléculas de ácido carbóúnico (y por lo tanto, dos moléculas de CO₂) se consumen por cada molécula de feldespato que se altera. Los iones resultantes, como el bicarbonato ($HCO₃⁻$) y los cationes ($K⁺, Ca²⁺, Mg²⁺$), son transportados por los ríos al océano.
+  Durante esta reacción, dos moléculas de ácido carbónico (y por lo tanto, dos moléculas de CO₂) se consumen por cada molécula de feldespato que se altera. Los iones resultantes, como el bicarbonato ($HCO₃⁻$) y los cationes ($K⁺, Ca²⁺, Mg²⁺$), son transportados por los ríos al océano.
   
 * **Formación de Carbonatos**: En el océano, los organismos marinos utilizan los iones de calcio ($Ca²⁺$) y bicarbonato ($HCO₃⁻$) para construir sus esqueletos y conchas de carbonato de calcio ($CaCO₃$), por ejemplo:
   
   $Ca²⁺ + 2HCO₃⁻ \rightarrow CaCO₃ + CO₂ + H₂O$(Iones de calcio + Bicarbonato $\rightarrow$ Carbonato de calcio + Dióxido de carbono + Agua)
   
-  Aunque esta reacción libera CO₂ nuevamente, la cantidad neta de CO₂ que se fija en los sedimentos de carbonato en el fondo oceáúnico es significativa y equilibra el CO₂ atmosférico. Con el tiempo, estos sedimentos se litifican para formar rocas calizas, un almacén a largo plazo para el carbono.
+  Aunque esta reacción libera CO₂ nuevamente, la cantidad neta de CO₂ que se fija en los sedimentos de carbonato en el fondo oceánico es significativa y equilibra el CO₂ atmosférico. Con el tiempo, estos sedimentos se litifican para formar rocas calizas, un almacén a largo plazo para el carbono.
   
-Esta serie de reacciones constituye la "bomba de calor" geológica, ya que regula la temperatura del planeta: si las temperaturas globales aumentan, se acelera la meteorización, extrayendo más CO₂ de la atmósfera, lo que a su vez causa un enfriamiento y estabiliza el clima. A la inversa, si el clima se enfría, la tasa de meteorización disminuye, permitiendo que el CO₂ de las fuentes volcáúnicas se acumule y cause un calentamiento.
+Esta serie de reacciones constituye la "bomba de calor" geológica, ya que regula la temperatura del planeta: si las temperaturas globales aumentan, se acelera la meteorización, extrayendo más CO₂ de la atmósfera, lo que a su vez causa un enfriamiento y estabiliza el clima. A la inversa, si el clima se enfría, la tasa de meteorización disminuye, permitiendo que el CO₂ de las fuentes volcánicas se acumule y cause un calentamiento.
 
 ### Retroalimentación entre Cambio Climático y Meteorización
 
-El cambio climático causado por las emisiones antropogéúnicas de CO₂ altera este delicado equilibrio.
+El cambio climático causado por las emisiones antropogénicas de CO₂ altera este delicado equilibrio.
 
 * **Retroalimentación Negativa (Estabilizadora)**: Un aumento en la temperatura global y la precipitación (dos efectos del cambio climático) acelera la meteorización química. Una atmósfera más caliente y húmeda incrementa la tasa de hidrólisis y la disolución de minerales, lo que conduce a una mayor absorción de CO₂. Teóricamente, esto podría actuar como un "freno" al calentamiento. Sin embargo, este proceso es extremadamente lento, operando en escalas de tiempo de decenas de miles a cientos de miles de años, por lo que no puede contrarrestar el rápido aumento de CO₂ causado por las actividades humanas.
 * 
-* **Retroalimentación Positiva (Desestabilizadora)**: Por otro lado, la liberación de carbono de reservorios geológicos, como el deshielo del permafrost, crea una retroalimentación positiva. El aumento de las temperaturas derrite el permafrost, liberando grandes cantidades de materia orgáúnica que al descomponerse generan CO₂ y metano ($CH₄$). Este gas adicional contribuye al calentamiento, lo que a su vez acelera aún más el deshielo y la liberación de gases de efecto invernadero.
+* **Retroalimentación Positiva (Desestabilizadora)**: Por otro lado, la liberación de carbono de reservorios geológicos, como el deshielo del permafrost, crea una retroalimentación positiva. El aumento de las temperaturas derrite el permafrost, liberando grandes cantidades de materia orgánica que al descomponerse generan CO₂ y metano ($CH₄$). Este gas adicional contribuye al calentamiento, lo que a su vez acelera aún más el deshielo y la liberación de gases de efecto invernadero.
 
 En resumen, la meteorización de silicatos es un regulador fundamental del clima, pero su lentitud hace que sea ineficaz para mitigar el rápido cambio climático actual. Comprender la velocidad y los umbrales de este proceso es crucial para modelar las consecuencias a largo plazo del calentamiento global.
 
@@ -77,16 +75,13 @@ El clima es el motor de la meteorización.
 ```{figure} https://i.pinimg.com/1200x/2a/fd/3a/2afd3a6c9d3bb949b703c65ef9ae6b94.jpg
 :name: fig-2755
 :width: 600
-
 ```
 
 Un clima cálido y húmedo (tropical) maximiza la meteorización química, mientras que un clima frío y moderadamente húmedo (periglacial) maximiza la meteorización física.
 
-
 ```{figure} https://i.pinimg.com/736x/8b/12/c6/8b12c67fd2788ffd1f617994d9ff9d80.jpg
 :name: fig-9610
 :width: 400
-
 ```
 
 ---
@@ -99,23 +94,21 @@ Un clima cálido y húmedo (tropical) maximiza la meteorización química, mient
     C- La roca meteorizada parcialmente  
     D- La roca fresca  
 
-En su conjunto los horizontes A, B y C conforman el denominado regolito, donde el horizonte A se caracteriza por su color oscuro, debido a la presencia de abundante materia orgáúnica, y es el más intensamente afectado por los procesos de disolución, que arrastran sus iones hacia horizontes más profundos, por lo que se le conoce también como horizonte de lixiviación o de lavado (Caballero, 1998). Entre los horizontes B y C existe una importante zona de transición en términos de comportamiento geotécúnico. En los horizontes B predomina el suelo entendido como la roca totalmente meteorizada, donde el comportamiento está controlado por deformaciones de la masa de suelo, en tanto que los horizontes C predomina el material rocoso, en el que el comportamiento está controlado por el movimiento a lo largo de las discontinuidades del macizo rocoso.
+En su conjunto los horizontes A, B y C conforman el denominado regolito, donde el horizonte A se caracteriza por su color oscuro, debido a la presencia de abundante materia orgánica, y es el más intensamente afectado por los procesos de disolución, que arrastran sus iones hacia horizontes más profundos, por lo que se le conoce también como horizonte de lixiviación o de lavado (Caballero, 1998). Entre los horizontes B y C existe una importante zona de transición en términos de comportamiento geotécnico. En los horizontes B predomina el suelo entendido como la roca totalmente meteorizada, donde el comportamiento está controlado por deformaciones de la masa de suelo, en tanto que los horizontes C predomina el material rocoso, en el que el comportamiento está controlado por el movimiento a lo largo de las discontinuidades del macizo rocoso.
 
-La parte superior del horizonte B se caracteriza por la extinción total de la fábrica y estructura de la roca parental donde todo el material se ha convertido a suelo. Para las clasificaciones de la BS 5930 (Anon, 1981) y la GCO (1988) este nivel corresponde exclusivamente al horizonte VI denominado suelo residual, en el cual la roca está completamente meteorizada con un porcentaje menor al 30 % de roca. Voicu & Bardoux (2002) denominan este nivel, caracterizado por la presencia de zonas moteadas, ferricretes o latosol, como pedolito. Deere & Patton (1971), siguiendo la convención utilizada en la pedogénesis, definen este nivel como suelo residual clasificado horizonte IA, rico en materia orgáúnica y lixiviación, y horizonte IB, el cual está característicamente enriquecido en arcillas y acumulaciones de hierro, aluminio y sílice.
+La parte superior del horizonte B se caracteriza por la extinción total de la fábrica y estructura de la roca parental donde todo el material se ha convertido a suelo. Para las clasificaciones de la BS 5930 (Anon, 1981) y la GCO (1988) este nivel corresponde exclusivamente al horizonte VI denominado suelo residual, en el cual la roca está completamente meteorizada con un porcentaje menor al 30 % de roca. Voicu & Bardoux (2002) denominan este nivel, caracterizado por la presencia de zonas moteadas, ferricretes o latosol, como pedolito. Deere & Patton (1971), siguiendo la convención utilizada en la pedogénesis, definen este nivel como suelo residual clasificado horizonte IA, rico en materia orgánica y lixiviación, y horizonte IB, el cual está característicamente enriquecido en arcillas y acumulaciones de hierro, aluminio y sílice.
 
-La parte inferior del horizonte B la conforma el denominado saprolito, definido como un material blando producto de la meteorización química de las rocas, y caracterizado por la formación de minerales secundarios, en el que la estructura y fábrica originales están preservadas debido al emplazamiento seudomórfico de los minerales originales sin alteración y transporte subsecuentes. La formación del saprolito es un proceso isovolumétrico pero la mitad de la masa de la roca se pierde por lixiviación de sílice, hierro y bases (Fookes, 1997; Voicu & Bardoux, 2002). Voicu & Bardoux (2002)  dividen el saprolito en grueso (saprorock), como la zona de transición entre la roca y el saprolito caracterizado por la preservación de la fábrica de la roca y con un contenido menor al 20% de productos de la alteración de minerales meteorizados, y saprolito fino (litomage), donde no hay minerales primarios pero se conserva la fábrica. Para la clasificación de Deere & Patton (1971) el saprolito corresponde al horizonte IC, con menos del 10% de bloques de roca. Para Anon (1990) el saprolito se define como el manto meteorizado que se comporta en general como un suelo en términos geotécúnicos y que presenta rasgos texturales y estructurales de la roca madre, y el cual sumado con el horizonte VI conforma el suelo residual tropical, donde las propiedades de la masa y del material son todavía las de un suelo, por debajo de este límite las características de la roca comienzan a dominar en la masa y el material. Para este autor suelo residual tropical definido como el grado VI exclusivamente es muy restrictivo para efectos geotécúnicos, ya que gran parte del material descrito normalmente como suelo se encuentra por debajo de este grado en el perfil de meteorización típico. 
+La parte inferior del horizonte B la conforma el denominado saprolito, definido como un material blando producto de la meteorización química de las rocas, y caracterizado por la formación de minerales secundarios, en el que la estructura y fábrica originales están preservadas debido al emplazamiento seudomórfico de los minerales originales sin alteración y transporte subsecuentes. La formación del saprolito es un proceso isovolumétrico pero la mitad de la masa de la roca se pierde por lixiviación de sílice, hierro y bases (Fookes, 1997; Voicu & Bardoux, 2002). Voicu & Bardoux (2002)  dividen el saprolito en grueso (saprorock), como la zona de transición entre la roca y el saprolito caracterizado por la preservación de la fábrica de la roca y con un contenido menor al 20% de productos de la alteración de minerales meteorizados, y saprolito fino (litomage), donde no hay minerales primarios pero se conserva la fábrica. Para la clasificación de Deere & Patton (1971) el saprolito corresponde al horizonte IC, con menos del 10% de bloques de roca. Para Anon (1990) el saprolito se define como el manto meteorizado que se comporta en general como un suelo en términos geotécnicos y que presenta rasgos texturales y estructurales de la roca madre, y el cual sumado con el horizonte VI conforma el suelo residual tropical, donde las propiedades de la masa y del material son todavía las de un suelo, por debajo de este límite las características de la roca comienzan a dominar en la masa y el material. Para este autor suelo residual tropical definido como el grado VI exclusivamente es muy restrictivo para efectos geotécnicos, ya que gran parte del material descrito normalmente como suelo se encuentra por debajo de este grado en el perfil de meteorización típico. 
 
 En ambientes tropicales húmedos por encima de los horizontes B se presentan suelos residuales alterados y altamente meteorizados, bajos en sílica, con una concentración suficiente de sesquióxidos de hierro y aluminio que ha sido cementado en algún grado, denominados lateritas (Blight, 1997). La lateritización representa la etapa final del proceso de meteorización con la formación de sesquióxidos, los cuales corresponden a óxidos, oxidróxidos, hidróxidos (referidos como colectivamente óxidos) de hierro, aluminio y manganeso, que afectan fuertemente las propiedades físicas y químicas del suelo, la morfología y su clasificación (Shaw & West, 2006). Schellmann (1981) define el término laterita como el producto de intensa meteorización subaerial donde el contenido de Fe y Al es mayor y el contenido de sílice es más bajo comparado con la roca parental kaolinizada exclusivamente y consiste predominantemente  de minerales de goetita, hematita, hidróxidos de aluminio, minerales de kaolinita y cuarzo. 
 
-* **Suelo:** Es la parte superior, biológicamente activa, del perfil de meteorización. Incluye los horizontes O, A y B, donde la materia orgáúnica se acumula y la estructura original de la roca ha sido destruida y reorganizada por procesos pedogenéticos.
+* **Suelo:** Es la parte superior, biológicamente activa, del perfil de meteorización. Incluye los horizontes O, A y B, donde la materia orgánica se acumula y la estructura original de la roca ha sido destruida y reorganizada por procesos pedogenéticos.
 
 La **meteorización** es el proceso destructivo de alteración de la roca madre. Es el primer paso y el *insumo* para la formación del suelo. La **formación de suelos (pedogénesis)** es un proceso constructivo y organizativo. Implica la meteorización, pero añade cuatro factores más (Clima, Organismos, Relieve, Tiempo) que actúan sobre el material parental (el producto de la meteorización) para crear horizontes estructurados y biológicamente activos.
-
 
 ```{figure} https://i.pinimg.com/1200x/76/f5/9d/76f59dc66aadcfa69e106443821fb2a0.jpg
 :name: fig-6783
 :width: 400
-
 ```
 
 En resumen: todo suelo es parte de un perfil de meteorización, pero no todo perfil de meteorización (especialmente las partes profundas como el saprolito) se considera "suelo" en el sentido pedológico.
@@ -158,7 +151,7 @@ else:
 ```
 
 > [!TIP]
-> Un CIA alto indica que los cationes móviles ($Ca, Na, K$) han sido lixiviados, dejando un residuo enriquecido en Alúmina (arcillas). Como veremos en el {ref}sec-MenM, esta transformación química reduce drásticamente las propiedades geomecáúnicas de la ladera.
+> Un CIA alto indica que los cationes móviles ($Ca, Na, K$) han sido lixiviados, dejando un residuo enriquecido en Alúmina (arcillas). Como veremos en el {ref}sec-MenM, esta transformación química reduce drásticamente las propiedades geomecánicas de la ladera.
 
 ---
 ## Suelos In Situ y Suelos Transportados
@@ -169,7 +162,6 @@ else:
 ```{figure} https://i.pinimg.com/736x/6a/6f/cb/6a6fcb517a72d0e66567285909b20414.jpg
 :name: fig-5074
 :width: 600
-
 ```
 
 Una **catena** (o toposecuencia) es una secuencia de tipos de suelo o perfiles de meteorización que cambian sistemáticamente a lo largo de una ladera. Refleja la influencia del relieve en la meteorización.
@@ -182,13 +174,12 @@ Una **catena** (o toposecuencia) es una secuencia de tipos de suelo o perfiles d
 ```{figure} https://i.pinimg.com/1200x/5d/9e/05/5d9e05b6185ac7ff8b02ecebfe8a40cd.jpg
 :name: fig-1727
 :width: 600
-
 ```
 
 ---
 ## Métodos de descripción de perfiles de meteorización (Ingenieril)
 
-Para fines de ingeniería geotécúnica, es crucial clasificar el *grado* de meteorización, ya que controla las propiedades mecáúnicas de la masa rocosa. La clasificación más utilizada (basada en Little, 1969) divide el perfil en seis grados:
+Para fines de ingeniería geotécnica, es crucial clasificar el *grado* de meteorización, ya que controla las propiedades mecánicas de la masa rocosa. La clasificación más utilizada (basada en Little, 1969) divide el perfil en seis grados:
 
 * **Grado VI (Suelo Residual):** La fábrica de la roca ha sido completamente destruida y reemplazada por una estructura de suelo.
 * **Grado V (Roca Completamente Meteorizada - Saprolito):** Toda la roca está convertida en suelo, pero la **fábrica original (textura y estructura) de la roca se conserva**.
@@ -201,31 +192,27 @@ Para fines de ingeniería geotécúnica, es crucial clasificar el *grado* de met
 ```{figure} https://i.pinimg.com/1200x/2b/16/76/2b1676aa27e72eadfb0e70a6fad07a73.jpg
 :name: fig-345
 :width: 600
-
 ```
 
-El suelo residual corresponde al horizonte VI donde se ha perdido la estructura y textura de la roca parental. Mientras el suelo saprolítico corresponde al horizonte V, donde el material ya es un suelo geotécúnicamente (se comporta como un suelo), pero visualmente aún retiene las estructuras de la roca original (vetas, foliación, etc.) y textura.
-
+El suelo residual corresponde al horizonte VI donde se ha perdido la estructura y textura de la roca parental. Mientras el suelo saprolítico corresponde al horizonte V, donde el material ya es un suelo geotécnicamente (se comporta como un suelo), pero visualmente aún retiene las estructuras de la roca original (vetas, foliación, etc.) y textura.
 
 ```{figure} https://i.pinimg.com/1200x/5c/10/52/5c1052d7309e50d8a9cfb98d8ef5791b.jpg
 :name: fig-5336
 :width: 400
-
 ```
 
 ---
 ## Tipos de Meteorización
 
 La meteorización se divide en tres tipos principales que actúan en conjunto:
-1.  **Física (Mecáúnica):** Desintegración sin cambio químico.
+1.  **Física (Mecánica):** Desintegración sin cambio químico.
 2.  **Química:** Descomposición con cambio químico.
-3.  **Biológica:** Procesos físicos o químicos mediados por organismos (ej. raíces, ácidos orgáúnicos).
+3.  **Biológica:** Procesos físicos o químicos mediados por organismos (ej. raíces, ácidos orgánicos).
     
 
 ```{figure} https://i.pinimg.com/1200x/ac/82/41/ac8241ff52cc291e8dbdb22cdd48580a.jpg
 :name: fig-9861
 :width: 500
-
 ```
 
 ---
@@ -234,29 +221,23 @@ La meteorización se divide en tres tipos principales que actúan en conjunto:
 Aumenta el área superficial, facilitando la meteorización química.
 * **Gelifracción (*Frost Wedging*):** El proceso más efectivo. El agua en las fisuras se congela, se expande (~9%) y actúa como una cuña, rompiendo la roca. Produce depósitos angulosos llamados **gelifractos** o **derrubios de talud**.
 
-
 ```{figure} https://i.pinimg.com/736x/d3/21/4f/d3214ffd6f623c76709ee84a0dfc720b.jpg
 :name: fig-9182
 :width: 500
-
 ```
 
 * **Exfoliación (Descompresión):** Ocurre en rocas masivas (ej. granitos) que se formaron a gran profundidad. Al ser exhumadas por la erosión, se expanden y se fracturan en grandes lajas (*sheeting*) paralelas a la superficie, formando **domos de exfoliación**.
 
-
 ```{figure} https://i.pinimg.com/736x/56/fe/e6/56fee66b61169f86975659043dd3d2b5.jpg
 :name: fig-8997
 :width: 500
-
 ```
 
 * **Haloclastia (Crecimiento de Sales):** El crecimiento de cristales de sal (ej. halita, yeso) en los poros de la roca ejerce presión y la desintegra. Común en climas áridos y costeros.
 
-
 ```{figure} https://i.pinimg.com/1200x/51/30/d5/5130d56e0be7bb19a904afef98b4e4f5.jpg
 :name: fig-8549
 :width: 500
-
 ```
 
 * **Termoclastia:** La expansión y contracción diferencial de los minerales en la roca debido a cambios bruscos de temperatura (ej. desiertos, incendios).
@@ -265,7 +246,6 @@ Aumenta el área superficial, facilitando la meteorización química.
 ```{figure} https://i.pinimg.com/736x/6a/19/ce/6a19ce5207319e92b245bf771a988fb2.jpg
 :name: fig-1559
 :width: 200
-
 ```
 
 ---
@@ -273,11 +253,9 @@ Aumenta el área superficial, facilitando la meteorización química.
 
 Es la descomposición de los minerales. El **agua** es el agente esencial: (i) Es el **solvente** (para disolución). (ii) Es el **medio de transporte** (trae ácidos, O₂; retira productos). (iii) Es un **reactivo** directo (en la hidrólisis y la hidratación).
 
-
 ```{figure} https://i.pinimg.com/736x/4a/37/19/4a371984815b1016211f8e2ea0da14eb.jpg
 :name: fig-4819
 :width: 500
-
 ```
 
 Durante la meteorización química, los iones se liberan de la red cristalina. Su movilidad (facilidad para ser lixiviados por el agua) varía
@@ -294,7 +272,6 @@ Los **Índices de Meteorización Química** cuantifican el grado de lixiviación
 ```{figure} https://i.pinimg.com/1200x/3f/7d/e4/3f7de40f6576d30ff3dc314c936ef536.jpg
 :name: fig-8988
 :width: 500
-
 ```
 
 ---
@@ -306,7 +283,6 @@ La disolución es la disociación de minerales en sus iones en un solvente (agua
 ```{figure} https://i.pinimg.com/1200x/b9/df/8a/b9df8ae71416cab596189d06e3a70a82.jpg
 :name: fig-8095
 :width: 300
-
 ```
 
 * **Karst:** Es un tipo de paisaje formado por la disolución de la roca subyacente.
@@ -316,57 +292,46 @@ La disolución es la disociación de minerales en sus iones en un solvente (agua
 ```{figure} https://i.pinimg.com/736x/3c/82/99/3c8299a68bde784fb3753d5d76d33001.jpg
 :name: fig-4788
 :width: 400
-
 ```
 
 **Exokarst (Formas Superficiales)**
 * **Epikarst:** La zona superficial de la roca carbonatada (los primeros metros), intensamente disuelta y muy porosa.
 
-
 ```{figure} https://i.pinimg.com/1200x/32/84/80/328480c0ce5d2c2d73fb6246bdb2c04f.jpg
 :name: fig-2924
 :width: 400
-
 ```
 
 * **Pavimento (Limestone Pavement):** Superficies planas de roca desnuda disectadas por fracturas disueltas.
 
-
 ```{figure} https://i.pinimg.com/736x/54/f6/37/54f637f7090a89df959f2c99ed770c99.jpg
 :name: fig-6048
 :width: 400
-
 ```
 
 * **Karren (Lapiaces):** Microformas de disolución sobre la roca desnuda (surcos, acanaladuras, pináculos).
 
-
 ```{figure} https://i.pinimg.com/1200x/3f/aa/e5/3faae5d3833338411516d2ced5483719.jpg
 :name: fig-4543
 :width: 400
-
 ```
-
 
 ```{figure} https://i.pinimg.com/1200x/5b/fc/04/5bfc04b54a768fdb0da2a4af0043bcb7.jpg
 :name: fig-7563
 :width: 600
-
 ```
 
 * **Dolina:** Depresión cerrada circular. Puede ser de disolución (hundimiento lento) o de colapso (caída del techo de una cueva).
 * **Uvala:** Una depresión compuesta, grande e irregular, formada por la coalescencia (unión) de varias dolinas.
-* **Poljé:** Una depresión kárstica muy grande, de fondo plano (relleno de sedimentos) y bordes escarpados, a menudo controlada por la tectóúnica.
-
+* **Poljé:** Una depresión kárstica muy grande, de fondo plano (relleno de sedimentos) y bordes escarpados, a menudo controlada por la tectónica.
 
 ```{figure} https://i.pinimg.com/1200x/33/b8/09/33b8092539b10b97043143cd12b551bd.jpg
 :name: fig-370
 :width: 500
-
 ```
 
-* **Karst Tropical (Cóúnico y de Torres):**
-    * **Kegelkarst (Karst Cóúnico):** Paisaje de colinas cóúnicas regulares (Alemania).
+* **Karst Tropical (Cónico y de Torres):**
+    * **Kegelkarst (Karst Cónico):** Paisaje de colinas cónicas regulares (Alemania).
     * **Cockpits:** Las depresiones en forma de estrella entre las colinas del Kegelkarst (Jamaica).
     * **Turmkarst (Karst de Torres):** Torres de caliza muy empinadas y aisladas (Mogotes), que se elevan desde una llanura aluvial (China, Cuba).
   
@@ -374,7 +339,6 @@ La disolución es la disociación de minerales en sus iones en un solvente (agua
 ```{figure} https://i.pinimg.com/736x/9d/c5/36/9dc5362f76f5197c849ffc75010ed167.jpg
 :name: fig-4509
 :width: 500
-
 ```
 
 **Endokarst (Formas Subterráneas)**
@@ -385,7 +349,6 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/736x/85/9c/9d/859c9dea174198a2b1d91cee8868fedc.jpg
 :name: fig-5972
 :width: 400
-
 ```
 
 * **Estalactitas:** Crecen desde el techo (hacia abajo).
@@ -396,7 +359,6 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/1200x/4c/96/a0/4c96a09b769380d3e782f125069b66d7.jpg
 :name: fig-4702
 :width: 400
-
 ```
 
 * **Gour (Represas):** Pequeñas represas de calcita que escalonan el suelo de una cueva.
@@ -405,7 +367,6 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/1200x/a2/82/c2/a282c22439c24e8c2270648fed7a2d27.jpg
 :name: fig-3185
 :width: 300
-
 ```
 
 * **Banderas (Draperies):** Depósitos en forma de cortina formados por goteo lateral en una pared inclinada.
@@ -414,7 +375,6 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/736x/65/89/52/65895282258c75c7b0329511aad66f4f.jpg
 :name: fig-3338
 :width: 300
-
 ```
 
 * **Helictitas:** Formas excéntricas que crecen en cualquier dirección, desafiando la gravedad (controladas por capilaridad).
@@ -423,7 +383,6 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/1200x/1b/93/61/1b9361b3c5333a0358a8d799ec3ae7ef.jpg
 :name: fig-3423
 :width: 300
-
 ```
 
 * **Moonmilk:** Precipitados blandos, blancos y pastosos, a menudo mediados por bacterias.
@@ -432,7 +391,6 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/1200x/c8/f6/50/c8f650747852b6b0a618d955f3f846db.jpg
 :name: fig-8952
 :width: 300
-
 ```
 
 * **Frostwork:** Agregados delicados de cristales de aragonito en forma de aguja.
@@ -441,17 +399,15 @@ Se refiere a las cuevas y sus depósitos (espeleotemas), formados por la precipi
 ```{figure} https://i.pinimg.com/736x/bb/73/0d/bb730d7b776f0bbef0f7c1f7022bc391.jpg
 :name: fig-9645
 :width: 300
-
 ```
 
-* Karst Hipogéúnico
+* Karst Hipogénico
 Un tipo especial de karst donde las cuevas son disueltas por fluidos profundos, calientes y a menudo ácidos (ej. H₂S derivado de hidrocarburos) que ascienden desde abajo, en lugar de ser formadas por agua meteórica (lluvia) que desciende desde la superficie.
 
   
 ```{figure} https://i.pinimg.com/736x/d1/43/0f/d1430fa7e8dfa21d74f7f2fbeae2ae45.jpg
 :name: fig-6525
 :width: 300
-
 ```
 
 ---
@@ -465,22 +421,19 @@ La absorción de moléculas de agua en la estructura cristalina de un mineral, s
 ```{figure} https://i.pinimg.com/1200x/a9/9a/80/a99a80f168e8b85b5c137b4650dae88a.jpg
 :name: fig-5500
 :width: 300
-
 ```
 
 ---
 ### Hidrólisis
 
-Es la reacción de meteorización más importante para los silicatos (el 90% de la corteza). Es una reacción química compleja donde un mineral reacciona con el agua, usualmente acidificada por el CO₂ atmosférico (ácido carbóúnico, H₂CO₃). El agua rompe los enlaces del mineral, liberando cationes y sílice, y formando minerales de arcilla como producto residual. H⁺ rompe enlaces cation-metal-oxígeno (por ejemplo, rompe enlaces Si–O o Al–O). OH⁻ ataca enlaces metálicos, formando hidróxidos o liberando cationes.
+Es la reacción de meteorización más importante para los silicatos (el 90% de la corteza). Es una reacción química compleja donde un mineral reacciona con el agua, usualmente acidificada por el CO₂ atmosférico (ácido carbónico, H₂CO₃). El agua rompe los enlaces del mineral, liberando cationes y sílice, y formando minerales de arcilla como producto residual. H⁺ rompe enlaces cation-metal-oxígeno (por ejemplo, rompe enlaces Si–O o Al–O). OH⁻ ataca enlaces metálicos, formando hidróxidos o liberando cationes.
 
 * *Reacción Clave (Simplificada):*
-    Feldespato + Ácido Carbóúnico + Agua → **Caolinita (Arcilla)** + Cationes disueltos (K⁺, Na⁺) + Sílice disuelta
-
+    Feldespato + Ácido Carbónico + Agua → **Caolinita (Arcilla)** + Cationes disueltos (K⁺, Na⁺) + Sílice disuelta
 
 ```{figure} https://i.pinimg.com/736x/45/d3/26/45d3268454248161d0054c34ae3fbaea.jpg
 :name: fig-7402
 :width: 500
-
 ```
 
 ---
@@ -488,11 +441,9 @@ Es la reacción de meteorización más importante para los silicatos (el 90% de 
 
 La pérdida (oxidación) o ganancia (reducción) de electrones. Es crucial para elementos con múltiples estados de valencia, especialmente el Hierro (Fe).
 
-
 ```{figure} https://i.pinimg.com/736x/3f/3d/50/3f3d50b02d65570358b5e7f9c3d25955.jpg
 :name: fig-4924
 :width: 500
-
 ```
 
 * **Reducción (Ambientes anóxicos, saturados):** El Hierro está como **Fe²⁺ (Ferroso)**. Es **soluble** y móvil en el agua. Produce colores grises o verdosos en el suelo.
@@ -506,14 +457,11 @@ La pérdida (oxidación) o ganancia (reducción) de electrones. Es crucial para 
 ```{figure} https://i.pinimg.com/736x/0a/4e/f5/0a4ef53f75e8a439c770e5ba32857dfe.jpg
 :name: fig-4483
 :width: 500
-
 ```
-
 
 ```{figure} https://i.pinimg.com/736x/cd/6f/68/cd6f686d9ba810384f171d3e38bf5f79.jpg
 :name: fig-5930
 :width: 500
-
 ```
 
 La formación del horizonte laterítico no es solo química; requiere de una dinámica física de fluctuación del nivel freático:
@@ -531,11 +479,9 @@ La formación del horizonte laterítico no es solo química; requiere de una din
     * **Calcrete** (Carbonato de calcio)
     * **Silcrete** (Sílice)
 
-
 ```{figure} https://i.pinimg.com/1200x/45/9c/e0/459ce0f738823e5894035a0ee3c14139.jpg
 :name: fig-5167
 :width: 700
-
 ```
 
 ### Minerales de arcilla
@@ -545,12 +491,12 @@ Las láminas tetraédricas y octaédricas se combinan para formar las capas de l
 
 * **Capas 1:1**: En estas arcillas, la capa de hidroxilo ($OH⁻$) de la lámina octaédrica se une directamente a la capa de oxígeno de la lámina tetraédrica de la capa superior a través de fuertes enlaces de hidrógeno.. La lámina octaédrica está compuesta por cationes (principalmente aluminio o magnesio) rodeados por seis aniones (oxígeno o hidroxilo) en una configuración octaédrica. Los minerales de arcilla con este tipo de estructura, como la caolinita, se denominan filosilicatos 1:1. Esta unión es tan fuerte que no permite que las moléculas de agua entren entre las capas. Por lo tanto, las arcillas 1:1 como la caolinita son no expansivas y no se hinchan.
 
-* **Capas 2:1**: En este caso, una lámina octaédrica está "sándwich" entre dos láminas tetraédricas. Estos minerales, como la pirofilita o el talco, se conocen como filosilicatos 2:1. En estas arcillas, como la esmectita, las láminas tetraédricas de la parte superior e inferior están unidas por enlaces débiles (fuerzas de Van der Waals). Esto permite que el agua, con su naturaleza polar, se infiltre entre las capas. El agua hidrata los cationes que equilibran la carga, como el sodio ($Na^{+}$) y el calcio ($Ca^{2+}$), lo que fuerza la separación de las capas y provoca un hinchamiento masivo. A medida que el suelo se seca, el agua se elimina y las capas se contraen. Este comportamiento de "hinchamiento-contracción" causa grandes problemas en la ingeniería geotécúnica.
+* **Capas 2:1**: En este caso, una lámina octaédrica está "sándwich" entre dos láminas tetraédricas. Estos minerales, como la pirofilita o el talco, se conocen como filosilicatos 2:1. En estas arcillas, como la esmectita, las láminas tetraédricas de la parte superior e inferior están unidas por enlaces débiles (fuerzas de Van der Waals). Esto permite que el agua, con su naturaleza polar, se infiltre entre las capas. El agua hidrata los cationes que equilibran la carga, como el sodio ($Na^{+}$) y el calcio ($Ca^{2+}$), lo que fuerza la separación de las capas y provoca un hinchamiento masivo. A medida que el suelo se seca, el agua se elimina y las capas se contraen. Este comportamiento de "hinchamiento-contracción" causa grandes problemas en la ingeniería geotécnica.
 ---
 ## Taller de Autoevaluación
 
 1. **Fsica vs. Qumica:** Bajo qu condiciones climticas (P, T) predomina la meteorizacin fsica por gelifraccin y bajo cules la meteorizacin qumica por hidrólisis?
 2. **Ciclo del Carbono:** Explique cmo la meteorizacin de silicatos acta como un termostato natural del planeta a escalas de tiempo geolgicas.
 3. **Perfil de Meteorizacin:** Defina operacionalmente qu es un **saprolito**. En qu se diferencia visualmente de la roca fresca y del suelo residual (VI)?
-4. **Ingeniera Geotécúnica:** Por qué las arcillas con estructura 2:1 (como la montmorillonita) son más problemticas para la construccin de obras civiles que las arcillas 1:1 (como la caolinita)?
+4. **Ingeniera Geotécnica:** Por qué las arcillas con estructura 2:1 (como la montmorillonita) son más problemticas para la construccin de obras civiles que las arcillas 1:1 (como la caolinita)?
 5. **Mobildad de Iones:** En un perfil de meteorizacin desarrollado en un ambiente tropical hmedo (ej. Choc, Colombia), qu elementos qumicos esperara encontrar concentrados en la superficie y cules habrn sido lixiviados?

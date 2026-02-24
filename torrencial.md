@@ -21,14 +21,12 @@ El término **"avenida torrencial"** es amplio y su definición ha sido objeto d
     * **Inundación de Escombros**
     * **Flujo de Escombros**
 
-
 ```{figure} https://i.pinimg.com/736x/be/2e/c6/be2ec63356ead5b933217ae717e9e526.jpg
 :name: fig-1184
 :width: 500
 
 escudo
 ```
-
 
 ```{figure} https://i.pinimg.com/736x/1d/75/23/1d75230ec9c0beb03837308b1b6b333d.jpg
 :name: fig-3783
@@ -46,7 +44,6 @@ La falta de consenso sobre el término se debe, en parte, a las diferentes persp
 * **Hidrólogos:** Las interpretan como fenómenos hidrológicos, asociándolas a **crecientes súbitas**. Por ejemplo, los POMCA (Planes de Ordenación y Manejo de Cuencas) las definen como "inundaciones de tipo fluvial rápidas" o "crecientes súbitas".
 
 Esta dicotomía ha llevado a metodologías de evaluación de amenaza muy diferentes: los geólogos se centran en la estabilidad de laderas y el aporte de sedimentos, mientras que los hidrólogos se centran en la respuesta hidrológica de la cuenca.
-
 
 ```{figure} https://i.pinimg.com/736x/df/03/71/df03715fe1bbda3fb50a6d77e906a084.jpg
 :name: fig-3428
@@ -76,7 +73,6 @@ escudo
 Las avenidas torrenciales raramente tienen una sola causa; son el resultado de un **fenómeno en cascada**.
 
 Los **detonantes** principales (lluvia, sismos, etc.) no siempre causan el flujo directamente. A menudo, un evento primario (lluvia intensa) genera eventos secundarios (enjambres de movimientos en masa en las laderas), los cuales suministran una cantidad masiva de sedimentos al canal. Este aporte súbito de material transforma un flujo de agua normal (creciente súbita) en una mezcla densa (inundación o flujo de escombros).
-
 
 ```{figure} https://i.pinimg.com/1200x/70/07/4b/70074b59f169e99adf125629a62c7486.jpg
 :name: fig-4470
@@ -109,7 +105,6 @@ escudo
 
 La **reología** (el estudio de cómo fluyen los materiales) es clave para diferenciar los tipos de flujos. Un flujo de agua (Newtoniano) se comporta muy diferente a un flujo de escombros (No-Newtoniano).
 
-
 ```{figure} https://i.pinimg.com/1200x/de/85/e2/de85e211be3a7b4ced9cd06ccedcf342.jpg
 :name: fig-4120
 :width: 700
@@ -117,9 +112,7 @@ La **reología** (el estudio de cómo fluyen los materiales) es clave para difer
 escudo
 ```
 
-
 La Tabla del artículo de Aristizábal et al. (2020) resume las diferencias clave:
-
 
 ```{figure} https://i.pinimg.com/736x/15/3d/9a/153d9af7334697548457f20c42c1464e.jpg
 :name: fig-9406
@@ -127,8 +120,6 @@ La Tabla del artículo de Aristizábal et al. (2020) resume las diferencias clav
 
 escudo
 ```
-
-
 
 ```{figure} https://i.pinimg.com/736x/c9/c3/a5/c9c3a50381332c2e2de7b9e63dc80791.jpg
 :name: fig-8958
@@ -169,14 +160,12 @@ Para describir matemáticamente estos flujos, se usan varios modelos:
 escudo
 ```
 
-
 ```{figure} https://i.pinimg.com/1200x/00/a8/97/00a897f9269263100dd73a4b25d9857b.jpg
 :name: fig-6926
 :width: 400
 
 escudo
 ```
-
 
 ```{figure} https://i.pinimg.com/1200x/13/ab/a5/13aba5b9705dff738d2f30616141f667.jpg
 :name: fig-6714
@@ -197,7 +186,6 @@ La capacidad de un flujo para transportar bloques gigantescos depende de cómo "
 
 escudo
 ```
-
 
 ```{figure} https://i.pinimg.com/736x/39/8a/6b/398a6b0c302dcfbc6c4c9ef6303d45bb.jpg
 :name: fig-8490

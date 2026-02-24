@@ -22,12 +22,10 @@ El viento mueve las partículas mediante tres mecanismos:
 ```{figure} https://i.pinimg.com/736x/60/69/1b/60691bf598b4bd6dddebf3d9f404d647.jpg
 :name: fig-6777
 :width: 400
-
 ```
 
 ---
 ## 10. Procesos y Geoformas de Erosión Eólica (Deflación y Abrasión)
-
 
 ### Procesos
 * **Deflación:** Es el "barrido" selectivo del viento, que levanta y se lleva las partículas finas (arena, limo), dejando atrás los fragmentos más gruesos (grava, cantos) como un "rezago".
@@ -37,35 +35,28 @@ El viento mueve las partículas mediante tres mecanismos:
 ```{figure} https://i.pinimg.com/736x/c7/63/9d/c7639dccca9b6b7e3445ba6bf84ba4a1.jpg
 :name: fig-8180
 :width: 400
-
 ```
 
 ### Geoformas Resultantes
 * **Pavimento Desértico (Desert Pavement):** Una superficie de cantos y gravas fuertemente entrelazados, formada por la deflación completa de los finos. Una vez formado, protege al material subyacente de futura erosión.
 
-
 ```{figure} https://i.pinimg.com/736x/09/bd/40/09bd40374b29345c7d4d9e0857c24440.jpg
 :name: fig-8225
 :width: 400
-
 ```
 
 * **Ventifactos:** Rocas pulidas, facetadas y estriadas por la abrasión eólica. La orientación de las facetas indica la dirección del viento dominante.
 
-
 ```{figure} https://i.pinimg.com/1200x/e6/a9/c7/e6a9c78ec8bcd72a6577253995880be4.jpg
 :name: fig-8635
 :width: 400
-
 ```
 
 * **Yardangs:** Crestas rocosas alargadas y aerodinámicas, esculpidas por la abrasión, paralelas a la dirección del viento.
 
-
 ```{figure} https://i.pinimg.com/736x/28/e3/6e/28e36eff21b68784ee8f524cf6ee2268.jpg
 :name: fig-5904
 :width: 400
-
 ```
   
 ---
@@ -80,11 +71,9 @@ Una **duna** es una acumulación de arena transportada por el viento. Una duna a
 
 La morfología de las dunas depende de dos factores clave: la **disponibilidad de arena** y la **direccionalidad del viento**.
 
-
 ```{figure} https://i.pinimg.com/1200x/b9/a3/b1/b9a3b1bec736133ab62844d191a99b52.jpg
 :name: fig-8209
 :width: 600
-
 ```
 
 ---
@@ -94,22 +83,18 @@ La morfología de las dunas depende de dos factores clave: la **disponibilidad d
     * **Forma:** Media luna. Los "cuernos" apuntan en la dirección del viento.
     * **Condiciones:** Suministro **limitado** de arena y viento **unidireccional**. Son dunas rápidas y móviles.
 
-
 ```{figure} https://i.pinimg.com/736x/60/d1/b5/60d1b5ca41efdb4bc896eb2b6b8e13c8.jpg
 :name: fig-5797
 :width: 600
-
 ```
 
 * **Duna Transversal (Transverse):**
     * **Forma:** Crestas largas y rectilíneas, perpendiculares a la dirección del viento. Son esencialmente barjanes unidos lateralmente.
     * **Condiciones:** Suministro **abundante** de arena y viento **unidireccional**.
 
-
 ```{figure} https://i.pinimg.com/736x/2f/34/98/2f3498b15b2479320fcb2171e1492f77.jpg
 :name: fig-2399
 :width: 600
-
 ```
 
 * **Duna Longitudinal (o Seif):**
@@ -120,27 +105,22 @@ La morfología de las dunas depende de dos factores clave: la **disponibilidad d
 ```{figure} https://i.pinimg.com/736x/8e/9e/3b/8e9e3b6733eabe31d8a13e4bb48de8e1.jpg
 :name: fig-6374
 :width: 600
-
 ```
 
 * **Duna Parabólica:**
     * **Forma:** Forma de U o V. Los "cuernos" apuntan *contra* el viento.
     * **Condiciones:** Se forman por la deflación (*blowout*) de la arena, donde la vegetación ancla los brazos (cuernos) y permite que la parte central avance.
 
-
 ```{figure} https://i.pinimg.com/1200x/a6/0d/80/a60d80a8fc5d47c7db07ba55f572c635.jpg
 :name: fig-8863
 :width: 600
-
 ```
 
 * **Duna en Estrella (Star):**
     * **Forma:** Montículo piramidal con varias crestas afiladas que radian desde un punto central.
     * **Condiciones:** Suministro **abundante** de arena y viento **multidireccional**. Estas dunas crecen verticalmente más que migrar.
 
-
 ```{figure} https://i.pinimg.com/1200x/25/c6/74/25c674e877d89df0eec0370abfe5d6d2.jpg
 :name: fig-9685
 :width: 600
-
 ```
