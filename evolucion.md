@@ -1,14 +1,27 @@
+(sec-evolucion)=
 # Teorías Clásicas de la Evolución de Laderas
 
-El debate sobre cómo evolucionan las laderas a lo largo del tiempo geológico es uno de los pilares de la geomorfología. Tres modelos conceptuales, propuestos por William Morris Davis, Walther Penck y Lester Charles King, representan las perspectivas clásicas y a menudo contrapuestas sobre este proceso. Aunque la geomorfología moderna se ha movido hacia enfoques más cuantitativos, estos modelos fundamentales siguen siendo cruciales para entender el pensamiento geomorfológico. Cada teoría fue profundamente influenciada por el entorno geográfico y tectónico donde sus autores trabajaron, demostrando cómo la observación local puede dar forma a una teoría global.
+El debate sobre cómo evolucionan las laderas a lo largo del tiempo geológico es uno de los pilares de la geomorfología. Tres modelos conceptuales, propuestos por William Morris Davis, Walther Penck y Lester Charles King, representan las perspectivas clásicas y a menudo contrapuestas sobre este proceso. Aunque la geomorfología moderna se ha movido hacia enfoques más cuantitativos, estos modelos fundamentales siguen siendo cruciales para entender el pensamiento geomorfológico.
+
+:::{important}
+**Objetivos de aprendizaje:**
+* Comparar los mecanismos de evolución de laderas propuestos por Davis (*decline*), Penck (*replacement*) y King (*parallel retreat*).
+* Identificar la influencia de la tectónica y el clima en la formulación de cada teoría histórica.
+* Reconocer las geoformas residuales características de cada modelo (Monadnocks e Inselbergs).
+* Analizar la aplicabilidad de estos modelos en el contexto de los Andes colombianos.
+:::
 
 ---
 
-<image src=https://i0.wp.com/geographicbook.com/wp-content/uploads/2024/03/Theories-and-Process-of-Slope-Development.png alt="Descripción de la imagen">
+```{figure} images/Theories-and-Process-of-Slope-Development.png
+:name: fig-teorias-laderas
+:width: 600px
+Teorías y procesos del desarrollo de laderas.
+```
 
 ## 1. William Morris Davis: El Ciclo Geográfico y el Declive de la Pendiente
 
-**William Morris Davis (1850-1934)** fue un geógrafo y geólogo estadounidense que trabajó principalmente en la región de Nueva Inglaterra, en el este de los Estados Unidos. Su modelo fue influenciado por este paisaje húmedo y templado, de tectónica pasiva, caracterizado por colinas redondeadas y un espeso manto de regolito.
+**William Morris Davis (1850-1934)** fue un geógrafo y geólogo estadounidense que trabajó principalmente en la región de Nueva Inglaterra, en el este de los Estados Unidos. Su modelo (Davis, 1899) fue influenciado por este paisaje húmedo y templado, de tectónica pasiva, caracterizado por colinas redondeadas y un espeso manto de regolito.
 
 ### El Modelo: *Slope decline* (Reducción de la pendiente)
 
@@ -24,7 +37,7 @@ El producto final del ciclo de Davis es la peneplanicie (*Peneplain*), una super
 
 ## 2. Walther Penck: Tectónica y reemplazo de la pendiente
 
-**Walther Penck (1888-1923)** fue un geólogo alemán cuya experiencia en los Andes moldeó fundamentalmente su pensamiento. Su trabajo fue una respuesta directa al modelo davisiano, criticando la separación entre un levantamiento inicial y una erosión posterior.
+**Walther Penck (1888-1923)** fue un geólogo alemán cuya experiencia en los Andes moldeó fundamentalmente su pensamiento. Su trabajo (Penck, 1924) fue una respuesta directa al modelo davisiano, criticando la separación entre un levantamiento inicial y una erosión posterior.
 
 ### El Modelo: *Slope replacement* (Reemplazo de la pendiente)
 
@@ -42,7 +55,7 @@ La superficie final de Penck es el *Endrumpf* (término alemán para "tronco fin
 
 ## 3. Lester Charles King: Clima y retroceso paralelo
 
-**Lester Charles King (1907-1989)** fue un geólogo británico-sudafricano que pasó la mayor parte de su carrera en África meridional y central. Sus teorías derivan de sus observaciones en paisajes de **sabana y semiáridos**, dominados por escarpes abruptos (*scarps*), mesas y extensas planicies rocosas.
+**Lester Charles King (1907-1989)** fue un geólogo británico-sudafricano que pasó la mayor parte de su carrera en África meridional y central. Sus teorías (King, 1953) derivan de sus observaciones en paisajes de **sabana y semiáridos**, dominados por escarpes abruptos (*scarps*), mesas y extensas planicies rocosas.
 
 ### El Modelo: *Parallel retreat* (Retroceso Paralelo)
 

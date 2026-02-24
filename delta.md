@@ -1,6 +1,15 @@
+(sec-delta)=
 # Geomorfología de Ambientes Deltaicos
 
 Los **deltas** son uno de los ambientes de deposición más importantes y complejos de la Tierra, formados en la interfaz entre un río y un cuerpo de agua estancada (un mar, lago o estuario). Su morfología y estructura están controladas por un delicado balance entre la fuerza del río y la energía del cuerpo receptor (olas, mareas y densidad del agua).
+
+:::{important}
+**Objetivos de aprendizaje:**
+* Comprender las condiciones necesarias para la formación y progradación de un delta.
+* Identificar las partes de un delta en sección transversal (plano de delta, frente de delta, prodelta).
+* Clasificar los deltas según el agente de control dominante (río, olas o mareas).
+* Analizar ejemplos locales de sistemas deltaicos colombianos y su importancia ambiental.
+:::
 
 ---
 ## 1. ¿Qué es un Delta?
@@ -57,3 +66,18 @@ La morfología de un delta es un reflejo del balance entre el **Río** (fuerza d
 * **Ejemplo Clásico:** Delta del Ganges/Brahmaputra (Bangladesh).
   
    <image src=https://i.pinimg.com/1200x/f0/3a/6b/f03a6bf1bb0c3aaa8c9d0a6e9ea4022c.jpg  width="600">
+---
+## Sistemas Deltaicos en Colombia
+
+* **Delta del Ro Magdalena:** Es un sistema complejo. Su desembocadura actual (**Bocas de Ceniza**) ha sido modificada por tajamares, pero el sistema incluye el **Canal del Dique**, un brazo distributario que desemboca en la Baha de Cartagena.
+* **Delta del Ro San Juan (Choc):** Es un ejemplo espectacular de un delta dominado por mareas y alta carga de sedimentos en un ambiente de selva hmeda tropical.
+* **Importancia Ambiental:** Los deltas colombianos albergan extensos bosques de manglar, ecosistemas crticos para la proteccin de la costa y la biodiversidad.
+
+---
+## Taller de Autoevaluacin
+
+1. **Condiciones de Formacin:** Si un mar tiene olas extremadamente fuertes y corrientes constantes que barren la costa, es probable que se forme un delta de tipo 'pata de pjaro'?
+2. **Estructura:** Describa la secuencia de sedimentos que esperara encontrar si perforamos un delta que est progradando (creciendo hacia el mar), desde el prodelta hasta el plano deltaico.
+3. **Clasificacin:** En qu se diferencia visualmente un delta dominado por el ro de uno dominado por las mareas?
+4. **Dinmica:** Qu es la **avulsin** en un delta y por qu es importante para su crecimiento lateral?
+5. **Caso Local:** El Canal del Dique es un 'brazo distributario artificializado'. Qu impacto ha tenido el aumento de su carga de sedimentos en los arrecifes de coral de las islas del Rosario?

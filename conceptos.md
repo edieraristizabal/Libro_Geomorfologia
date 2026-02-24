@@ -1,12 +1,26 @@
+(sec-conceptos)=
 # Conceptos fundamentales en Geomorfología
 
 En este módulo vamos a explorar las ideas centrales que nos permiten entender cómo se origina, evoluciona y se comporta el relieve terrestre. Estos conceptos son la base del pensamiento geomorfológico moderno.
+
+:::{important}
+**Objetivos de aprendizaje:**
+* Comprender la interdependencia entre las escalas espaciales y temporales en los procesos geomorfológicos.
+* Diferenciar entre procesos modeladores endógenos (tectónica) y exógenos (clima).
+* Identificar la cuenca y el paisaje como sistemas abiertos en equilibrio dinámico.
+* Analizar la importancia de los umbrales y los mecanismos de retroalimentación en la evolución del relieve.
+:::
 
 ## La Escala Espacial y Temporal
 
 Comprender los procesos y las formas del relieve geomorfológicas requiere considerar la vasta gama de escalas espaciales y temporales en las que operan. Los porcesos geomorfológicos senalan una correlación positiva entre espacio y tiempo: los fenómenos de mayor extensión espacial tienden a poseer una mayor duración.
 
-<image src=https://i.pinimg.com/736x/8f/67/76/8f67767fbe7d852aa0bd5a5210f043c6.jpg alt="Descripción de la imagen">
+
+```{figure} https://i.pinimg.com/736x/8f/67/76/8f67767fbe7d852aa0bd5a5210f043c6.jpg
+:name: fig-5106
+:width: 600px
+Descripción de la imagen
+```
 
 Esta relación positiva se fundamenta en principios físicos de energía y momentum. Un proceso geomorfológico de mayor tamaño implica la movilización de una masa sustancialmente mayor, lo que a su vez requiere una cantidad de energía inicial (ya sea potencial, como en los deslizamientos, o de un forzamiento externo, como en las tormentas) de órdenes de magnitud superiores. Una vez que el proceso se desencadena, este sistema de gran masa posee una inercia y un momentum considerablemente más altos. En consecuencia, el tiempo necesario para disipar su enorme energía cinética a través de la fricción, la deformación interna y la resistencia del medio es proporcionalmente más largo. En esencia, la duración del evento no es más que el reflejo del tiempo que tarda el sistema en agotar su vasto presupuesto energético hasta alcanzar un nuevo estado de equilibrio, un proceso que se prolonga inevitablemente a medida que la escala espacial y la masa involucrada aumentan.
 
@@ -28,7 +42,11 @@ Donde S es la pendiente local del cauce, A es el área de drenaje contribuyente 
 
 Para entender la complejidad del paisaje, no podemos mirar sus partes de forma aislada. Lo tratamos como un sistema abierto: un conjunto de componentes que interactúan y que intercambian energía y materia con su entorno.
 
-<image src=https://ars.els-cdn.com/content/image/3-s2.0-B9780124095489093878-f09387-01-9780124095489.jpg alt="Descripción de la imagen">
+```{figure} images/3-s2.0-B9780124095489093878-f09387-01-9780124095489.jpg
+:name: fig-escalas
+:width: 600px
+Relación entre las escalas espaciales y temporales de los procesos geológicos.
+```
 
 ## Equilibrio, Umbrales y Retroalimentación
 
@@ -52,11 +70,15 @@ No es un paisaje estático e inmutable, sino un sistema abierto con un flujo con
 
 **Umbrales**: un umbral geomorfológico es el límite que, una vez superado, provoca un cambio fundamental y a menudo abrupto en el estado o la dinámica de un sistema geomorfológico. Representa el punto en el que la resistencia interna del paisaje es superada por un forzamiento externo.
 
-La clave del concepto es la respuesta no lineal: el paisaje puede absorber tensiones de forma gradual y sin cambios aparentes (un comportamiento lineal) hasta que alcanza el umbral. Al cruzarlo, la respuesta es desproporcionadamente grande y rápida, llevando al sistema a un nuevo estado morfológico. Por ejemplo, una ladera puede soportar años de infiltración de agua (forzamiento gradual), hasta que la presión de poros alcanza un valor crítico (el umbral) y se produce un deslizamiento masivo e instantáneo. El sistema pasa de un estado "estable" a uno "inestable" y luego a un nuevo estado "estable" con una morfología completamente diferente.
+La clave del concepto es la respuesta no lineal: el paisaje puede absorber tensiones de forma gradual y sin cambios aparentes (un comportamiento lineal) hasta que alcanza el umbral. Al cruzarlo, la respuesta es desproporcionadamente grande y rápida, llevando al sistema a un nuevo estado morfológico. Por ejemplo, una ladera puede soportar años de infiltración de agua (forzamiento gradual), hasta que la presión de poros alcanza un valor crítico (el umbral) y se produce un deslizamiento masivo e instantáneo (ver {ref}sec-MenM). El sistema pasa de un estado "estable" a uno "inestable" y luego a un nuevo estado "estable" con una morfología completamente diferente.
 
 
-<image src=https://www.researchgate.net/profile/Daniel-Knitter/publication/351054986/figure/fig7/AS:1015402712821765@1619102280804/Different-types-of-equilibria-a-decay-equilibrium-b-dynamic-equilibrium-c_W640.jpg
- alt="Descripción de la imagen">
+
+```{figure} https://www.researchgate.net/profile/Daniel-Knitter/publication/351054986/figure/fig7/AS:1015402712821765@1619102280804/Different-types-of-equilibria-a-decay-equilibrium-b-dynamic-equilibrium-c_W640.jpg
+:name: fig-8219
+:width: 600px
+Descripción de la imagen
+```
 
 **Retroalimentación (Feedback)**: es el mecanismo por el cual el resultado de un proceso (el output) influye de vuelta sobre el propio proceso que lo generó (el input), ya sea para amplificarlo o para atenuarlo. Es la forma en que el paisaje se auto-regula o, por el contrario, se desestabiliza y cambia drásticamente.
 
@@ -68,7 +90,12 @@ Si un tramo de un río se vuelve demasiado empinado debido a un levantamiento te
 
 Un pequeño surco en una ladera (un rill) concentra el flujo de agua. Esta concentración aumenta la velocidad y la capacidad erosiva del agua, lo que hace que el surco se haga más profundo. Un surco más profundo es capaz de capturar aún más agua, lo que aumenta todavía más la erosión. El proceso se auto-acelera, transformando rápidamente un pequeño surco en una cárcava.
 
-<image src=https://i.pinimg.com/736x/b5/ce/a3/b5cea3c9621b03fff79415d99d26acef.jpg alt="Decripción de la imagen" width="400">
+
+```{figure} https://i.pinimg.com/736x/b5/ce/a3/b5cea3c9621b03fff79415d99d26acef.jpg
+:name: fig-5442
+:width: 400
+Decripción de la imagen
+```
 
 ## Frecuencia vs. Magnitud
 
@@ -78,6 +105,19 @@ Existe una relación inversa entre el tamaño de un evento geomorfológico y la 
 
 -   Los eventos catastróficos y de alta energía (un sismo de gran magnitud) son extraordinariamente raros.
 
-<image src=https://lh3.googleusercontent.com/proxy/4ICv0TulF1SAHKk9xqx5Hb1t6aUKkUMMxK30QK-QurfPL4YhAakNK-D-VKBUpNq7MfjBy-_5Xq2MjqbL_BfN0MMGmCX-LJ7MWpe47ow6jQzj86YnGlVwSS93t8rgxCVc_zyJkfE_JzOv1SC-DXGg188
- alt="Descripción de la imagen">
+
+```{figure} https://lh3.googleusercontent.com/proxy/4ICv0TulF1SAHKk9xqx5Hb1t6aUKkUMMxK30QK-QurfPL4YhAakNK-D-VKBUpNq7MfjBy-_5Xq2MjqbL_BfN0MMGmCX-LJ7MWpe47ow6jQzj86YnGlVwSS93t8rgxCVc_zyJkfE_JzOv1SC-DXGg188
+:name: fig-7550
+:width: 600px
+Descripción de la imagen
+```
+
+---
+## Taller de Autoevaluación
+
+1. **Relación Escala-Tiempo:** Explique por qué un aluvión torrencial tiene una duración menor que la evolución de una cordillera, utilizando el concepto de presupuesto energético mencionado en el texto.
+2. **Procesos Difusivos vs. Advectivos:** En una ladera tropical, identifique un proceso que se comporte de forma difusiva y otro de forma advectiva. ¿Cuál de ellos tiende a generar mayor incisión sobre el terreno?
+3. **Estado Estacionario:** Si en una cuenca de los Andes colombianos la tasa de levantamiento tectónico es de 1 mm/año, ¿cuál debería ser la tasa de erosión para que el paisaje se encuentre en equilibrio dinámico? ¿Qué sucedería con la pendiente del cauce si el levantamiento aumenta a 2 mm/año?
+4. **Análisis de Caso (Retroalimentación):** Describa el ciclo de retroalimentación positiva que ocurre durante la formación de una cárcava en un suelo desprotegido de vegetación.
+5. **Umbrales:** ¿Cómo se aplica el concepto de umbral geomorfológico al trigger o detonante de un deslizamiento de tierra durante una tormenta intensa?
 

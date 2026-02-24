@@ -1,16 +1,35 @@
+(sec-cuencas)=
 # Geomorfología de Cuencas Hidrográficas
 
 Este documento explora la cuenca hidrográfica como la unidad fundamental del paisaje, analizando su estructura, los procesos hidrológicos que la gobiernan y cómo su morfología controla la respuesta en caudales.
+
+:::{important}
+**Objetivos de aprendizaje:**
+* Definir la cuenca hidrográfica y sus divisorias de aguas como la unidad de gestión del territorio.
+* Jerarquizar la red de drenaje mediante el método de Strahler.
+* Diferenciar los procesos de erosión, transporte y deposición en las diferentes partes de la cuenca.
+* Analizar el impacto de la urbanización en la respuesta hidrológica (hidrogramas) y el riesgo de inundación.
+:::
 
 ---
 ## 1. ¿Qué es una Cuenca Hidrográfica?
 Una **cuenca hidrográfica** es la unidad geomorfológica fundamental. Se define como la superficie total de terreno que drena el agua de la precipitación hacia un punto común de salida (llamado *outlet*), que puede ser un río, un lago o el mar.
 
-<image src=https://i.pinimg.com/736x/48/a7/4b/48a74b7df6e5629486c66003d392e9b8.jpg width="200">
+
+```{figure} https://i.pinimg.com/736x/48/a7/4b/48a74b7df6e5629486c66003d392e9b8.jpg
+:name: fig-2982
+:width: 200
+
+```
 
 El límite de la cuenca está definido por la **divisoria de aguas** (o *watershed divide*), una línea imaginaria que sigue las cimas y crestas topográficas y separa los flujos de agua que van en direcciones opuestas.
 
-<image src=https://i.pinimg.com/736x/e1/5d/da/e15dda02972d286bebc4ad290c87cb61.jpg width="400">
+
+```{figure} https://i.pinimg.com/736x/e1/5d/da/e15dda02972d286bebc4ad290c87cb61.jpg
+:name: fig-341
+:width: 400
+
+```
 
 ---
 ## 2. Partes de una Cuenca
@@ -26,9 +45,19 @@ Una cuenca se zonifica longitudinalmente en tres partes, cada una dominada por d
     * **Características:** Pendientes muy bajas, valles amplios, ríos meándricos, llanuras de inundación extensas.
     * **Procesos:** Baja energía. Domina la **deposición** de sedimentos. Formación de deltas en la desembocadura.
 
-<image src=https://i.pinimg.com/1200x/09/2d/76/092d76f16db55d44623e185d459c9396.jpg width="600">
 
-<image src=https://i.pinimg.com/736x/8a/dd/67/8add6778eb2beae51c8ad0e88a1c10ae.jpg width="600">
+```{figure} https://i.pinimg.com/1200x/09/2d/76/092d76f16db55d44623e185d459c9396.jpg
+:name: fig-1370
+:width: 600
+
+```
+
+
+```{figure} https://i.pinimg.com/736x/8a/dd/67/8add6778eb2beae51c8ad0e88a1c10ae.jpg
+:name: fig-786
+:width: 600
+
+```
 
 ---
 ## 3. Órdenes de Drenaje (Strahler)
@@ -41,7 +70,12 @@ Es un método para clasificar la jerarquía de la red de drenaje, lo cual es un 
 
 El orden de la cuenca se define por el orden del río en su desembocadura.
 
-<image src=https://i.pinimg.com/736x/f0/cc/09/f0cc09fb205fdb24a71aa2772af339b1.jpg width="400">
+
+```{figure} https://i.pinimg.com/736x/f0/cc/09/f0cc09fb205fdb24a71aa2772af339b1.jpg
+:name: fig-4519
+:width: 400
+
+```
 
 ---
 ## 4. Cambios del Canal (Nacimiento a Desembocadura)
@@ -51,7 +85,12 @@ A medida que el río avanza por las partes de la cuenca, sus características ca
 * **Curso Medio:** Pendiente moderada, descarga creciente (por unión de tributarios), sustrato de gravas y arenas.
 * **Desembocadura (Orden alto):** Pendiente casi nula, descarga máxima, sustrato fino (limos, arcillas), canal ancho y profundo.
   
-<image src=https://i.pinimg.com/736x/0f/2c/7e/0f2c7e75a1d34441f4e567b40d81582c.jpg width="400">
+
+```{figure} https://i.pinimg.com/736x/0f/2c/7e/0f2c7e75a1d34441f4e567b40d81582c.jpg
+:name: fig-5466
+:width: 400
+
+```
 
 ---
 ## 5. Respuesta de la Cuenca y Medición de Caudal
@@ -70,7 +109,12 @@ Donde:
 * **$A$:** Área de la sección transversal ($m^2$). Se calcula midiendo la profundidad en varios puntos a lo ancho del canal.
 * **$V$:** Velocidad promedio del flujo ($m/s$). Se mide con instrumentos como un correntómetro o molinete.
   
-<image src=https://i.pinimg.com/1200x/31/6a/93/316a93232c0b102947cdf0bb5c99f630.jpg width="300">
+
+```{figure} https://i.pinimg.com/1200x/31/6a/93/316a93232c0b102947cdf0bb5c99f630.jpg
+:name: fig-8332
+:width: 300
+
+```
 
 ---
 ## 6. Significado de la Respuesta de la Cuenca
@@ -84,7 +128,12 @@ Cuando llueve, el agua sigue varias rutas antes de llegar al canal:
 4.  **Flujo Subsuperficial (*Throughflow*):** El agua se mueve lateralmente dentro del suelo.
 5.  **Flujo Profundo (Agua Subterránea):** El agua percola profundamente, recarga el acuífero y se mueve muy lentamente hacia el río.
    
-<image src=https://i.pinimg.com/736x/9a/5a/dc/9a5adcaebff1ed6dd88495cf94d1581a.jpg width="700">
+
+```{figure} https://i.pinimg.com/736x/9a/5a/dc/9a5adcaebff1ed6dd88495cf94d1581a.jpg
+:name: fig-8307
+:width: 700
+
+```
 
 ---
 ## 7. Respuesta Lenta vs. Respuesta Rápida
@@ -117,7 +166,12 @@ El hidrograma (gráfico de caudal vs. tiempo) muestra dos componentes:
 * **Agua Gravitacional:** Agua en los macroporos que drena por gravedad. Esta es el agua que se convierte en flujo subsuperficial y profundo.
 * **Permeabilidad Secundaria:** Se refiere a la infiltración y flujo que no ocurre a través de los poros del suelo (matriz), sino a través de **macroporos** (fracturas, grietas de desecación, canales de raíces, madrigueras). Esta permeabilidad tiene un efecto dual: permite que el agua se infiltre *rápidamente* (reduciendo la escorrentía superficial) pero también le permite moverse *rápidamente* como flujo subsuperficial, contribuyendo a la respuesta rápida del hidrograma.
   
-  <image src=https://i.pinimg.com/736x/db/d6/58/dbd658e9049f882148da51be58eb5aa2.jpg width="600">
+  
+```{figure} https://i.pinimg.com/736x/db/d6/58/dbd658e9049f882148da51be58eb5aa2.jpg
+:name: fig-3295
+:width: 600
+
+```
 
 ---
 ## 10. Forma de la Cuenca y su Respuesta
@@ -127,7 +181,12 @@ El hidrograma (gráfico de caudal vs. tiempo) muestra dos componentes:
 * **Cuenca Alargada:** Los tributarios están escalonados. El agua de las cabeceras tarda mucho más en llegar a la salida que el agua de la parte baja.
     * **Respuesta:** Más **lenta** y **atenuada** (el pico es más bajo y se extiende por más tiempo).
   
-  <image src=https://i.pinimg.com/1200x/5b/b7/46/5bb746ebf650e27663fd8e64b25ea642.jpg width="400">
+  
+```{figure} https://i.pinimg.com/1200x/5b/b7/46/5bb746ebf650e27663fd8e64b25ea642.jpg
+:name: fig-382
+:width: 400
+
+```
 
 ---
 ## 11. Efecto de la Urbanización en la Respuesta
@@ -146,4 +205,26 @@ La urbanización (impermeabilización de suelos con concreto y asfalto) altera d
 **Efecto en los Periodos de Retorno:**
 La urbanización **aumenta la magnitud del caudal pico para un mismo periodo de retorno**. Por ejemplo, una tormenta que antes (sin urbanizar) causaba una inundación con periodo de retorno de 10 años, ahora (urbanizada) puede causar un caudal pico que antes solo se veía cada 50 o 100 años. El sistema se vuelve mucho más propenso a inundaciones frecuentes y severas.
 
-<image src=https://i.pinimg.com/736x/b8/a9/60/b8a9603575787606d8caff50ed0deb49.jpg width="700">
+
+```{figure} https://i.pinimg.com/736x/b8/a9/60/b8a9603575787606d8caff50ed0deb49.jpg
+:name: fig-7885
+:width: 700
+
+```
+---
+## Cuencas Hidrogrficas en Colombia
+
+Colombia cuenta con cinco grandes regiones hidrogrficas (Amazonas, Orinoco, Caribe, Pacfico y Catatumbo).
+
+* **Cuenca del Magdalena-Cauca:** Es la ms importante desde el punto de vista socioeconmico, drenando el 24% del territorio nacional. Es una cuenca de gran complejidad tectnica y climtica.
+* **Cuencas del Pacfico:** Caracterizadas por longitudes cortas, pendientes extremas y una de las pluviosidades ms altas del mundo (ej. cuenca del ro Atrato), lo que genera caudales especficos altsimos y gran transporte de sedimentos.
+* **Gestin de Cuencas:** En Colombia, las **POMCA** (Planes de Ordenacin y Manejo de Cuencas Hidrogrficas) son el instrumento legal para la gestin del riesgo y el recurso hdrico.
+
+---
+## Taller de Autoevaluacin
+
+1. **rdenes de Drenaje:** Dado un mapa de una red de drenaje, identifique los canales de orden 1, 2 y 3 segn Strahler. De qu orden es la cuenca si su ro principal es de orden 4?
+2. **Respuesta Hidrolgica:** Explique por qu una cuenca ovalada tiende a producir crecidas ms peligrosas que una cuenca alargada.
+3. **Urbanizacin:** Cmo afecta la pavimentacin de una cuenca al tiempo de retraso (*lag time*) entre la tormenta y el pico del hidrograma?
+4. **Perfil Longitudinal:** Describa cmo cambia el sustrato del lecho desde la cuenca alta hasta la desembocadura. Por qu ocurre este cambio?
+5. **Balance Hidrulico:** Si un ro tiene un rea de seccin de 50 m y una velocidad de 2 m/s, cul es su caudal? Si aguas abajo el rea aumenta a 100 m y no hay tributarios, cul ser la nueva velocidad promedio?

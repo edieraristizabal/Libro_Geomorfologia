@@ -1,4 +1,15 @@
+(sec-pluvial)=
 # Erosión Pluvial
+
+La erosión hídrica en laderas es uno de los procesos de denudación más activos, afectando la productividad del suelo y la estabilidad del relieve.
+
+:::{important}
+**Objetivos de aprendizaje:**
+* Diferenciar entre erosión natural y antrópica, y el concepto de erosión potencial.
+* Comprender la relación entre velocidad de flujo y transporte de sedimentos (Curva de Hjulström).
+* Identificar los diferentes procesos de erosión pluvial (splash, laminar, surcos y cárcavas).
+* Analizar los factores de control, especialmente el papel de la cobertura vegetal y la longitud de ladera.
+:::
 
 ## 1. Conceptos Fundamentales de Erosión
 
@@ -7,7 +18,12 @@
 * **Erosión Antrópica (Acelerada):** Es un incremento drástico en la tasa de erosión, causado por actividades humanas que alteran la cobertura del suelo (deforestación, agricultura intensiva, urbanización).
 * **Erosión Potencial:** Es el riesgo inherente de un área a ser erosionada, basado en sus características intrínsecas (clima, pendiente, tipo de suelo), asumiendo una falta de cobertura vegetal o manejo.
   
-<image src=https://i.pinimg.com/736x/1f/93/f7/1f93f7c9afd104d55df231c097c4f3bd.jpg width="400">
+
+```{figure} https://i.pinimg.com/736x/1f/93/f7/1f93f7c9afd104d55df231c097c4f3bd.jpg
+:name: fig-1615
+:width: 400
+
+```
   
 
 ---
@@ -20,7 +36,12 @@ La capacidad de un agente (agua o viento) para erosionar y transportar partícul
 * **Deposición:** Ocurre cuando la velocidad del fluido cae por debajo del umbral crítico para un tamaño de partícula dado, y la gravedad supera a la fuerza de transporte.
 
 
-<image src=https://i.pinimg.com/1200x/6b/c4/06/6bc4066fe7c388806f537f45bfa6fa00.jpg width="400">
+
+```{figure} https://i.pinimg.com/1200x/6b/c4/06/6bc4066fe7c388806f537f45bfa6fa00.jpg
+:name: fig-725
+:width: 400
+
+```
 
 ---
 ## 3. Tipos de Erosión
@@ -30,7 +51,12 @@ La erosión se clasifica según el agente geomorfológico dominante:
 * **Erosión Eólica:** Causada por el viento.
 * **Erosión Glacial:** Causada por el hielo en movimiento.
 
-<image src=https://i.pinimg.com/1200x/be/82/ac/be82ac4587c1c84d2579d0d238c7f40f.jpg width="600">
+
+```{figure} https://i.pinimg.com/1200x/be/82/ac/be82ac4587c1c84d2579d0d238c7f40f.jpg
+:name: fig-4806
+:width: 600
+
+```
 
 ---
 ## 4. Erosión Pluvial (Hídrica en Laderas)
@@ -44,40 +70,80 @@ Es la erosión causada por el impacto directo de las gotas de lluvia y el escurr
 * **Lluvia Efectiva (Escorrentía):** Es la porción de la precipitación que excede la capacidad de infiltración del suelo. Esta agua se convierte en escorrentía superficial (flujo *overland*) y es el agente de transporte.
 * **Longitud y Pendiente de la Ladera (Factor LS):** Laderas más largas acumulan más escorrentía, y laderas más pendientes aumentan su velocidad. Ambos factores incrementan drásticamente el poder erosivo.
   
-<image src=https://i.pinimg.com/736x/f4/aa/a0/f4aaa0c5bf2fe78e0dd6c70ab554aa70.jpg width="500">
+
+```{figure} https://i.pinimg.com/736x/f4/aa/a0/f4aaa0c5bf2fe78e0dd6c70ab554aa70.jpg
+:name: fig-5030
+:width: 500
+
+```
 
 ---
 ## 6. Procesos y Geoformas de la Erosión Pluvial
 
 La erosión pluvial en laderas sigue una progresión clara desde la desagregación inicial hasta la incisión profunda, a medida que el flujo de agua se concentra.
 
-<image src=https://i.pinimg.com/1200x/c0/a7/7d/c0a77da37970cc72ae4ffa433d90b318.jpg width="400">
+
+```{figure} https://i.pinimg.com/1200x/c0/a7/7d/c0a77da37970cc72ae4ffa433d90b318.jpg
+:name: fig-8142
+:width: 400
+
+```
 
 ### Erosión por Gota de Lluvia (Splash)
 * **Proceso:** Es el impacto directo de la gota de lluvia sobre el suelo desnudo. Esta energía cinética desagrega los agregados del suelo y "salpica" las partículas a corta distancia. En una ladera, el salpique neto tiene un componente pendiente abajo.
-<image src=https://i.pinimg.com/736x/e5/de/83/e5de83df0ffbcfc616e14e1a2bbeeff5.jpg width="400">
+
+```{figure} https://i.pinimg.com/736x/e5/de/83/e5de83df0ffbcfc616e14e1a2bbeeff5.jpg
+:name: fig-3429
+:width: 400
+
+```
 
 * **Geoforma Resultante (Estoraques o Chimeneas de Hadas):** Son geoformas residuales espectaculares. Se forman cuando un bloque de roca resistente (o suelo cementado) actúa como una "sombrilla" protectora. La erosión por *splash* y laminar elimina el material más blando circundante (a menudo cenizas volcánicas o suelos poco consolidados), dejando un pilar protegido por la roca en la cima.
-  <image src=https://i.pinimg.com/736x/b5/e0/97/b5e0977d17bb8140e701080e03c58e3f.jpg width="400">
+  
+```{figure} https://i.pinimg.com/736x/b5/e0/97/b5e0977d17bb8140e701080e03c58e3f.jpg
+:name: fig-4902
+:width: 400
+
+```
 
 ### Erosión Laminar (Sheet Erosion)
 * **Proceso:** Ocurre cuando la escorrentía fluye como una lámina delgada y uniforme sobre la superficie de la ladera. Aunque el flujo no es profundo, tiene la capacidad de transportar las partículas finas ya desagregadas por el *splash*. Es una forma de erosión peligrosa por ser poco visible, pero elimina grandes cantidades de suelo fértil (horizonte A).
 
-  <image src=https://i.pinimg.com/736x/6e/8f/d2/6e8fd269f275845dd989a3bfda92cdc7.jpg width="300">
+  
+```{figure} https://i.pinimg.com/736x/6e/8f/d2/6e8fd269f275845dd989a3bfda92cdc7.jpg
+:name: fig-9670
+:width: 300
+
+```
 
 ### Erosión en Surcos (Rills)
 * **Proceso:** A medida que la escorrentía laminar gana volumen, la turbulencia se concentra en pequeñas irregularidades del terreno, iniciando la incisión y formando pequeños canales.
 * **Geoforma:** Los *Rills* (surcos) son pequeños canales (pocos centímetros de profundidad) que siguen la línea de máxima pendiente. Son una clara señal de erosión concentrada. Son temporales y pueden ser borrados por la labranza agrícola.
   
-  <image src=https://i.pinimg.com/736x/2d/e1/12/2de112979c52042c4f48608a8e24f08f.jpg width="300">
+  
+```{figure} https://i.pinimg.com/736x/2d/e1/12/2de112979c52042c4f48608a8e24f08f.jpg
+:name: fig-9852
+:width: 300
+
+```
 
 ### Erosión en Cárcavas (Gullies)
 * **Proceso:** Es la etapa avanzada de la erosión en surcos. Cuando los *rills* coalescen, capturan más flujo y aumentan su poder erosivo, excavando canales profundos.
 * **Geoforma:** Una **cárcava** es un canal de erosión grande, profundo e incisivo, que no puede ser borrado por la labranza normal. Representa un daño severo y permanente al paisaje. La erosión remontante (Headward Erosion) es el mecanismo principal de crecimiento de las cárcavas. La erosión se concentra en la **cabeza** (cabecera) de la cárcava, donde el flujo cae como una pequeña cascada, socavando la base y provocando el colapso de la cabecera. Esto hace que la cárcava "crezca" pendiente arriba, diseccionando la ladera.
 * 
-  <image src=https://i.pinimg.com/1200x/1b/2a/c2/1b2ac28d6292c318b3b90a59da660254.jpg width="500">
+  
+```{figure} https://i.pinimg.com/1200x/1b/2a/c2/1b2ac28d6292c318b3b90a59da660254.jpg
+:name: fig-8530
+:width: 500
 
-  <image src=https://i.pinimg.com/736x/30/7e/f0/307ef09219b0b3a848f13e6695e38392.jpg width="300">
+```
+
+  
+```{figure} https://i.pinimg.com/736x/30/7e/f0/307ef09219b0b3a848f13e6695e38392.jpg
+:name: fig-1302
+:width: 300
+
+```
 
 ---
 ## 7. Medidas de Control de Erosión Pluvial
@@ -85,6 +151,32 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 Se centran en disipar la energía del agua y promover la infiltración:
 * **Control Biológico:** Reforestación, pasturas, cultivos de contorno (siguiendo las curvas de nivel), cobertura vegetal (mulch).
 * **Control Mecánico:** Construcción de terrazas, zanjas de infiltración (para cortar la longitud de la ladera), y trinchos (check dams) dentro de las cárcavas para reducir la pendiente y la velocidad del flujo.
-  <image src=https://i.pinimg.com/1200x/72/ef/39/72ef392bf387250875070b317a005201.jpg width="400">
+  
+```{figure} https://i.pinimg.com/1200x/72/ef/39/72ef392bf387250875070b317a005201.jpg
+:name: fig-8277
+:width: 400
 
-  <image src=https://i.pinimg.com/1200x/dc/dd/d4/dcddd4da37057c8d598f5075fe47e3af.jpg width="400">
+```
+
+  
+```{figure} https://i.pinimg.com/1200x/dc/dd/d4/dcddd4da37057c8d598f5075fe47e3af.jpg
+:name: fig-5533
+:width: 400
+
+```
+
+---
+## Erosin Pluvial en Colombia
+
+* **Va al Llano:** Las laderas de la Cordillera Oriental presentan crcavas gigantescas debido a la combinacin de litologas dbiles, altas pendientes y deforestacin.
+* **El desierto de La Tatacoa (Huila):** Es un ejemplo clsico de un paisaje dominado por la erosin pluvial extrema (badlands), donde la falta de vegetacin permite que el splash y el escurrimiento laminar esculpan geoformas intrincadas.
+* **Los Estoraques (Norte de Santander):** Paisaje nico de chimeneas de hadas y pilares esculpidos por la erosin pluvial en depsitos gneos y sedimentarios friables.
+
+---
+## Taller de Autoevaluacin
+
+1. **Splash:** Qu papel juega la energa cintica de la gota de lluvia en el proceso de erosin? Cmo ayuda el dosel de los rboles a reducir este efecto?
+2. **Curva de Hjulstrm:** Por qu las arcillas requieren una velocidad de flujo mayor que las arenas para ser erosionadas (desprendidas), a pesar de ser mucho ms pequeas?
+3. **Evolucin de Geoformas:** Describa la progresin de la erosin hdrica en laderas, desde el impacto de la gota hasta la formacin de una crcava.
+4. **Erosin Remontante:** Explique el mecanismo por el cual una crcava crece pendiente arriba.
+5. **Manejo de Suelos:** Por qu los cultivos de contorno (siguiendo curvas de nivel) son ms efectivos que los cultivos en el sentido de la pendiente para controlar la erosin laminar?
