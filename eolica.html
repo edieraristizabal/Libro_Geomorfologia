@@ -1,0 +1,686 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Erosión Eólica &#8212; Geomorfología Aplicada</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'eolica';</script>
+    <link rel="canonical" href="https://edieraristizabal.github.io/Libro_Geomorfologia/eolica.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Geomorfología de Cuencas Hidrográficas" href="cuencas.html" />
+    <link rel="prev" title="Erosión Pluvial" href="pluvial.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.png" class="logo__image only-light" alt="Geomorfología Aplicada - Home"/>
+    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="Geomorfología Aplicada - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    GEOMORFOLOGÍA EN AMBIENTES TROPICALES
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Parte I: Fundamentos de Geomorfología</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="conceptos.html">Conceptos fundamentales en Geomorfología</a></li>
+<li class="toctree-l1"><a class="reference internal" href="evolucion.html">Teorías Clásicas de la Evolución de Laderas</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Parte II: Procesos Endógenos</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="morfotectonica.html">Morfotectónica y geomorfología estructural</a></li>
+<li class="toctree-l1"><a class="reference internal" href="volcanico.html">Geomorfología de Ambientes Volcánicos</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Parte III: Procesos Exógenos</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="glacial.html">Geomorfología Glacial y Periglacial</a></li>
+<li class="toctree-l1"><a class="reference internal" href="meteorizacion.html">Meteorización: procesos, perfiles y geoformas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="MenM.html">Geomorfología de Movimientos en Masa</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pluvial.html">Erosión Pluvial</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Erosión Eólica</a></li>
+<li class="toctree-l1"><a class="reference internal" href="cuencas.html">Geomorfología de Cuencas Hidrográficas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="torrencial.html">Ambientes Torrenciales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="aluvial.html">Geomorfología de Ambientes Fluviales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="delta.html">Geomorfología de Ambientes Deltaicos</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/edieraristizabal/Libro_Geomorfologia" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/edieraristizabal/Libro_Geomorfologia/edit/main/./eolica.md" target="_blank"
+   class="btn btn-sm btn-source-edit-button dropdown-item"
+   title="Suggest edit"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="btn__text-container">Suggest edit</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/edieraristizabal/Libro_Geomorfologia/issues/new?title=Issue%20on%20page%20%2Feolica.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/eolica.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Erosión Eólica</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#transporte-eolico">9. Transporte Eólico</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#procesos-y-geoformas-de-erosion-eolica-deflacion-y-abrasion">10. Procesos y Geoformas de Erosión Eólica (Deflación y Abrasión)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#procesos">Procesos</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#geoformas-resultantes">Geoformas Resultantes</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dunas-acumulacion-eolica">11. Dunas: Acumulación Eólica</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tipos-de-dunas-relacion-viento-y-sedimento">12. Tipos de Dunas: Relación Viento y Sedimento</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#clasificacion-de-dunas">13. Clasificación de Dunas</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="erosion-eolica">
+<span id="sec-eolica"></span><h1>Erosión Eólica<a class="headerlink" href="#erosion-eolica" title="Permalink to this heading">#</a></h1>
+<p>Es el desprendimiento y transporte de material (principalmente limo y arena) por la acción del viento. Es el proceso geomorfológico dominante en ambientes áridos, semiáridos y costeros.</p>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p><strong>Objetivos de aprendizaje:</strong></p>
+<ul class="simple">
+<li><p>Identificar los mecanismos de transporte eólico (suspensión, saltación y reptación).</p></li>
+<li><p>Diferenciar los procesos de deflación y abrasión eólica y sus geoformas resultantes (pavimentos, ventifactos, yardangs).</p></li>
+<li><p>Clasificar los tipos de dunas en función de la disponibilidad de arena y la dirección del viento.</p></li>
+</ul>
+</div>
+<hr class="docutils" />
+<section id="transporte-eolico">
+<h2>9. Transporte Eólico<a class="headerlink" href="#transporte-eolico" title="Permalink to this heading">#</a></h2>
+<p>El viento mueve las partículas mediante tres mecanismos:</p>
+<ul class="simple">
+<li><p><strong>Suspensión:</strong> Partículas muy finas (arcilla, limo) que son levantadas y transportadas a grandes alturas y distancias (ej. polvo del Sahara llegando al Amazonas).</p></li>
+<li><p><strong>Saltación:</strong> El mecanismo principal (80% del transporte). Partículas de arena (0.1-0.5 mm) que son levantadas por el viento, viajan en un arco balístico, y al golpear la superficie desprenden a otras partículas.</p></li>
+<li><p><strong>Reptación (Creep):</strong> Partículas más gruesas que son empujadas y rodadas por la superficie.</p></li>
+</ul>
+<figure class="align-default" id="fig-6777">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/60/69/1b/60691bf598b4bd6dddebf3d9f404d647.jpg"><img alt="https://i.pinimg.com/736x/60/69/1b/60691bf598b4bd6dddebf3d9f404d647.jpg" src="https://i.pinimg.com/736x/60/69/1b/60691bf598b4bd6dddebf3d9f404d647.jpg" style="width: 400px;" /></a>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="procesos-y-geoformas-de-erosion-eolica-deflacion-y-abrasion">
+<h2>10. Procesos y Geoformas de Erosión Eólica (Deflación y Abrasión)<a class="headerlink" href="#procesos-y-geoformas-de-erosion-eolica-deflacion-y-abrasion" title="Permalink to this heading">#</a></h2>
+<section id="procesos">
+<h3>Procesos<a class="headerlink" href="#procesos" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Deflación:</strong> Es el “barrido” selectivo del viento, que levanta y se lleva las partículas finas (arena, limo), dejando atrás los fragmentos más gruesos (grava, cantos) como un “rezago”.</p></li>
+<li><p><strong>Abrasión Eólica:</strong> Es el “lijado” o pulido de las superficies rocosas por el impacto de las partículas de arena transportadas en saltación. Es más efectiva en el primer metro sobre la superficie.</p></li>
+</ul>
+<figure class="align-default" id="fig-8180">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/c7/63/9d/c7639dccca9b6b7e3445ba6bf84ba4a1.jpg"><img alt="https://i.pinimg.com/736x/c7/63/9d/c7639dccca9b6b7e3445ba6bf84ba4a1.jpg" src="https://i.pinimg.com/736x/c7/63/9d/c7639dccca9b6b7e3445ba6bf84ba4a1.jpg" style="width: 400px;" /></a>
+</figure>
+</section>
+<section id="geoformas-resultantes">
+<h3>Geoformas Resultantes<a class="headerlink" href="#geoformas-resultantes" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Pavimento Desértico (Desert Pavement):</strong> Una superficie de cantos y gravas fuertemente entrelazados, formada por la deflación completa de los finos. Una vez formado, protege al material subyacente de futura erosión.</p></li>
+</ul>
+<figure class="align-default" id="fig-8225">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/09/bd/40/09bd40374b29345c7d4d9e0857c24440.jpg"><img alt="https://i.pinimg.com/736x/09/bd/40/09bd40374b29345c7d4d9e0857c24440.jpg" src="https://i.pinimg.com/736x/09/bd/40/09bd40374b29345c7d4d9e0857c24440.jpg" style="width: 400px;" /></a>
+</figure>
+<ul class="simple">
+<li><p><strong>Ventifactos:</strong> Rocas pulidas, facetadas y estriadas por la abrasión eólica. La orientación de las facetas indica la dirección del viento dominante.</p></li>
+</ul>
+<figure class="align-default" id="fig-8635">
+<a class="reference internal image-reference" href="https://i.pinimg.com/1200x/e6/a9/c7/e6a9c78ec8bcd72a6577253995880be4.jpg"><img alt="https://i.pinimg.com/1200x/e6/a9/c7/e6a9c78ec8bcd72a6577253995880be4.jpg" src="https://i.pinimg.com/1200x/e6/a9/c7/e6a9c78ec8bcd72a6577253995880be4.jpg" style="width: 400px;" /></a>
+</figure>
+<ul class="simple">
+<li><p><strong>Yardangs:</strong> Crestas rocosas alargadas y aerodinámicas, esculpidas por la abrasión, paralelas a la dirección del viento.</p></li>
+</ul>
+<figure class="align-default" id="fig-5904">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/28/e3/6e/28e36eff21b68784ee8f524cf6ee2268.jpg"><img alt="https://i.pinimg.com/736x/28/e3/6e/28e36eff21b68784ee8f524cf6ee2268.jpg" src="https://i.pinimg.com/736x/28/e3/6e/28e36eff21b68784ee8f524cf6ee2268.jpg" style="width: 400px;" /></a>
+</figure>
+</section>
+</section>
+<hr class="docutils" />
+<section id="dunas-acumulacion-eolica">
+<h2>11. Dunas: Acumulación Eólica<a class="headerlink" href="#dunas-acumulacion-eolica" title="Permalink to this heading">#</a></h2>
+<p>Una <strong>duna</strong> es una acumulación de arena transportada por el viento. Una duna activa tiene una morfología asimétrica:</p>
+<ul class="simple">
+<li><p><strong>Cara de Barlovento:</strong> Pendiente suave (~10-15°) por donde la arena sube por saltación.</p></li>
+<li><p><strong>Cara de Sotavento (Cara de Deslizamiento):</strong> Pendiente abrupta que mantiene el ángulo de reposo de la arena (~34°). La duna migra a medida que la arena cae por esta cara.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="tipos-de-dunas-relacion-viento-y-sedimento">
+<h2>12. Tipos de Dunas: Relación Viento y Sedimento<a class="headerlink" href="#tipos-de-dunas-relacion-viento-y-sedimento" title="Permalink to this heading">#</a></h2>
+<p>La morfología de las dunas depende de dos factores clave: la <strong>disponibilidad de arena</strong> y la <strong>direccionalidad del viento</strong>.</p>
+<figure class="align-default" id="fig-8209">
+<a class="reference internal image-reference" href="https://i.pinimg.com/1200x/b9/a3/b1/b9a3b1bec736133ab62844d191a99b52.jpg"><img alt="https://i.pinimg.com/1200x/b9/a3/b1/b9a3b1bec736133ab62844d191a99b52.jpg" src="https://i.pinimg.com/1200x/b9/a3/b1/b9a3b1bec736133ab62844d191a99b52.jpg" style="width: 600px;" /></a>
+</figure>
+</section>
+<hr class="docutils" />
+<section id="clasificacion-de-dunas">
+<h2>13. Clasificación de Dunas<a class="headerlink" href="#clasificacion-de-dunas" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Barján (Barchan):</strong></p>
+<ul>
+<li><p><strong>Forma:</strong> Media luna. Los “cuernos” apuntan en la dirección del viento.</p></li>
+<li><p><strong>Condiciones:</strong> Suministro <strong>limitado</strong> de arena y viento <strong>unidireccional</strong>. Son dunas rápidas y móviles.</p></li>
+</ul>
+</li>
+</ul>
+<figure class="align-default" id="fig-5797">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/60/d1/b5/60d1b5ca41efdb4bc896eb2b6b8e13c8.jpg"><img alt="https://i.pinimg.com/736x/60/d1/b5/60d1b5ca41efdb4bc896eb2b6b8e13c8.jpg" src="https://i.pinimg.com/736x/60/d1/b5/60d1b5ca41efdb4bc896eb2b6b8e13c8.jpg" style="width: 600px;" /></a>
+</figure>
+<ul class="simple">
+<li><p><strong>Duna Transversal (Transverse):</strong></p>
+<ul>
+<li><p><strong>Forma:</strong> Crestas largas y rectilíneas, perpendiculares a la dirección del viento. Son esencialmente barjanes unidos lateralmente.</p></li>
+<li><p><strong>Condiciones:</strong> Suministro <strong>abundante</strong> de arena y viento <strong>unidireccional</strong>.</p></li>
+</ul>
+</li>
+</ul>
+<figure class="align-default" id="fig-2399">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/2f/34/98/2f3498b15b2479320fcb2171e1492f77.jpg"><img alt="https://i.pinimg.com/736x/2f/34/98/2f3498b15b2479320fcb2171e1492f77.jpg" src="https://i.pinimg.com/736x/2f/34/98/2f3498b15b2479320fcb2171e1492f77.jpg" style="width: 600px;" /></a>
+</figure>
+<ul class="simple">
+<li><p><strong>Duna Longitudinal (o Seif):</strong></p>
+<ul>
+<li><p><strong>Forma:</strong> Crestas largas, rectilíneas y paralelas a la dirección resultante del viento.</p></li>
+<li><p><strong>Condiciones:</strong> Suministro <strong>limitado</strong> de arena y viento <strong>bidireccional</strong> (dos direcciones convergentes en ángulo agudo).</p></li>
+</ul>
+</li>
+</ul>
+<figure class="align-default" id="fig-6374">
+<a class="reference internal image-reference" href="https://i.pinimg.com/736x/8e/9e/3b/8e9e3b6733eabe31d8a13e4bb48de8e1.jpg"><img alt="https://i.pinimg.com/736x/8e/9e/3b/8e9e3b6733eabe31d8a13e4bb48de8e1.jpg" src="https://i.pinimg.com/736x/8e/9e/3b/8e9e3b6733eabe31d8a13e4bb48de8e1.jpg" style="width: 600px;" /></a>
+</figure>
+<ul class="simple">
+<li><p><strong>Duna Parabólica:</strong></p>
+<ul>
+<li><p><strong>Forma:</strong> Forma de U o V. Los “cuernos” apuntan <em>contra</em> el viento.</p></li>
+<li><p><strong>Condiciones:</strong> Se forman por la deflación (<em>blowout</em>) de la arena, donde la vegetación ancla los brazos (cuernos) y permite que la parte central avance.</p></li>
+</ul>
+</li>
+</ul>
+<figure class="align-default" id="fig-8863">
+<a class="reference internal image-reference" href="https://i.pinimg.com/1200x/a6/0d/80/a60d80a8fc5d47c7db07ba55f572c635.jpg"><img alt="https://i.pinimg.com/1200x/a6/0d/80/a60d80a8fc5d47c7db07ba55f572c635.jpg" src="https://i.pinimg.com/1200x/a6/0d/80/a60d80a8fc5d47c7db07ba55f572c635.jpg" style="width: 600px;" /></a>
+</figure>
+<ul class="simple">
+<li><p><strong>Duna en Estrella (Star):</strong></p>
+<ul>
+<li><p><strong>Forma:</strong> Montículo piramidal con varias crestas afiladas que radian desde un punto central.</p></li>
+<li><p><strong>Condiciones:</strong> Suministro <strong>abundante</strong> de arena y viento <strong>multidireccional</strong>. Estas dunas crecen verticalmente más que migrar.</p></li>
+</ul>
+</li>
+</ul>
+<figure class="align-default" id="fig-9685">
+<a class="reference internal image-reference" href="https://i.pinimg.com/1200x/25/c6/74/25c674e877d89df0eec0370abfe5d6d2.jpg"><img alt="https://i.pinimg.com/1200x/25/c6/74/25c674e877d89df0eec0370abfe5d6d2.jpg" src="https://i.pinimg.com/1200x/25/c6/74/25c674e877d89df0eec0370abfe5d6d2.jpg" style="width: 600px;" /></a>
+</figure>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="pluvial.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Erosión Pluvial</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="cuencas.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Geomorfología de Cuencas Hidrográficas</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#transporte-eolico">9. Transporte Eólico</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#procesos-y-geoformas-de-erosion-eolica-deflacion-y-abrasion">10. Procesos y Geoformas de Erosión Eólica (Deflación y Abrasión)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#procesos">Procesos</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#geoformas-resultantes">Geoformas Resultantes</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#dunas-acumulacion-eolica">11. Dunas: Acumulación Eólica</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tipos-de-dunas-relacion-viento-y-sedimento">12. Tipos de Dunas: Relación Viento y Sedimento</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#clasificacion-de-dunas">13. Clasificación de Dunas</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Edier V. Aristizábal G.
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2026.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
