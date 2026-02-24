@@ -1,14 +1,14 @@
-(sec-volcanico)=
-# Geomorfología de Ambientes Volcánicos
+(sec-volcaúnico)=
+# Geomorfología de Ambientes Volcáúnicos
 
-La geomorfología volcánica estudia las formas del relieve creadas por la erupción y acumulación de material magmático. A diferencia de otros paisajes, los volcánicos son fundamentalmente **constructivos**, aunque también se generan geoformas **excavacionales** por colapso o explosión.
+La geomorfología volcáúnica estudia las formas del relieve creadas por la erupción y acumulación de material magmático. A diferencia de otros paisajes, los volcáúnicos son fundamentalmente **constructivos**, aunque también se generan geoformas **excavacionales** por colapso o explosión.
 
 :::{important}
 **Objetivos de aprendizaje:**
-* Relacionar las propiedades físico-químicas del magma con el estilo eruptivo y la morfología del edificio volcánico.
+* Relacionar las propiedades físico-químicas del magma con el estilo eruptivo y la morfología del edificio volcáúnico.
 * Identificar y diferenciar geoformas constructivas (escudos, estratovolcanes, domos) y excavacionales (calderas, maars).
-* Comprender la dinámica de los procesos gravitacionales volcánicos (lahares y avalanchas de escombros) y su riesgo asociado.
-* Conocer los principales sistemas volcánicos colombianos y sus geoformas características.
+* Comprender la dinámica de los procesos gravitacionales volcáúnicos (lahares y avalanchas de escombros) y su riesgo asociado.
+* Conocer los principales sistemas volcáúnicos colombianos y sus geoformas características.
 :::
 
 
@@ -44,15 +44,15 @@ El estilo eruptivo describe cómo el magma y los gases salen del volcán. Depend
 ```
 
 ---
-## 2. Geoformas Volcánicas Construccionales
-Formadas por la acumulación de material volcánico.
+## 2. Geoformas Volcáúnicas Construccionales
+Formadas por la acumulación de material volcáúnico.
 
 ### 2.1. Clasificación por Historia Eruptiva
-* **Volcanes Monogenéticos:** Formados en un único episodio eruptivo. Son pequeños y de morfología simple (ej. conos de escoria, maars).
+* **Volcanes Monogenéticos:** Formados en un úúnico episodio eruptivo. Son pequeños y de morfología simple (ej. conos de escoria, maars).
 * **Conos de Escoria (*Cinder Cones*):** Conos de laderas rectas con pendientes de ~33° (el ángulo de reposo), formados por la acumulación de escoria de erupciones Estrombolianas.
 * **Domos de Lava (*Lava Domes*):** Montículos de laderas muy empinadas y forma de cúpula, formados por la extrusión de lava félsica muy viscosa.
 
-### 2.2. Grandes Edificios Volcánicos (Poligenéticos)
+### 2.2. Grandes Edificios Volcáúnicos (Poligenéticos)
 Grandes edificios construidos por múltiples erupciones a lo largo de miles de años (ej. estratovolcanes, volcanes en escudo).
 
 * **Volcanes en Escudo (*Shield Volcanoes*):** Inmensos volcanes de pendientes muy suaves (<10°), construidos por la acumulación de miles de flujos de lava basáltica fluida (estilo Hawaiano).
@@ -66,7 +66,7 @@ Grandes edificios construidos por múltiples erupciones a lo largo de miles de a
 ```
 
 ---
-## 3. Geoformas Volcánicas Excavacionales
+## 3. Geoformas Volcáúnicas Excavacionales
 Formadas por explosión o colapso.
 
 * **Maars y Vulcanismo Freatomagmático:** Cráteres de explosión anchos y de bajo relieve, formados por la interacción violenta de magma con agua.
@@ -90,11 +90,11 @@ Formadas por explosión o colapso.
 ---
 ## 4. Procesos y Depósitos Asociados
 
-### 4.1. Materiales Volcánicos Fragmentarios
+### 4.1. Materiales Volcáúnicos Fragmentarios
 * **Piroclastos:** Fragmentos de explosiones magmáticas. El conjunto de piroclastos transportados por el aire es la **tefra**.
 * **Hidroclastos:** Fragmentos del choque térmico magma-agua.
 * **Autoclastos:** Fragmentos por fricción en flujos de lava viscosos.
-* **Epiclastos:** Fragmentos volcánicos retrabajados por procesos superficiales (fluviales, etc.).
+* **Epiclastos:** Fragmentos volcáúnicos retrabajados por procesos superficiales (fluviales, etc.).
 
 ### 4.2. Depósitos Piroclásticos
 * **De Caída (*Fall*):** Bien seleccionados, cubren el paisaje como un manto.
@@ -114,13 +114,13 @@ Formadas por explosión o colapso.
 
 ### 4.4. Procesos Gravitacionales
 * **Colapsos de Flanco y Avalanchas de Escombros:** Colapso de un sector del volcán, formando un anfiteatro y un depósito de avalancha con topografía de montículos (*hummocks*).
-* **Lahares:** Flujos de lodo y escombros volcánicos que canalizan por los valles, con un poder erosivo y depositacional inmenso.
+* **Lahares:** Flujos de lodo y escombros volcáúnicos que canalizan por los valles, con un poder erosivo y depositacional inmenso.
 
 ---
 ## 5. Geoformas Erosivas y Subsuperficiales Expuestas
 
 ### 5.1. Remanentes Erosivos
-* **Cuello Volcánico (*Volcanic Neck*):** El conducto solidificado de un volcán expuesto por la erosión del cono circundante. A menudo presenta **diques radiales**.
+* **Cuello Volcáúnico (*Volcanic Neck*):** El conducto solidificado de un volcán expuesto por la erosión del cono circundante. A menudo presenta **diques radiales**.
 * **Lava Mesa:** Un remanente de una meseta de lava, donde el flujo resistente actúa como *caprock*.
 
 
@@ -130,8 +130,8 @@ Formadas por explosión o colapso.
 
 ```
 
-### 5.2. Estructuras Intrusivas (Plutónicas)
-La "fontanería" del sistema volcánico, expuesta por la erosión a largo plazo.
+### 5.2. Estructuras Intrusivas (Plutóúnicas)
+La "fontanería" del sistema volcáúnico, expuesta por la erosión a largo plazo.
 * **Batolitos y Stocks:** Grandes masas de roca ígnea que representan antiguas cámaras magmáticas.
 * **Diques (*Dykes*) y Sills:** Cuerpos tabulares que cortan (diques) o son paralelos (sills) a la roca encajante.
 * **Laccolitos:** Intrusiones en forma de hongo que deforman los estratos superiores.
@@ -146,12 +146,12 @@ La "fontanería" del sistema volcánico, expuesta por la erosión a largo plazo.
 ---
 ## Volcanismo en Colombia
 
-Los Andes colombianos albergan una gran variedad de centros volcánicos, principalmente en la Cordillera Central.
+Los Andes colombianos albergan una gran variedad de centros volcáúnicos, principalmente en la Cordillera Central.
 
-* **Grandes Estratovolcanes:** Ejemplos emblemáticos son el **Nevado del Ruiz**, el **Nevado del Huila** y el **Volcán Galeras**. Presentan morfologías cónicas clásicas y han sido escenario de grandes lahares históricos.
+* **Grandes Estratovolcanes:** Ejemplos emblemáticos son el **Nevado del Ruiz**, el **Nevado del Huila** y el **Volcán Galeras**. Presentan morfologías cóúnicas clásicas y han sido escenario de grandes lahares históricos.
 * **Calderas:** La **Caldera de Paletará** en el Cauca es un ejemplo de colapso de gran magnitud.
 * **Vulcanismo Monogenético:** Existen campos de conos de escoria y maars, como los de la zona de **San Diego** (Antioquia) o en el departamento de **Nariño**.
-* **Remanentes Erosivos:** El **Peñol de Guatapé** es a menudo confundido, pero es un batolito; sin embargo, existen cuellos volcánicos reales expuestos en departamentos como Caldas.
+* **Remanentes Erosivos:** El **Peñol de Guatapé** es a menudo confundido, pero es un batolito; sin embargo, existen cuellos volcáúnicos reales expuestos en departamentos como Caldas.
 
 ---
 ## Taller de Autoevaluación
@@ -159,6 +159,6 @@ Los Andes colombianos albergan una gran variedad de centros volcánicos, princip
 1. **Magma y Morfología:** ¿Por qué un volcán en escudo (ej. Mauna Loa) tiene pendientes mucho más suaves que un estratovolcán (ej. Nevado del Ruiz)? Relacione su respuesta con la viscosidad del magma.
 2. **Geoformas Excavacionales:** Describa el proceso de formación de una **caldera**. ¿En qué se diferencia de un cráter eruptivo simple?
 3. **Piroclastos:** Explique la diferencia entre un depósito de tefra por caída y una ignimbrita. ¿Cuál de los dos tiende a rellenar la topografía previa y cuál la cubre de forma uniforme?
-4. **Peligros Volcánicos:** En el contexto colombiano, ¿qué es un **lahar** y por qué representan un riesgo tan elevado incluso en zonas alejadas del cráter?
+4. **Peligros Volcáúnicos:** En el contexto colombiano, ¿qué es un **lahar** y por qué representan un riesgo tan elevado incluso en zonas alejadas del cráter?
 5. **Identificación de Campo:** Si observa una colina aislada con diques radiales y una masa central vertical de roca ígnea, ¿frente a qué geoforma se encuentra?
 

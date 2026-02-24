@@ -18,7 +18,7 @@ Este documento aborda los conceptos y procesos fundamentales que rigen la dinám
 
 * Describir las características sedimentológicas de los depósitos aluviales y las geoformas de la llanura de inundación.
 
-* Analizar la formación de terrazas fluviales y abanicos aluviales como indicadores de cambios ambientales y de base.
+* Analizar la formación de terrazas fluviales y abaúnicos aluviales como indicadores de cambios ambientales y de base.
 
 :::
 
@@ -127,7 +127,7 @@ Los depósitos aluviales son aquellos sedimentos transportados y depositados por
 
 * **Estructuras de Sedimentación:**
 
-    * **Estratificación Cruzada:** Común en las barras de meandro y abanicos aluviales, indica la migración de dunas o ripples por el fondo del canal.
+    * **Estratificación Cruzada:** Común en las barras de meandro y abaúnicos aluviales, indica la migración de dunas o ripples por el fondo del canal.
 
     * **Estratificación Plano-Paralela:** Típica de depósitos de inundación en las cubetas (*backswamps*).
 
@@ -143,7 +143,7 @@ Los depósitos aluviales son aquellos sedimentos transportados y depositados por
 
     * **Depósitos de *Channel Lag*:** Material grueso (bloques, cantos) que queda en la base del canal.
 
-    * **Lodos de Cubeta de Inundación (*Flood Basin Fines*):** Sedimentos muy finos (limos y arcillas) depositados por suspensión en las ááreas más alejadas del canal durante las crecidas.
+    * **Lodos de Cubeta de Inundación (*Flood Basin Fines*):** Sedimentos muy finos (limos y arcillas) depositados por suspensión en las áááreas más alejadas del canal durante las crecidas.
 
 
 
@@ -190,7 +190,7 @@ Las **terrazas fluviales** son antiguos niveles de llanura de inundación que ha
 
 * **Terrazas Agradacionales (Deposicionales):** Se forman cuando el río primero **deposita** un gran volumen de sedimento (agradación) y luego **incide** en ese depósito. La terraza está completamente formada por el material aluvial depositado. Indican un predominio de la acumulación de sedimentos.
 
-* **Terrazas Apareadas (*Paired*):** Las terrazas se encuentran a la misma elevación en ambos lados del valle. Generalmente indican un cambio rápido y vertical en el nivel de base (ej. levantamiento tectónico, descenso del nivel del mar).
+* **Terrazas Apareadas (*Paired*):** Las terrazas se encuentran a la misma elevación en ambos lados del valle. Generalmente indican un cambio rápido y vertical en el nivel de base (ej. levantamiento tectóúnico, descenso del nivel del mar).
 
 * **Terrazas No Apareadas (*Unpaired*):** Las terrazas no se encuentran a la misma elevación en los lados opuestos. Generalmente indican una incisión lenta combinada con una migración lateral constante del río.
 
@@ -207,15 +207,15 @@ Las **terrazas fluviales** son antiguos niveles de llanura de inundación que ha
 
 ---
 
-## 6. Abanicos Aluviales
+## 6. Abaúnicos Aluviales
 
-Un **abanico aluvial** es una geoforma de deposición de bajo gradiente, con forma de cono que irradia desde un punto de salida confinado (usualmente la boca de un valle de montaña) hacia una llanura adyacente.
+Un **abaúnico aluvial** es una geoforma de deposición de bajo gradiente, con forma de cono que irradia desde un punto de salida confinado (usualmente la boca de un valle de montaña) hacia una llanura adyacente.
 
 
 
 * **Proceso:** Se forman donde un río experimenta una **disminución súbita y drástica de la pendiente y la confinación lateral**. Al salir del valle estrecho, la energía del flujo se dispersa rápidamente, obligando al río a depositar su carga de sedimento, especialmente en el **ápice** (la parte más cercana a la montaña).
 
-* **Morfología:** El canal es generalmente **trenzado** (*braided*) e inestable en el abanico.
+* **Morfología:** El canal es generalmente **trenzado** (*braided*) e inestable en el abaúnico.
 
 * **Depósitos:** Son extremadamente **gruesos y mal seleccionados** (debido a la mezcla de flujos de agua y flujos de detritos), lo que los convierte en zonas de alto riesgo geomorfológico.
 
@@ -230,15 +230,15 @@ Un **abanico aluvial** es una geoforma de deposición de bajo gradiente, con for
 
 ---
 
-## Ríos y Abanicos en Colombia
+## Ríos y Abaúnicos en Colombia
 
 
 
 * **Río Magdalena:** Es un sistema meándrico-trenzado complejo con una llanura de inundación inmensa poblada por ciénagas (cubetas de inundación).
 
-* **Abanicos Aluviales del Piedemonte Llanero:** Son algunos de los abanicos más extensos del mundo, formados por la salida de los ríos andinos hacia la Orinoquía.
+* **Abaúnicos Aluviales del Piedemonte Llanero:** Son algunos de los abaúnicos más extensos del mundo, formados por la salida de los ríos andinos hacia la Orinoquía.
 
-* **Río Cauca:** En su curso medio, presenta terrazas fluviales apareadas y no apareadas que registran el levantamiento tectónico de los Andes.
+* **Río Cauca:** En su curso medio, presenta terrazas fluviales apareadas y no apareadas que registran el levantamiento tectóúnico de los Andes.
 
 
 
@@ -256,5 +256,5 @@ Un **abanico aluvial** es una geoforma de deposición de bajo gradiente, con for
 
 4. **Sedimentología:** ¿Qué significa que un depósito aluvial tenga una secuencia de 'fining upward'?
 
-5. **Abanicos vs Deltas:** ¿Cuál es la diferencia fundamental en el ambiente receptor entre un abanico aluvial y un delta?
+5. **Abaúnicos vs Deltas:** ¿Cuál es la diferencia fundamental en el ambiente receptor entre un abaúnico aluvial y un delta?
 

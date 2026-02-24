@@ -98,7 +98,7 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 
 ```
 
-* **Geoforma Resultante (Estoraques o Chimeneas de Hadas):** Son geoformas residuales espectaculares. Se forman cuando un bloque de roca resistente (o suelo cementado) actúa como una "sombrilla" protectora. La erosión por *splash* y laminar elimina el material más blando circundante (a menudo cenizas volcánicas o suelos poco consolidados), dejando un pilar protegido por la roca en la cima.
+* **Geoforma Resultante (Estoraques o Chimeneas de Hadas):** Son geoformas residuales espectaculares. Se forman cuando un bloque de roca resistente (o suelo cementado) actúa como una "sombrilla" protectora. La erosión por *splash* y laminar elimina el material más blando circundante (a menudo cenizas volcáúnicas o suelos poco consolidados), dejando un pilar protegido por la roca en la cima.
   
 ```{figure} https://i.pinimg.com/736x/b5/e0/97/b5e0977d17bb8140e701080e03c58e3f.jpg
 :name: fig-4902
@@ -150,7 +150,7 @@ La erosión pluvial en laderas sigue una progresión clara desde la desagregaci�
 
 Se centran en disipar la energía del agua y promover la infiltración:
 * **Control Biológico:** Reforestación, pasturas, cultivos de contorno (siguiendo las curvas de nivel), cobertura vegetal (mulch).
-* **Control Mecánico:** Construcción de terrazas, zanjas de infiltración (para cortar la longitud de la ladera), y trinchos (check dams) dentro de las cárcavas para reducir la pendiente y la velocidad del flujo.
+* **Control Mecáúnico:** Construcción de terrazas, zanjas de infiltración (para cortar la longitud de la ladera), y trinchos (check dams) dentro de las cárcavas para reducir la pendiente y la velocidad del flujo.
   
 ```{figure} https://i.pinimg.com/1200x/72/ef/39/72ef392bf387250875070b317a005201.jpg
 :name: fig-8277
@@ -166,17 +166,17 @@ Se centran en disipar la energía del agua y promover la infiltración:
 ```
 
 ---
-## Erosin Pluvial en Colombia
+## Erosión Pluvial en Colombia
 
-* **Va al Llano:** Las laderas de la Cordillera Oriental presentan crcavas gigantescas debido a la combinacin de litologas dbiles, altas pendientes y deforestacin.
-* **El desierto de La Tatacoa (Huila):** Es un ejemplo clsico de un paisaje dominado por la erosión pluvial extrema (badlands), donde la falta de vegetacin permite que el splash y el escurrimiento laminar esculpan geoformas intrincadas.
-* **Los Estoraques (Norte de Santander):** Paisaje nico de chimeneas de hadas y pilares esculpidos por la erosión pluvial en depósitos gneos y sedimentarios friables.
+* **Va al Llano:** Las laderas de la Cordillera Oriental presentan cárcavas gigantescas debido a la combinación de litologas débiles, altas pendientes y deforestacin.
+* **El desierto de La Tatacoa (Huila):** Es un ejemplo clásico de un paisaje dominado por la erosión pluvial extrema (badlands), donde la falta de vegetación permite que el splash y el escurrimiento laminar esculpan geoformas intrincadas.
+* **Los Estoraques (Norte de Santander):** Paisaje único de chimeneas de hadas y pilares esculpidos por la erosión pluvial en depósitos ígneos y sedimentarios friables.
 
 ---
 ## Taller de Autoevaluación
 
-1. **Splash:** Qué papel juega la energía cinética de la gota de lluvia en el proceso de erosión? Cómo ayuda el dosel de los árboles a reducir este efecto?
-2. **Curva de Hjulstrm:** Por qué las arcillas requieren una velocidad de flujo mayor que las arenas para ser erosionadas (desprendidas), a pesar de ser mucho más pequeñas?
-3. **Evolucin de Geoformas:** Describa la progresin de la erosión hdrica en laderas, desde el impacto de la gota hasta la formación de una crcava.
-4. **Erosin Remontante:** Explique el mecanismo por el cual una crcava crece pendiente arriba.
+1. **Splash:** Qué papel juega la energía cinética de la gota de lluvia en el proceso de erosión? Cómo ayuda el dosel de los áárboles a reducir este efecto?
+2. **Curva de Hjulström:** Por qué las arcillas requieren una velocidad de flujo mayor que las arenas para ser erosionadas (desprendidas), a pesar de ser mucho más pequeñas?
+3. **Evolucin de Geoformas:** Describa la progresión de la erosión hídrica en laderas, desde el impacto de la gota hasta la formación de una cárcava.
+4. **Erosión Remontante:** Explique el mecanismo por el cual una cárcava crece pendiente arriba.
 5. **Manejo de Suelos:** Por qué los cultivos de contorno (siguiendo curvas de nivel) son más efectivos que los cultivos en el sentido de la pendiente para controlar la erosión laminar?

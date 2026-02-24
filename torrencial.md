@@ -91,7 +91,7 @@ escudo
 Aristizábal et al. (2020) proponen la clasificación de **creciente súbita, inundación de escombros y flujo de escombros**. Estos tipos representan un continuo basado en la concentración y tamaño del sedimento.
 
 Un flujo torrencial pierde energía y se detiene principalmente por:
-* **Disminución de la Pendiente:** Es el factor principal. Al llegar a zonas de menor gradiente (abanicos aluviales, valles principales), la gravedad ya no puede sostener el movimiento.
+* **Disminución de la Pendiente:** Es el factor principal. Al llegar a zonas de menor gradiente (abaúnicos aluviales, valles principales), la gravedad ya no puede sostener el movimiento.
 * **Pérdida de Confinamiento:** El flujo sale de un canal estrecho y se expande lateralmente, disipando su energía sobre un área mayor.
 * **Pérdida de Agua (Infiltración):** El agua se infiltra en el lecho, aumentando la fricción interna y "congelando" el flujo.
 * **Aumento de Carga (Bulking):** La erosión de más sedimento puede, hasta cierto punto, aumentar la fricción interna y la viscosidad, frenando el flujo.
@@ -235,11 +235,11 @@ escudo
 ---
 ## Avenidas Torrenciales en Colombia
 
-Colombia es extremadamente vulnerable a estos fenmenos debido a su relieve joven y alta pluviosidad.
+Colombia es extremadamente vulnerable a estos fenómenos debido a su relieve joven y alta pluviosidad.
 
 * **Eventos Emblemticos:** El flujo de detritos de **Mocoa (2017)** es uno de los más estudiados recientemente, demostrando el poder destructivo de los flujos de escombros en cuencas pequeñas.
 * **Salgar (2015):** Una avenida torrencial en la quebrada La Liboriana cobr decenas de vidas, resaltando la importancia de los sistemas de alerta temprana.
-* **Puebla de Antn:** En el suroccidente del pas, los flujos torrenciales son recurrentes debido a la combinacin de laderas empinadas y cenizas volcnicas inestables.
+* **Puebla de Antn:** En el suroccidente del pas, los flujos torrenciales son recurrentes debido a la combinación de laderas empinadas y cenizas volcúnicas inestables.
 
 ---
 ## Taller de Autoevaluación

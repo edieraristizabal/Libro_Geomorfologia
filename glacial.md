@@ -36,10 +36,10 @@ Un **glaciar** es una gran masa de hielo perenne, formada por la compactación y
 
 ---
 ## 3. Alta Montaña Tropical y Ambientes (Peri)Glaciales
-Los trópicos de alta montaña (como los Andes) son laboratorios únicos. A pesar de su baja latitud, la altitud extrema permite la existencia de ambientes glaciales y periglaciales.
+Los trópicos de alta montaña (como los Andes) son laboratorios úúnicos. A pesar de su baja latitud, la altitud extrema permite la existencia de ambientes glaciales y periglaciales.
 
 * **Ambientes Actuales:** Pequeños glaciares (casquetes) y zonas periglaciales activas (con ciclos de hielo-deshielo diarios) se encuentran por encima del límite de bosque, en los páramos y superpáramos.
-* **Ambientes Heredados (Legacy):** Durante las glaciaciones del Cuaternario, la Línea de Equilibrio (EQL) descendió significativamente. Esto significa que vastas ááreas que hoy son páramos estuvieron cubiertas por hielo. Las morrenas, valles en U y lagos que vemos en los parques nacionales (ej. El Cocuy, Los Nevados) son geoformas heredadas de esa actividad glacial pasada.
+* **Ambientes Heredados (Legacy):** Durante las glaciaciones del Cuaternario, la Línea de Equilibrio (EQL) descendió significativamente. Esto significa que vastas áááreas que hoy son páramos estuvieron cubiertas por hielo. Las morrenas, valles en U y lagos que vemos en los parques nacionales (ej. El Cocuy, Los Nevados) son geoformas heredadas de esa actividad glacial pasada.
 
 
 ```{figure} https://i.pinimg.com/1200x/f4/e8/c2/f4e8c2b577d4f550a42268f69b58cf7d.jpg
@@ -79,9 +79,9 @@ Esta teoría postula que las variaciones cíclicas en la órbita de la Tierra al
 * **Tormentas Solares (Actividad Solar):** Variaciones en la irradiancia solar total (ej. Mínimo de Maunder) pueden causar fluctuaciones climáticas a corto plazo (como la Pequeña Edad de Hielo), pero no se consideran el motor principal de las grandes glaciaciones.
 
 ### 4.2. Causas Internas (Dinámica Planetaria)
-* **Tectónica de Placas:** La configuración continental es clave. La apertura o cierre de pasos oceánicos (ej. Paso de Drake, Istmo de Panamá) altera la circulación oceánica global. El levantamiento de mesetas (ej. Tíbet, Altiplano) cambia los patrones de circulación atmosférica e incrementa el albedo.
+* **Tectóúnica de Placas:** La configuración continental es clave. La apertura o cierre de pasos oceáúnicos (ej. Paso de Drake, Istmo de Panamá) altera la circulación oceáúnica global. El levantamiento de mesetas (ej. Tíbet, Altiplano) cambia los patrones de circulación atmosférica e incrementa el albedo.
 * **Gases de Efecto Invernadero (CO₂):** A escalas geológicas, el CO₂ es controlado por el vulcanismo (fuente) y el metamorfismo/meteorización de silicatos (sumidero). Periodos de bajo CO₂ (como el Cenozoico tardío) permiten el enfriamiento global.
-* **Actividad Humana:** En la escala actual, las emisiones antropogénicas de CO₂ y metano son el forzamiento climático dominante, causando un calentamiento rápido que revierte la tendencia de enfriamiento de los últimos milenios.
+* **Actividad Humana:** En la escala actual, las emisiones antropogéúnicas de CO₂ y metano son el forzamiento climático dominante, causando un calentamiento rápido que revierte la tendencia de enfriamiento de los últimos milenios.
 
 ### 4.3. Proxies Paleoclimáticos y Temperatura Pasada
 Para estimar la temperatura pasada se usan "proxies" (indicadores indirectos):
@@ -313,7 +313,7 @@ El término "periglacial" se refiere a los ambientes fríos no glaciados, domina
 
 ---
 ## 14. Glaciares Actuales en Colombia
-* **Origen y Tipos:** Son glaciares tropicales de montaña, clasificados como pequeños casquetes de hielo (*ice caps*) que cubren las cimas volcánicas y cumbres de la Sierra Nevada de El Cocuy.
+* **Origen y Tipos:** Son glaciares tropicales de montaña, clasificados como pequeños casquetes de hielo (*ice caps*) que cubren las cimas volcáúnicas y cumbres de la Sierra Nevada de El Cocuy.
 * **Estado Actual:** Quedan **6** pequeñas masas glaciares en Colombia:
     1.  Sierra Nevada de Santa Marta (SNSM)
     2.  Sierra Nevada de El Cocuy
@@ -332,13 +332,13 @@ El término "periglacial" se refiere a los ambientes fríos no glaciados, domina
 
 ---
 ## 15. Evidencias Glaciales Pasadas en Colombia
-* **Última Glaciación (LGM):** Durante el Último Máximo Glacial (~21.000 años), la EQL en los Andes colombianos descendió hasta los ~3.000-3.500 msnm. Los glaciares cubrieron vastas ááreas que hoy son páramos.
+* **Última Glaciación (LGM):** Durante el Último Máximo Glacial (~21.000 años), la EQL en los Andes colombianos descendió hasta los ~3.000-3.500 msnm. Los glaciares cubrieron vastas áááreas que hoy son páramos.
 * **Evidencias:** Las morrenas terminales y laterales, los valles en U, los circos y los numerosos lagos (tarns) en parques como Los Nevados, El Cocuy o el Parque Nacional Natural Chingaza son la evidencia geomorfológica inequívoca de esta extensa glaciación pasada.
 ---
 ## Taller de Autoevaluación
 
 1. **Balance de Masa:** Si un glaciar presenta una Lnea de Equilibrio (EQL) que asciende en altitud ao tras ao, qu podemos concluir sobre su estado de salud? Est en avance o retroceso?
-2. **Erosin Glacial:** Explique cmo el proceso de *arranque* (plucking) y la *abrasin* trabajan en conjunto para profundizar un valle glacial.
+2. **Erosión Glacial:** Explique cmo el proceso de *arranque* (plucking) y la *abrasin* trabajan en conjunto para profundizar un valle glacial.
 3. **Morfologa de Valle:** Cules son las diferencias principales entre un valle fluvial y un valle glacial en términos de su perfil transversal y su trazado en planta?
 4. **Glaciares Tropicales:** Por qué los glaciares de Colombia son particularmente sensibles al cambio climtico en comparacin con los glaciares de latitudes altas (ej. Antrtida)?
 5. **Sedimentologa:** Describa las características del *till* glacial. Por qué es un sedimento tan mal seleccionado?

@@ -48,11 +48,11 @@ Los movimientos en masa son uno de los procesos geodinámicos más activos y pel
 
 ## 1. Términos Comunes
 
-En el lenguaje común y técnico, existe una variedad de términos para describir los procesos de inestabilidad de laderas:
+En el lenguaje común y técúnico, existe una variedad de términos para describir los procesos de inestabilidad de laderas:
 
 
 
-* **Movimiento en Masa (Mass Movement):** Es el término geomorfológico y técnico más inclusivo. Describe cualquier movimiento de suelo, detritos o roca pendiente abajo, principalmente bajo la influencia de la gravedad.
+* **Movimiento en Masa (Mass Movement):** Es el término geomorfológico y técúnico más inclusivo. Describe cualquier movimiento de suelo, detritos o roca pendiente abajo, principalmente bajo la influencia de la gravedad.
 
 * **Deslizamiento (Landslide):** Es el término más popular y a menudo se usa como sinónimo de "movimiento en masa". Sin embargo, en la clasificación de Varnes (1978), "deslizamiento" se refiere a un tipo específico de movimiento (Slide) donde una masa se desplaza sobre una superficie de falla definida.
 
@@ -74,7 +74,7 @@ En el lenguaje común y técnico, existe una variedad de términos para describi
 
 * **Scheidegger (1975) - (Enfoque Geomorfológico):** Define los movimientos en masa como parte del proceso general de denudación del paisaje. Se enfoca en el transporte de material por gravedad como un agente escultor del relieve.
 
-* **Soeters y Van Westen (1996) - (Enfoque de Amenaza):** En el contexto de la evaluación de amenazas, los definen como el resultado de las condiciones naturales del terreno, tales como geomorfología, hidrología y geología, y las modificaciones de estas condiciones por procesos geodinámicos, vegetación, usos del suelo y actividades humanas. Dichas modificaciones activan movimientos lentos, generalmente imperceptibles debido a que las propiedades mecánicas del material o condiciones de equilibrio decrecen gradualmente, y posteriormente, factores como precipitación, sismicidad o cortes de origen antrópico detonan dichos movimientos lentos en rápidos movimientos en masa.
+* **Soeters y Van Westen (1996) - (Enfoque de Amenaza):** En el contexto de la evaluación de amenazas, los definen como el resultado de las condiciones naturales del terreno, tales como geomorfología, hidrología y geología, y las modificaciones de estas condiciones por procesos geodinámicos, vegetación, usos del suelo y actividades humanas. Dichas modificaciones activan movimientos lentos, generalmente imperceptibles debido a que las propiedades mecáúnicas del material o condiciones de equilibrio decrecen gradualmente, y posteriormente, factores como precipitación, sismicidad o cortes de origen antrópico detonan dichos movimientos lentos en rápidos movimientos en masa.
 
 
 
@@ -206,7 +206,7 @@ El concepto de esfuerzo efectivo (Terzaghi) es la clave para entender la inestab
 
 * **Variables Detonantes (Disparadores):** Son los eventos dinámicos y de corta duración que **inician** el movimiento. Responden al "Por qué ahora".
 
-    * *Ejemplos:* Lluvias intensas o prolongadas (el detonante más común en climas tropicales), sismos, actividad humana (cortes en la base, sobrecarga en la corona), erupciones volcánicas (sismicidad, sobrecarga de ceniza, lahares).
+    * *Ejemplos:* Lluvias intensas o prolongadas (el detonante más común en climas tropicales), sismos, actividad humana (cortes en la base, sobrecarga en la corona), erupciones volcáúnicas (sismicidad, sobrecarga de ceniza, lahares).
 
 
 
@@ -311,7 +311,7 @@ Es la clasificación más utilizada a nivel mundial. Se basa en dos criterios fu
 
     * **Flujo de Tierra (Earth Flow):** Típicos en materiales arcillosos, más lentos, a menudo con una cabecera rotacional y un lóbulo estrecho (forma de reloj de arena).
 
-    * **Reptación (Creep):** El flujo imperceptiblemente lento del suelo. Evidenciado por áárboles inclinados, postes corridos, etc.
+    * **Reptación (Creep):** El flujo imperceptiblemente lento del suelo. Evidenciado por ááárboles inclinados, postes corridos, etc.
 
   
 
@@ -462,7 +462,7 @@ Debido a su topografía abrupta, geología compleja y alta pluviosidad, Colombia
 
 
 
-1. **Mecánica de Suelos:** Explique cómo el aumento de la presión de poros ($) durante una temporada de lluvias reduce el Factor de Seguridad de una ladera.
+1. **Mecáúnica de Suelos:** Explique cómo el aumento de la presión de poros ($) durante una temporada de lluvias reduce el Factor de Seguridad de una ladera.
 
 2. **Condicionantes vs Detonantes:** Clasifique las siguientes variables: pendiente del terreno, sismo de magnitud 7.0, deforestación, lluvia de 100 mm en 24h, presencia de una falla geológica.
 

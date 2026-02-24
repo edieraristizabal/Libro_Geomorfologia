@@ -1,7 +1,7 @@
 (sec-delta)=
 # Geomorfología de Ambientes Deltaicos
 
-Los **deltas** son uno de los ambientes de deposición más importantes y complejos de la Tierra, formados en la interfaz entre un río y un cuerpo de agua estancada (un mar, lago o estuario). Su morfología y estructura están controladas por un delicado balance entre la fuerza del río y la energía del cuerpo receptor (olas, maáreas y densidad del agua).
+Los **deltas** son uno de los ambientes de deposición más importantes y complejos de la Tierra, formados en la interfaz entre un río y un cuerpo de agua estancada (un mar, lago o estuario). Su morfología y estructura están controladas por un delicado balance entre la fuerza del río y la energía del cuerpo receptor (olas, maááreas y densidad del agua).
 
 :::{important}
 **Objetivos de aprendizaje:**
@@ -75,7 +75,7 @@ La morfología de un delta es un reflejo del balance entre el **Río** (fuerza d
 * **Morfología:** La línea de costa es recta y suave. La acción de las olas forma **barras de arena** paralelas a la costa y un frente deltaico más compacto. Tiende a tener una forma **triangular** u ojival.
 * **Ejemplo Clásico:** Delta del Nilo.
 
-### 4.3. Delta Dominado por las Maáreas (*Tide-Dominated Delta*)
+### 4.3. Delta Dominado por las Maááreas (*Tide-Dominated Delta*)
 * **Proceso Dominante:** Las fuertes corrientes de marea transportan y reelaboran los sedimentos en dirección paralela y perpendicular a la costa.
 * **Morfología:** El delta tiene forma de **embudo** y está disectado por numerosos canales amplios y rectos (barras de arena y canales orientados perpendicularmente a la costa).
 * **Ejemplo Clásico:** Delta del Ganges/Brahmaputra (Bangladesh).
@@ -90,7 +90,7 @@ La morfología de un delta es un reflejo del balance entre el **Río** (fuerza d
 ## Sistemas Deltaicos en Colombia
 
 * **Delta del Ro Magdalena:** Es un sistema complejo. Su desembocadura actual (**Bocas de Ceniza**) ha sido modificada por tajamares, pero el sistema incluye el **Canal del Dique**, un brazo distributario que desemboca en la Baha de Cartagena.
-* **Delta del Ro San Juan (Choc):** Es un ejemplo espectacular de un delta dominado por maáreas y alta carga de sedimentos en un ambiente de selva hmeda tropical.
+* **Delta del Ro San Juan (Choc):** Es un ejemplo espectacular de un delta dominado por maááreas y alta carga de sedimentos en un ambiente de selva hmeda tropical.
 * **Importancia Ambiental:** Los deltas colombianos albergan extensos bosques de manglar, ecosistemas crticos para la proteccin de la costa y la biodiversidad.
 
 ---

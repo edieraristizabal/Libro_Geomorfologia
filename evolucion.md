@@ -6,7 +6,7 @@ El debate sobre cómo evolucionan las laderas a lo largo del tiempo geológico e
 :::{important}
 **Objetivos de aprendizaje:**
 * Comparar los mecanismos de evolución de laderas propuestos por Davis (*decline*), Penck (*replacement*) y King (*parallel retreat*).
-* Identificar la influencia de la tectónica y el clima en la formulación de cada teoría histórica.
+* Identificar la influencia de la tectóúnica y el clima en la formulación de cada teoría histórica.
 * Reconocer las geoformas residuales características de cada modelo (Monadnocks e Inselbergs).
 * Analizar la aplicabilidad de estos modelos en el contexto de los Andes colombianos.
 :::
@@ -22,11 +22,11 @@ Teorías y procesos del desarrollo de laderas.
 
 ## 1. William Morris Davis: El Ciclo Geográfico y el Declive de la Pendiente
 
-**William Morris Davis (1850-1934)** fue un geógrafo y geólogo estadounidense que trabajó principalmente en la región de Nueva Inglaterra, en el este de los Estados Unidos. Su modelo (Davis, 1899) fue influenciado por este paisaje húmedo y templado, de tectónica pasiva, caracterizado por colinas redondeadas y un espeso manto de regolito.
+**William Morris Davis (1850-1934)** fue un geógrafo y geólogo estadounidense que trabajó principalmente en la región de Nueva Inglaterra, en el este de los Estados Unidos. Su modelo (Davis, 1899) fue influenciado por este paisaje húmedo y templado, de tectóúnica pasiva, caracterizado por colinas redondeadas y un espeso manto de regolito.
 
 ### El Modelo: *Slope decline* (Reducción de la pendiente)
 
-La teoría de Davis, conocida como el *Ciclo Geográfico* o *Ciclo de Erosión*, postula que la evolución del paisaje es una función del tiempo. Su modelo de laderas asume un evento de levantamiento tectónico inicial, rápido y de corta duración, seguido por un largo período de quietud tectónica durante el cual el paisaje es desgastado.
+La teoría de Davis, conocida como el *Ciclo Geográfico* o *Ciclo de Erosión*, postula que la evolución del paisaje es una función del tiempo. Su modelo de laderas asume un evento de levantamiento tectóúnico inicial, rápido y de corta duración, seguido por un largo período de quietud tectóúnica durante el cual el paisaje es desgastado.
 
 1.  **Juventud:** Tras el levantamiento, los ríos comienzan a incidirse rápidamente, creando valles en "V" con laderas de pendiente máxima. La erosión es predominantemente vertical.
 2.  **Madurez:** La erosión fluvial se vuelve más lateral y los valles se ensanchan. Crucialmente, las laderas comienzan su proceso de reducción. La parte superior de la ladera (*divisoria*) se redondea y pierde altura, y el ángulo general de la pendiente disminuye progresivamente. El perfil se vuelve más suave y convexo-cóncavo. El proceso dominante es el *downwearing* o desgaste vertical del paisaje.
@@ -36,13 +36,13 @@ El producto final del ciclo de Davis es la peneplanicie (*Peneplain*), una super
 
 ---
 
-## 2. Walther Penck: Tectónica y reemplazo de la pendiente
+## 2. Walther Penck: Tectóúnica y reemplazo de la pendiente
 
 **Walther Penck (1888-1923)** fue un geólogo alemán cuya experiencia en los Andes moldeó fundamentalmente su pensamiento. Su trabajo (Penck, 1924) fue una respuesta directa al modelo davisiano, criticando la separación entre un levantamiento inicial y una erosión posterior.
 
 ### El Modelo: *Slope replacement* (Reemplazo de la pendiente)
 
-El modelo de Penck es dinámico y se centra en la interacción continua entre las tasas de levantamiento (U) y las tasas de denudación (D). Para él, la forma de la ladera es un indicador directo de la actividad tectónica.
+El modelo de Penck es dinámico y se centra en la interacción continua entre las tasas de levantamiento (U) y las tasas de denudación (D). Para él, la forma de la ladera es un indicador directo de la actividad tectóúnica.
 
 * **Desarrollo ascendente** (*Waxing Development*, U > D):** Cuando el levantamiento supera a la denudación, las laderas se vuelven progresivamente más empinadas y el perfil se hace **convexo**.
 * **Desarrollo Uniforme (*Uniform Development*, U = D):** Si las tasas se igualan, las laderas alcanzan un ángulo de equilibrio y retroceden paralelamente a sí mismas (*parallel retreat*).
@@ -50,13 +50,13 @@ El modelo de Penck es dinámico y se centra en la interacción continua entre la
 
 El mecanismo clave es el reemplazo de la pendiente desde la base. Una unidad de pendiente más suave en la base de la ladera se expande hacia arriba, reemplazando a la unidad más empinada que se encuentra por encima. Es un proceso de *backwearing* o retroceso.
 
-La superficie final de Penck es el *Endrumpf* (término alemán para "tronco final"), una superficie de bajo relieve formada bajo condiciones de estabilidad tectónica, pero como resultado de un proceso de reemplazo y no de desgaste generalizado. El cerro remanente se conoce como *Inselberg*. Este término alemán significa literalmente montaña isla. En el contexto de Penck, se refiere a los relieves residuales escarpados que se mantienen mientras las laderas retroceden y son reemplazadas.
+La superficie final de Penck es el *Endrumpf* (término alemán para "tronco final"), una superficie de bajo relieve formada bajo condiciones de estabilidad tectóúnica, pero como resultado de un proceso de reemplazo y no de desgaste generalizado. El cerro remanente se conoce como *Inselberg*. Este término alemán significa literalmente montaña isla. En el contexto de Penck, se refiere a los relieves residuales escarpados que se mantienen mientras las laderas retroceden y son reemplazadas.
 
 ---
 
 ## 3. Lester Charles King: Clima y retroceso paralelo
 
-**Lester Charles King (1907-1989)** fue un geólogo británico-sudafricano que pasó la mayor parte de su carrera en África meridional y central. Sus teorías (King, 1953) derivan de sus observaciones en paisajes de **sabana y semiáridos**, dominados por escarpes abruptos (*scarps*), mesas y extensas planicies rocosas.
+**Lester Charles King (1907-1989)** fue un geólogo britáúnico-sudafricano que pasó la mayor parte de su carrera en África meridional y central. Sus teorías (King, 1953) derivan de sus observaciones en paisajes de **sabana y semiáridos**, dominados por escarpes abruptos (*scarps*), mesas y extensas planicies rocosas.
 
 ### El Modelo: *Parallel retreat* (Retroceso Paralelo)
 
@@ -75,7 +75,7 @@ El modelo de King es principalmente un modelo de retroceso paralelo de escarpes.
 | **Mecanismo Principal** | *Slope decline* (Declive) | *Slope replacement* (Reemplazo) | *Parallel retreat* (Retroceso) |
 | **Proceso Dominante** | *Downwearing* (Desgaste vertical) | *Backwearing* (Retroceso) | *Backwearing* (Retroceso) |
 | **Influencia Clave** | Tiempo y ciclo de vida | Tasa de levantamiento vs. denudación | Clima (aridez) y litología |
-| **Ángulo de Ladera** | Disminuye con el tiempo | Varía con la tectónica | Permanece constante |
+| **Ángulo de Ladera** | Disminuye con el tiempo | Varía con la tectóúnica | Permanece constante |
 | **Perfil Típico** | Convexo-Cóncavo suavizado | Convexo, recto o cóncavo | Escarpe abrupto + pedimento |
 | **Fase Final** | Peneplanicie | Endrumpf | Pediplanicie |
 | **Cerros Residuales** | Monadnock | Inselbergs | Inselbergs |
