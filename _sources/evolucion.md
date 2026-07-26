@@ -13,11 +13,11 @@ El debate sobre cómo evolucionan las laderas a lo largo del tiempo geológico e
 
 ---
 
-```{figure} images/evolucion_teorias_laderas.svg
+```{figure} images/Theories-and-Process-of-Slope-Development.png
 :name: fig-teorias-laderas
-:width: 750px
+:width: 600px
 
-Comparación esquemática de los tres modelos clásicos de evolución de laderas. Elaboración propia con base en {cite:t}`davis_geographical_1899`, {cite:t}`penck_morphologische_1924` y {cite:t}`king_canons_1953`.
+Teorías y procesos del desarrollo de laderas.
 ```
 
 ## 1. William Morris Davis: El Ciclo Geográfico y el Declive de la Pendiente

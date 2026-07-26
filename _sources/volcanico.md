@@ -34,11 +34,9 @@ El estilo eruptivo describe cómo el magma y los gases salen del volcán. Depend
 * **Peléano:** Colapso o explosión de un **domo de lava** viscoso, generando un flujo piroclástico denso y devastador (*nuée ardente*) que abraza el terreno.
 * **Pliniano:** La erupción más explosiva. Un magma riolítico rico en gases produce una columna eruptiva sostenida que puede alcanzar la estratosfera (>20 km). Genera extensos depósitos de caída (tefra) y voluminosos flujos piroclásticos (ignimbritas). A menudo culmina con la formación de una **caldera** {cite:p}`francis_volcanoes_2004`.
 
-```{figure} images/volcan_estilos_eruptivos.svg
-:name: fig-estilos-eruptivos
-:width: 700px
-
-Relación entre la viscosidad del magma y el estilo eruptivo, de efusivo (Hawaiano) a altamente explosivo (Pliniano). Elaboración propia con base en {cite:t}`francis_volcanoes_2004`.
+```{figure} https://i.pinimg.com/1200x/e6/91/7f/e6917ffc518dfc7090b78017b500c38b.jpg
+:name: fig-2620
+:width: 400
 ```
 
 ---
@@ -56,11 +54,9 @@ Grandes edificios construidos por múltiples erupciones a lo largo de miles de a
 * **Volcanes en Escudo (*Shield Volcanoes*):** Inmensos volcanes de pendientes muy suaves (<10°), construidos por la acumulación de miles de flujos de lava basáltica fluida (estilo Hawaiano).
 * **Estratovolcanes (*Composite Volcanoes*):** Grandes conos de perfil cóncavo y pendientes pronunciadas (~15-30°), construidos por la alternancia de flujos de lava viscosa (andesítica) y depósitos piroclásticos de erupciones explosivas (estilos Vulcaniano a Pliniano).
 
-```{figure} images/volcan_escudo_estratovolcan.svg
-:name: fig-escudo-estratovolcan
-:width: 650px
-
-Comparación de perfiles entre un volcán en escudo y un estratovolcán. Elaboración propia con base en {cite:t}`francis_volcanoes_2004`.
+```{figure} https://i.pinimg.com/1200x/dd/af/9d/ddaf9d0f6ddfa9fa73a9de037528bca2.jpg
+:name: fig-6730
+:width: 400
 ```
 
 ---
@@ -69,20 +65,16 @@ Formadas por explosión o colapso.
 
 * **Maars y Vulcanismo Freatomagmático:** Cráteres de explosión anchos y de bajo relieve, formados por la interacción violenta de magma con agua.
 
-```{figure} images/Ubehebe_Crater_Maar.jpg
-:name: fig-maar
-:width: 600px
-
-Ubehebe Crater, un maar en el Parque Nacional Death Valley (California, EE. UU.), formado por explosiones freatomagmáticas. Fotografía: Ken Lund, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ubehebe_Crater,_Death_Valley_National_Park,_California_(15516654369).jpg) (CC BY-SA 2.0).
+```{figure} https://i.pinimg.com/1200x/dc/ae/0e/dcae0e61afab18c03692468b26595883.jpg
+:name: fig-1704
+:width: 400
 ```
 
 * **Calderas:** Grandes depresiones (>1-2 km) formadas por el colapso de una cámara magmática tras una erupción voluminosa. El vulcanismo puede continuar dentro de la caldera, formando conos o domos resurgentes.
 
-```{figure} images/CraterLake_Caldera.jpg
-:name: fig-caldera
-:width: 600px
-
-Crater Lake, en Oregón (EE. UU.), una caldera formada por el colapso del volcán Mount Mazama tras una erupción pliniana hace ~7700 años. Fotografía: Jeffrey Johnson, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crater_Lake_National_Park_Oregon.jpg) (CC BY-SA 2.0).
+```{figure} https://i.pinimg.com/1200x/14/bc/37/14bc3773981d5e5c64178b19b734b0cf.jpg
+:name: fig-6154
+:width: 400
 ```
 
 ---
@@ -99,11 +91,9 @@ Crater Lake, en Oregón (EE. UU.), una caldera formada por el colapso del volcá
 * **De Oleada (*Surge*):** En capas finas, con estratificación cruzada, de alta energía.
 * **De Flujo (*Flow* - Ignimbritas):** Mal seleccionados, masivos, rellenan valles {cite:p}`fisher_pyroclastic_1984`.
 
-```{figure} images/volcan_depositos_piroclasticos.svg
-:name: fig-depositos-piroclasticos
-:width: 700px
-
-Tipos de depósitos piroclásticos según su mecanismo de emplazamiento. Elaboración propia con base en {cite:t}`fisher_pyroclastic_1984`.
+```{figure} https://i.pinimg.com/1200x/1b/a9/cb/1ba9cb47136ecc2fc20cd855cac31090.jpg
+:name: fig-1676
+:width: 400
 ```
 
 ### 4.3. Morfología de Flujos de Lava
@@ -121,11 +111,9 @@ Tipos de depósitos piroclásticos según su mecanismo de emplazamiento. Elabora
 * **Cuello Volcánico (*Volcanic Neck*):** El conducto solidificado de un volcán expuesto por la erosión del cono circundante. A menudo presenta **diques radiales**.
 * **Lava Mesa:** Un remanente de una meseta de lava, donde el flujo resistente actúa como *caprock*.
 
-```{figure} images/ShipRock_VolcanicNeck.jpg
-:name: fig-cuello-volcanico
-:width: 600px
-
-Shiprock (Tsé Bit'a'í), en Nuevo México (EE. UU.), un cuello volcánico con uno de sus diques radiales expuesto por erosión diferencial. Fotografía: James St. John, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ship_Rock_%26_southern_dike_(Oligocene;_Navajo_Volcanic_Field,_northwestern_New_Mexico,_USA)_(29472579101).jpg) (CC BY 2.0).
+```{figure} https://i.pinimg.com/736x/29/6a/a7/296aa70aa29f4e9648d8ad31ec4d7514.jpg
+:name: fig-3610
+:width: 400
 ```
 
 ### 5.2. Estructuras Intrusivas (Plutónicas)
@@ -134,11 +122,9 @@ La "fontanería" del sistema volcánico, expuesta por la erosión a largo plazo.
 * **Diques (*Dykes*) y Sills:** Cuerpos tabulares que cortan (diques) o son paralelos (sills) a la roca encajante.
 * **Laccolitos:** Intrusiones en forma de hongo que deforman los estratos superiores.
 
-```{figure} images/volcan_intrusivas.svg
-:name: fig-intrusivas
-:width: 600px
-
-Principales estructuras intrusivas: batolito, dique, sill y laccolito. Elaboración propia.
+```{figure} https://i.pinimg.com/736x/3a/22/d5/3a22d5e4bfa503a673e5227f31084ebe.jpg
+:name: fig-873
+:width: 400
 ```
 
 ---
