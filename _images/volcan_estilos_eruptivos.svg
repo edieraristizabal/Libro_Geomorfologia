@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 260" font-family="Arial, sans-serif">
+  <rect width="820" height="260" fill="#ffffff"/>
+  <text x="410" y="22" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">De la viscosidad del magma al estilo eruptivo</text>
+  <line x1="40" y1="230" x2="780" y2="230" stroke="#333333" stroke-width="2" marker-end="url(#veArrow)"/>
+  <text x="410" y="252" text-anchor="middle" font-size="12" fill="#333333">Viscosidad del magma y contenido de gases →</text>
+
+  <g font-size="11" text-anchor="middle" fill="#333333">
+    <circle cx="90" cy="180" r="10" fill="#c0392b"/>
+    <text x="90" y="205">Hawaiano</text>
+    <text x="90" y="150">Efusivo, escudo</text>
+
+    <circle cx="220" cy="170" r="10" fill="#d35400"/>
+    <text x="220" y="205">Islandés</text>
+    <text x="220" y="140">Fisural, mesetas</text>
+
+    <circle cx="350" cy="150" r="12" fill="#e67e22"/>
+    <text x="350" y="205">Estromboliano</text>
+    <text x="350" y="120">Conos de escoria</text>
+
+    <circle cx="480" cy="120" r="14" fill="#f39c12"/>
+    <text x="480" y="205">Vulcaniano</text>
+    <text x="480" y="95">Columnas moderadas</text>
+
+    <circle cx="610" cy="95" r="16" fill="#8e44ad"/>
+    <text x="610" y="205">Peléano</text>
+    <text x="610" y="70">Domos, nuée ardente</text>
+
+    <circle cx="740" cy="60" r="18" fill="#c0392b"/>
+    <text x="740" y="205">Pliniano</text>
+    <text x="740" y="35">Columna a estratosfera</text>
+  </g>
+  <defs>
+    <marker id="veArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker>
+  </defs>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="Arial, sans-serif">
+  <rect width="700" height="300" fill="#ffffff"/>
+  <text x="350" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Erosión glacial: abrasión y arranque (plucking)</text>
+
+  <!-- bedrock with roche moutonnee shape -->
+  <path d="M 60 240 Q 200 180 340 240 L 340 260 L 60 260 Z" fill="#a89a8a" stroke="#5c4326" stroke-width="2"/>
+  <path d="M 340 240 Q 420 200 480 250 L 480 260 L 340 260 Z" fill="#a89a8a" stroke="#5c4326" stroke-width="2"/>
+
+  <!-- ice moving over -->
+  <path d="M 20 130 Q 200 90 500 110 L 500 190 Q 300 160 20 200 Z" fill="#cfe8f5" opacity="0.85"/>
+  <line x1="10" y1="150" x2="70" y2="145" stroke="#1f6feb" stroke-width="3" marker-end="url(#gArrow)"/>
+  <text x="10" y="135" fill="#1f6feb" font-size="12" font-weight="bold">Flujo del hielo</text>
+
+  <!-- abrasion side (up-glacier, smooth) -->
+  <text x="150" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Abrasión</text>
+  <text x="150" y="215" text-anchor="middle" font-size="10" fill="#555555">(pulido, estrías)</text>
+  <line x1="100" y1="230" x2="200" y2="200" stroke="#333333" stroke-width="1" stroke-dasharray="2 2"/>
+
+  <!-- plucking side (down-glacier, plucked blocks) -->
+  <path d="M 400 235 L 420 210 L 440 240 Z" fill="#8a7a6a" stroke="#5c4326" stroke-width="1.5"/>
+  <path d="M 445 245 L 465 225 L 480 250 Z" fill="#8a7a6a" stroke="#5c4326" stroke-width="1.5"/>
+  <text x="440" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Arranque (plucking)</text>
+  <text x="440" y="278" text-anchor="middle" font-size="10" fill="#555555">bloques fracturados y arrancados</text>
+
+  <defs>
+    <marker id="gArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#1f6feb"/></marker>
+  </defs>
+</svg>

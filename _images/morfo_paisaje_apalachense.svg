@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" font-family="Arial, sans-serif">
+  <rect width="700" height="320" fill="#ffffff"/>
+  <text x="350" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Paisaje Apalachense: relieve invertido</text>
+
+  <!-- eroded fold structure shown faint -->
+  <path d="M 40 260 Q 150 60 260 260 Q 370 60 480 260 Q 590 60 660 260" fill="none" stroke="#cccccc" stroke-width="2" stroke-dasharray="4 3"/>
+
+  <!-- actual topography: anticlines eroded to valleys, synclines standing as ridges -->
+  <path d="M 40 220 Q 150 260 260 225 Q 370 130 480 225 Q 590 260 660 220" fill="none" stroke="#6b4020" stroke-width="3"/>
+
+  <text x="150" y="280" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Valle anticlinal</text>
+  <text x="370" y="110" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Cresta sinclinal</text>
+  <text x="590" y="280" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Valle anticlinal</text>
+
+  <text x="350" y="305" text-anchor="middle" font-size="10" fill="#666666">Erosión prolongada: los anticlinales (debilitados) forman valles; los sinclinales resistentes forman crestas</text>
+</svg>

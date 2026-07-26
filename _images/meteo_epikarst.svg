@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 320" font-family="Arial, sans-serif">
+  <rect width="620" height="320" fill="#ffffff"/>
+  <text x="310" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Epikarst y karst exógeno</text>
+
+  <rect x="40" y="70" width="540" height="50" fill="#c9c2b6"/>
+  <path d="M 60 70 L 65 120 M 120 70 L 115 120 M 200 70 L 210 120 M 300 70 L 290 120 M 400 70 L 410 120 M 500 70 L 495 120" stroke="#8a8a8a" stroke-width="2"/>
+  <text x="310" y="60" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Epikarst (intensamente disuelto y poroso)</text>
+
+  <rect x="40" y="120" width="540" height="160" fill="#a89a8a"/>
+  <path d="M 100 120 L 105 220 M 250 120 L 245 240 M 400 120 L 410 200" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="3 3"/>
+  <text x="310" y="270" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Roca carbonatada masiva</text>
+
+  <text x="310" y="300" text-anchor="middle" font-size="10" fill="#666666">Zona superficial de mayor infiltración y disolución, que alimenta el sistema kárstico subyacente</text>
+</svg>

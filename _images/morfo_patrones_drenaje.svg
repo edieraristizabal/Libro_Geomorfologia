@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" font-family="Arial, sans-serif">
+  <rect width="640" height="340" fill="#ffffff"/>
+  <text x="320" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Patrón de drenaje enrejado (trellis) sobre cuestas / hogbacks</text>
+
+  <!-- hogback ridges as diagonal bands -->
+  <g stroke="#c9a06a" stroke-width="14" opacity="0.5">
+    <line x1="40" y1="300" x2="260" y2="60"/>
+    <line x1="140" y1="310" x2="360" y2="70"/>
+    <line x1="240" y1="310" x2="460" y2="70"/>
+    <line x1="340" y1="310" x2="560" y2="70"/>
+  </g>
+
+  <!-- subsequent rivers along strike valleys -->
+  <g stroke="#1f6feb" stroke-width="3" fill="none">
+    <path d="M 90 300 Q 150 220 190 150"/>
+    <path d="M 190 300 Q 250 220 290 150"/>
+    <path d="M 290 300 Q 350 220 390 150"/>
+  </g>
+  <text x="500" y="150" fill="#1f6feb" font-size="12" font-weight="bold">Subsecuente</text>
+
+  <!-- consequent trunk river -->
+  <path d="M 480 50 Q 400 180 420 300" stroke="#d62728" stroke-width="3" fill="none"/>
+  <text x="440" y="60" fill="#d62728" font-size="12" font-weight="bold">Consecuente</text>
+
+  <!-- obsequent and resequent short tributaries -->
+  <g stroke="#2ca02c" stroke-width="2" fill="none">
+    <line x1="150" y1="230" x2="185" y2="220"/>
+    <line x1="250" y1="230" x2="285" y2="220"/>
+  </g>
+  <text x="70" y="245" fill="#2ca02c" font-size="11">Obsecuente / resecuente (afluentes cortos)</text>
+
+  <text x="320" y="325" text-anchor="middle" font-size="10" fill="#666666">Los ríos subsecuentes excavan valles entre crestas de roca dura; los consecuentes cruzan la estructura</text>
+</svg>

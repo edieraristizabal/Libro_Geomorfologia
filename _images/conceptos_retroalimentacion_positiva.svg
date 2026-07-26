@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 460" font-family="Arial, sans-serif">
+  <rect width="620" height="460" fill="#ffffff"/>
+  <text x="310" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#333333">Retroalimentación positiva: de un rill a una cárcava</text>
+
+  <!-- 4 boxes in a cycle -->
+  <g font-size="13" fill="#ffffff" text-anchor="middle">
+    <rect x="230" y="60" width="160" height="60" rx="8" fill="#d62728"/>
+    <text x="310" y="85">Un rill concentra</text>
+    <text x="310" y="103">el flujo de agua</text>
+
+    <rect x="420" y="190" width="170" height="60" rx="8" fill="#e07b39"/>
+    <text x="505" y="215">Aumenta la velocidad</text>
+    <text x="505" y="233">y capacidad erosiva</text>
+
+    <rect x="230" y="320" width="160" height="60" rx="8" fill="#c2185b"/>
+    <text x="310" y="345">El rill se profundiza</text>
+    <text x="310" y="363">y se ensancha</text>
+
+    <rect x="30" y="190" width="170" height="60" rx="8" fill="#8e24aa"/>
+    <text x="115" y="215">Captura aún más</text>
+    <text x="115" y="233">agua de la ladera</text>
+  </g>
+
+  <!-- arrows forming a cycle -->
+  <path d="M 390 105 Q 470 140 470 190" fill="none" stroke="#333333" stroke-width="2.5" marker-end="url(#fbArrow)"/>
+  <path d="M 480 250 Q 420 300 390 335" fill="none" stroke="#333333" stroke-width="2.5" marker-end="url(#fbArrow)"/>
+  <path d="M 230 355 Q 140 320 130 250" fill="none" stroke="#333333" stroke-width="2.5" marker-end="url(#fbArrow)"/>
+  <path d="M 140 190 Q 190 140 235 105" fill="none" stroke="#333333" stroke-width="2.5" marker-end="url(#fbArrow)"/>
+
+  <text x="310" y="420" text-anchor="middle" font-size="13" fill="#333333">El ciclo se autoacelera (signo "+") hasta transformar el rill en una cárcava</text>
+
+  <defs>
+    <marker id="fbArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#333333"/>
+    </marker>
+  </defs>
+</svg>

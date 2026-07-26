@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Arial, sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#ffffff"/>
+
+  <!-- Wind arrow -->
+  <line x1="40" y1="40" x2="140" y2="40" stroke="#1f6feb" stroke-width="3" marker-end="url(#arrowWind)"/>
+  <text x="40" y="28" fill="#1f6feb" font-size="16" font-weight="bold">Viento</text>
+
+  <!-- Ground -->
+  <line x1="0" y1="300" x2="800" y2="300" stroke="#5c4326" stroke-width="4"/>
+  <rect x="0" y="300" width="800" height="80" fill="#e8d9b8"/>
+
+  <!-- Suspension: high arcing dashed path -->
+  <path d="M 100 300 C 220 60, 480 20, 760 100" fill="none" stroke="#2ca02c" stroke-width="3" stroke-dasharray="8 6"/>
+  <circle cx="100" cy="300" r="4" fill="#2ca02c"/>
+  <circle cx="300" cy="120" r="4" fill="#2ca02c"/>
+  <circle cx="550" cy="45" r="4" fill="#2ca02c"/>
+  <circle cx="760" cy="100" r="4" fill="#2ca02c"/>
+  <text x="560" y="35" fill="#2ca02c" font-size="18" font-weight="bold">Suspensión</text>
+  <text x="480" y="150" fill="#2ca02c" font-size="13">partículas finas (limo, arcilla) — grandes alturas y distancias</text>
+
+  <!-- Saltation: ballistic hops close to ground -->
+  <path d="M 120 300 Q 170 220 220 300 Q 270 220 320 300 Q 370 220 420 300" fill="none" stroke="#d62728" stroke-width="3"/>
+  <circle cx="120" cy="300" r="4" fill="#d62728"/>
+  <circle cx="220" cy="300" r="4" fill="#d62728"/>
+  <circle cx="320" cy="300" r="4" fill="#d62728"/>
+  <circle cx="420" cy="300" r="4" fill="#d62728"/>
+  <text x="150" y="205" fill="#d62728" font-size="18" font-weight="bold">Saltación (~80%)</text>
+  <text x="120" y="330" fill="#d62728" font-size="13">arena (0.1-0.5 mm) en arco balístico</text>
+
+  <!-- Creep: rolling particles along ground -->
+  <circle cx="480" cy="290" r="9" fill="#8c564b"/>
+  <circle cx="510" cy="290" r="9" fill="#8c564b"/>
+  <circle cx="540" cy="290" r="9" fill="#8c564b"/>
+  <line x1="470" y1="270" x2="555" y2="270" stroke="#8c564b" stroke-width="2" stroke-dasharray="3 3" marker-end="url(#arrowCreep)"/>
+  <text x="470" y="255" fill="#8c564b" font-size="18" font-weight="bold">Reptación (creep)</text>
+  <text x="470" y="330" fill="#8c564b" font-size="13">partículas gruesas empujadas/rodadas</text>
+
+  <text x="600" y="330" fill="#5c4326" font-size="13">Superficie del terreno</text>
+
+  <defs>
+    <marker id="arrowWind" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#1f6feb"/>
+    </marker>
+    <marker id="arrowCreep" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#8c564b"/>
+    </marker>
+  </defs>
+</svg>

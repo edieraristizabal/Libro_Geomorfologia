@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 460" font-family="Arial, sans-serif">
+  <rect width="700" height="460" fill="#ffffff"/>
+  <text x="350" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Curva de Hjulström</text>
+
+  <line x1="90" y1="400" x2="650" y2="400" stroke="#333333" stroke-width="2" marker-end="url(#hjArrow)"/>
+  <line x1="90" y1="400" x2="90" y2="50" stroke="#333333" stroke-width="2" marker-end="url(#hjArrow)"/>
+  <text x="370" y="435" text-anchor="middle" font-size="13" font-weight="bold" fill="#333333">Tamaño de partícula (arcilla → arena → grava) →</text>
+  <text x="45" y="230" text-anchor="middle" font-size="13" font-weight="bold" fill="#333333" transform="rotate(-90 45 230)">Velocidad de flujo →</text>
+
+  <!-- erosion (upper) curve -->
+  <path d="M 110 200 Q 200 340 310 320 Q 450 300 620 90" fill="none" stroke="#d62728" stroke-width="3"/>
+  <text x="450" y="80" fill="#d62728" font-size="12" font-weight="bold">Erosión (desprendimiento)</text>
+
+  <!-- deposition (lower) curve -->
+  <path d="M 110 370 Q 300 385 620 250" fill="none" stroke="#1f6feb" stroke-width="3"/>
+  <text x="480" y="270" fill="#1f6feb" font-size="12" font-weight="bold">Depositación</text>
+
+  <text x="200" y="290" font-size="11" fill="#333333">Transporte (entre las curvas)</text>
+
+  <text x="120" y="415" font-size="10" fill="#555555">arcilla</text>
+  <text x="300" y="415" font-size="10" fill="#555555">limo/arena fina</text>
+  <text x="580" y="415" font-size="10" fill="#555555">grava</text>
+
+  <text x="350" y="15" text-anchor="middle" font-size="10" fill="#888888"></text>
+  <defs>
+    <marker id="hjArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker>
+  </defs>
+</svg>

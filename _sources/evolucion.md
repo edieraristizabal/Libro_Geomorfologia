@@ -13,16 +13,16 @@ El debate sobre cómo evolucionan las laderas a lo largo del tiempo geológico e
 
 ---
 
-```{figure} images/Theories-and-Process-of-Slope-Development.png
+```{figure} images/evolucion_teorias_laderas.svg
 :name: fig-teorias-laderas
-:width: 600px
+:width: 750px
 
-Teorías y procesos del desarrollo de laderas.
+Comparación esquemática de los tres modelos clásicos de evolución de laderas. Elaboración propia con base en {cite:t}`davis_geographical_1899`, {cite:t}`penck_morphologische_1924` y {cite:t}`king_canons_1953`.
 ```
 
 ## 1. William Morris Davis: El Ciclo Geográfico y el Declive de la Pendiente
 
-**William Morris Davis (1850-1934)** fue un geógrafo y geólogo estadounidense que trabajó principalmente en la región de Nueva Inglaterra, en el este de los Estados Unidos. Su modelo (Davis, 1899) fue influenciado por este paisaje húmedo y templado, de tectónica pasiva, caracterizado por colinas redondeadas y un espeso manto de regolito.
+**William Morris Davis (1850-1934)** fue un geógrafo y geólogo estadounidense que trabajó principalmente en la región de Nueva Inglaterra, en el este de los Estados Unidos. Su modelo {cite:p}`davis_geographical_1899` fue influenciado por este paisaje húmedo y templado, de tectónica pasiva, caracterizado por colinas redondeadas y un espeso manto de regolito.
 
 ### El Modelo: *Slope decline* (Reducción de la pendiente)
 
@@ -38,7 +38,7 @@ El producto final del ciclo de Davis es la peneplanicie (*Peneplain*), una super
 
 ## 2. Walther Penck: Tectónica y reemplazo de la pendiente
 
-**Walther Penck (1888-1923)** fue un geólogo alemán cuya experiencia en los Andes moldeó fundamentalmente su pensamiento. Su trabajo (Penck, 1924) fue una respuesta directa al modelo davisiano, criticando la separación entre un levantamiento inicial y una erosión posterior.
+**Walther Penck (1888-1923)** fue un geólogo alemán cuya experiencia en los Andes moldeó fundamentalmente su pensamiento. Su trabajo {cite:p}`penck_morphologische_1924` fue una respuesta directa al modelo davisiano, criticando la separación entre un levantamiento inicial y una erosión posterior.
 
 ### El Modelo: *Slope replacement* (Reemplazo de la pendiente)
 
@@ -56,7 +56,7 @@ La superficie final de Penck es el *Endrumpf* (término alemán para "tronco fin
 
 ## 3. Lester Charles King: Clima y retroceso paralelo
 
-**Lester Charles King (1907-1989)** fue un geólogo británico-sudafricano que pasó la mayor parte de su carrera en África meridional y central. Sus teorías (King, 1953) derivan de sus observaciones en paisajes de **sabana y semiáridos**, dominados por escarpes abruptos (*scarps*), mesas y extensas planicies rocosas.
+**Lester Charles King (1907-1989)** fue un geólogo británico-sudafricano que pasó la mayor parte de su carrera en África meridional y central. Sus teorías {cite:p}`king_canons_1953` derivan de sus observaciones en paisajes de **sabana y semiáridos**, dominados por escarpes abruptos (*scarps*), mesas y extensas planicies rocosas.
 
 ### El Modelo: *Parallel retreat* (Retroceso Paralelo)
 
