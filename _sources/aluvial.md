@@ -177,6 +177,62 @@ Un **abanico aluvial** es una geoforma de deposición de bajo gradiente, con for
 
 ---
 
+## 7. Geometría Hidráulica: Cómo Cambia un Río Aguas Abajo
+
+La Balanza de Lane (Sección 1) describe cualitativamente el equilibrio de un río, pero ¿cómo cambian exactamente el ancho, la profundidad y la velocidad del canal a medida que el caudal aumenta? Esta pregunta fue respondida cuantitativamente por Leopold y Maddock, quienes mostraron que estas variables se ajustan de forma predecible mediante relaciones de potencia con el caudal ($Q$), un marco conocido como **geometría hidráulica** {cite:p}`leopold_river_1957,bierman_key_2013`:
+
+$$w=aQ^b \qquad d=cQ^f \qquad v=kQ^m$$
+
+Donde $w$ es el ancho del canal, $d$ es la profundidad media, $v$ es la velocidad media, y $a$, $c$, $k$ son coeficientes; $b$, $f$, $m$ son exponentes que, por conservación de masa ($Q=w\cdot d\cdot v$), deben sumar aproximadamente 1 ($b+f+m\approx1$). Leopold y Maddock distinguieron dos formas de aplicar este marco {cite:p}`leopold_river_1957`:
+
+* **Geometría Hidráulica en una Sección (*At-a-Station*):** Describe cómo cambian $w$, $d$ y $v$ en un mismo punto del río a medida que varía el caudal a lo largo del tiempo (de caudal bajo a una crecida). Típicamente, en esta escala la profundidad y la velocidad aumentan proporcionalmente más que el ancho durante una crecida.
+* **Geometría Hidráulica Aguas Abajo (*Downstream*):** Describe cómo cambian $w$, $d$ y $v$ entre distintos puntos del río (de la cabecera a la desembocadura) para un caudal de referencia constante, como el caudal a banca llena (*bankfull*, Sección 4). En esta escala, el ancho tiende a crecer más rápidamente que la profundidad conforme aumenta el caudal aguas abajo, lo cual es consistente con el ensanchamiento progresivo del canal descrito cualitativamente en la Sección 4 (cambios del canal de la cabecera a la desembocadura).
+
+| Exponente | Significado | Valor Típico (*Downstream*) |
+| :--- | :--- | :--- |
+| $b$ (ancho vs. Q) | Sensibilidad del ancho del canal al caudal | ≈ 0.5 |
+| $f$ (profundidad vs. Q) | Sensibilidad de la profundidad al caudal | ≈ 0.4 |
+| $m$ (velocidad vs. Q) | Sensibilidad de la velocidad al caudal | ≈ 0.1 |
+
+*Valores de referencia compilados por {cite:t}`bierman_key_2013` a partir del trabajo original de {cite:t}`leopold_river_1957`; los exponentes varían según la litología del canal, la carga de sedimentos y el grado de confinamiento del valle.*
+
+## 8. Potencia de la Corriente: la Energía Disponible para Erosionar y Transportar
+
+Un concepto que conecta la hidráulica del canal con su capacidad geomorfológica de trabajo es la **potencia de la corriente** (*stream power*, $\Omega$), la tasa de disipación de energía potencial del flujo por unidad de longitud de canal {cite:p}`bierman_key_2013`:
+
+$$\Omega=\rho g Q S$$
+
+Donde $\rho$ es la densidad del agua, $g$ es la aceleración de la gravedad, $Q$ es el caudal y $S$ es la pendiente del canal. Dividiendo por el ancho del canal se obtiene la **potencia de la corriente específica** ($\omega=\Omega/w$, en W/m²), que es la variable más directamente relacionada con la capacidad del flujo para erosionar el lecho, transportar sedimento y desplazar el canal lateralmente. Este concepto es la base física de la Ley de la Potencia de Corriente para incisión fluvial introducida en {ref}`sec-conceptos` ($q_s=kA^mS^n$), y explica por qué los tramos de un río donde convergen alta pendiente y alto caudal (típicamente en el piedemonte andino) presentan simultáneamente la mayor capacidad erosiva y el mayor riesgo geomorfológico para infraestructura y poblaciones ribereñas {cite:p}`bierman_key_2013,whipple_dynamics_1999`.
+
+## 9. Un Cuarto Patrón de Canal: Ríos Anastomosados
+
+La Sección 2 describió los tres patrones de canal clásicos (meándrico, recto, trenzado). La *Encyclopedia of Geomorphology* reconoce un cuarto patrón, menos común pero geomorfológicamente distintivo: el **canal anastomosado** (*anastomosing channel*) {cite:p}`goudie_encyclopedia_2004`.
+
+* **Características:** A diferencia del canal trenzado (donde las barras son inestables y de vida corta), un sistema anastomosado consiste en **múltiples canales estables, relativamente angostos y profundos**, separados por islas permanentes y vegetadas que pueden persistir durante siglos.
+* **Condiciones:** Se forman en contextos de **agradación neta rápida** (el nivel de base sube, o el aporte de sedimento fino y materia orgánica es muy alto), márgenes muy cohesivas (a menudo estabilizadas por vegetación densa) y, con frecuencia, una pendiente muy baja. La estabilidad de las márgenes —a diferencia del canal trenzado, donde las márgenes son inestables— es la clave que permite que los múltiples canales persistan en lugar de migrar y reunirse constantemente {cite:p}`goudie_encyclopedia_2004`.
+* **Ejemplo:** Tramos de la llanura de inundación del río Magdalena y sectores de la cuenca amazónica colombiana, donde la combinación de aporte orgánico, baja pendiente y vegetación de ribera densa favorece la persistencia de múltiples canales estables.
+
+| Patrón de Canal | Estabilidad de Islas/Barras | Carga de Sedimento Dominante | Tendencia del Nivel de Base |
+| :--- | :--- | :--- | :--- |
+| Recto | No aplica | Variable | Estable |
+| Meándrico | No aplica (barras de meandro migran) | Suspensión moderada-alta | Estable |
+| Trenzado | Barras inestables, de vida corta | Carga de fondo muy alta | Estable a ligeramente incisivo |
+| Anastomosado | Islas estables y vegetadas, de larga vida | Suspensión + orgánica, agradación neta | Ascendente (agradación) |
+
+*Comparación adaptada de {cite:t}`goudie_encyclopedia_2004,leopold_river_1957`.*
+
+## 10. Estructuras Hidráulicas de Estabilización en Ríos Meándricos
+
+La ingeniería fluvial ha desarrollado estructuras específicamente diseñadas para gestionar la migración lateral de canales meándricos (Sección 2) sin necesariamente impedirla por completo, reconociendo que la migración de meandros es un proceso geomorfológico natural y, en muchos casos, ecológicamente deseable {cite:p}`radeckipawlik_open_2017`:
+
+* **Deflectores de Curva (*Bendway Weirs*):** Estructuras sumergidas o semisumergidas, orientadas oblicuamente al flujo, que redirigen la corriente de mayor velocidad hacia el centro del canal, alejándola de la margen exterior erosionable, sin necesidad de revestir toda la margen.
+* **Enrocado (*Riprap*):** Revestimiento de bloques de roca colocados directamente sobre una margen erosionable. Es la solución más común pero también la más rígida, ya que elimina por completo la capacidad de ese tramo de margen para migrar o para sostener hábitat ripario natural.
+* **Diques Longitudinales de Baja Cota:** Estructuras paralelas a la margen que reducen la velocidad del flujo cerca de la orilla sin bloquear completamente la conexión hidráulica con la llanura de inundación durante crecidas.
+
+Estas estructuras ilustran una tensión central en el manejo de ríos: proteger infraestructura y poblaciones ribereñas (ver Ríos y Abanicos en Colombia, arriba) sin eliminar por completo la dinámica geomorfológica natural del canal que, como muestra la Balanza de Lane (Sección 1), es la que mantiene el equilibrio de largo plazo del sistema fluvial {cite:p}`radeckipawlik_open_2017,lane_importance_1955`.
+
+---
+
 ## Taller de Autoevaluación
 
 1. **Balanza de Lane:** Si se construye una represa que captura todo el sedimento aguas arriba pero deja pasar el agua, ¿cómo reaccionará el río aguas abajo según la Ley de Lane?

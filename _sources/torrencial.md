@@ -196,6 +196,60 @@ Colombia es extremadamente vulnerable a estos fenómenos debido a su relieve jov
 * **Puebla de Antón:** En el suroccidente del país, los flujos torrenciales son recurrentes debido a la combinación de laderas empinadas y cenizas volcánicas inestables.
 
 ---
+## 10. Reconstruyendo la Historia: Periodos de Recurrencia sin Registro Instrumental
+
+Un desafío central en la evaluación de amenazas por avenidas torrenciales es que la mayoría de las cuencas de montaña carecen de estaciones hidrométricas con registros suficientemente largos para estimar directamente el periodo de retorno de eventos extremos. La **geomorfología histórica** ofrece métodos indirectos para reconstruir la frecuencia de eventos pasados a partir de evidencia geológica y biológica preservada en el paisaje {cite:p}`bierman_key_2013`.
+
+* **Dendrogeomorfología:** Los árboles que sobreviven a una avenida torrencial (parcialmente enterrados, con el tronco inclinado, con cicatrices por impacto de bloques o troncos arrastrados) registran el evento en sus anillos de crecimiento anual. Al fechar estos anillos y correlacionar las anomalías (cicatrices, cambios abruptos en el ancho de los anillos, raíces adventicias por enterramiento) entre múltiples árboles a lo largo del valle, es posible reconstruir la fecha exacta —incluso la estación del año— de eventos ocurridos en los últimos 100 a 300 años, un periodo generalmente más largo que cualquier registro instrumental disponible en cuencas de montaña tropicales {cite:p}`bierman_key_2013`.
+* **Estratigrafía de Depósitos (Paleo-avenidas):** Trincheras excavadas en los abanicos aluviales de la desembocadura de una quebrada torrencial (ver {ref}`sec-aluvial`) exponen secuencias de depósitos superpuestos, cada uno correspondiente a un evento individual. Dataciones por radiocarbono de materia orgánica atrapada entre capas, o por nucleidos cosmogénicos de los bloques superficiales de cada depósito (ver {ref}`sec-morfotectonica`), permiten construir un catálogo de eventos que se extiende miles de años hacia el pasado {cite:p}`bierman_key_2013`.
+* **Evidencia Liquenométrica:** En ambientes de alta montaña, el tamaño de los líquenes que colonizan la superficie de un bloque recién depositado crece a una tasa relativamente constante y conocida para cada especie y clima. Midiendo el diámetro del liquen más grande sobre un bloque de un depósito torrencial se puede estimar el tiempo mínimo transcurrido desde su depositación.
+
+| Método | Ventana Temporal Típica | Resolución |
+| :--- | :--- | :--- |
+| Registro instrumental (limnígrafos, estaciones) | Años recientes (si existen) | Muy alta (continua) |
+| Dendrogeomorfología | 10² – 10³ años | Anual, a veces estacional |
+| Liquenometría | 10¹ – 10³ años | Década |
+| Estratigrafía + radiocarbono/nucleidos cosmogénicos | 10² – 10⁴ años | Evento individual, con incertidumbre de datación |
+
+*Compilado a partir de {cite:t}`bierman_key_2013`.*
+
+Combinar estas líneas de evidencia con la geomorfología en cascada descrita en la Sección 4 permite construir catálogos de eventos mucho más completos que el registro instrumental disponible, mejorando sustancialmente la estimación de periodos de retorno para el diseño de obras de mitigación y sistemas de alerta temprana en cuencas de montaña como las de los Andes colombianos {cite:p}`aristizabal_avenidas_2020,bierman_key_2013`.
+
+---
+## 11. Métodos Cuantitativos de Evaluación: del Volumen al Alcance del Flujo
+
+Más allá de clasificar y describir un flujo torrencial (Secciones 1 a 9), la ingeniería de riesgos requiere **predecir** con anticipación tres variables clave para el diseño de obras y la delimitación de zonas de amenaza: el volumen probable del evento, su caudal pico, y la distancia que puede recorrer (alcance o *runout*). La monografía de Rickenmann sistematiza los métodos empíricos y semiempíricos más usados internacionalmente para estas tres estimaciones {cite:p}`rickenmann_methods_2016`.
+
+### Relación Empírica Caudal Pico – Volumen
+
+Una de las relaciones más utilizadas en la práctica de la ingeniería de flujos torrenciales vincula el **caudal pico** ($Q_p$) del evento con su **volumen total** ($V$) mediante una ley de potencia de la forma {cite:p}`rickenmann_methods_2016`:
+
+$$Q_p=\alpha \, V^{\beta}$$
+
+Donde $\alpha$ y $\beta$ son coeficientes empíricos calibrados a partir de bases de datos de eventos documentados (generalmente $\beta$ toma valores entre 0.6 y 0.8 en las compilaciones más citadas), y que varían según el tipo de flujo (flujo de escombros granular vs. cohesivo, ver Sección 7) y la región fisiográfica de calibración. Esta relación permite, a partir de una estimación geomorfológica del volumen disponible de sedimento en una cuenca (por ejemplo, a partir de inventarios de movimientos en masa, ver {ref}`sec-MenM`), obtener un caudal pico de diseño sin necesidad de un registro hidrométrico del evento {cite:p}`rickenmann_methods_2016`.
+
+### Estimación del Volumen Movilizable
+
+El volumen potencial de un evento se estima combinando el aporte de distintas fuentes de sedimento dentro de la cuenca {cite:p}`rickenmann_methods_2016`:
+
+| Fuente de Sedimento | Método de Estimación Típico |
+| :--- | :--- |
+| Erosión del lecho del cauce (*bed/channel scour*) | Geometría del canal × profundidad de socavación estimada |
+| Aporte por movimientos en masa en las laderas | Inventarios multitemporales (ver {ref}`sec-MenM`), a menudo apoyados en teledetección |
+| Material ya almacenado en el cauce (depósitos previos removilizables) | Levantamientos topográficos repetidos del cauce |
+| Rotura de represamientos naturales (*landslide dams*) | Volumen del embalse natural formado |
+
+### Estimación del Alcance (*Runout*)
+
+Predecir hasta dónde llegará un flujo torrencial es crítico para delimitar zonas de amenaza. Los métodos empíricos más simples relacionan el alcance horizontal máximo con la energía potencial disponible mediante el **ángulo de alcance** (*travel angle* o *fahrböschung*), definido como el ángulo entre la cabecera del área fuente y el punto de depósito más distal {cite:p}`rickenmann_methods_2016`:
+
+$$\tan(\theta_{alcance})=\frac{H}{L}$$
+
+Donde $H$ es el desnivel total entre la fuente y el punto de depósito, y $L$ es la distancia horizontal recorrida. Eventos de mayor volumen y flujos con reología más fluida (menor concentración de sedimento, ver Sección 7) tienden a presentar ángulos de alcance más bajos (es decir, recorren proporcionalmente más distancia horizontal por unidad de desnivel disponible), mientras que flujos muy concentrados y cohesivos se detienen a ángulos de alcance más altos, cerca del ángulo de fricción interna del material {cite:p}`rickenmann_methods_2016`.
+
+Estos tres elementos —relación caudal pico-volumen, estimación de volumen movilizable, y ángulo de alcance— constituyen, en conjunto, el núcleo metodológico de la evaluación cuantitativa de amenaza por avenidas torrenciales en cuencas de montaña no instrumentadas, complementando el enfoque cualitativo de clasificación y reología presentado en las secciones anteriores de este capítulo {cite:p}`rickenmann_methods_2016,aristizabal_avenidas_2020`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Definiciones:** Según Aristizábal et al. (2020), ¿cuál es la diferencia reológica fundamental entre una creciente súbita y un flujo de escombros?

@@ -61,6 +61,8 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'morfotectonica';</script>
     <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
     <link rel="canonical" href="https://edieraristizabal.github.io/Libro_Geomorfologia/morfotectonica.html" />
@@ -482,6 +484,10 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#morfotectonica-en-colombia-un-laboratorio-vivo">Morfotectónica en Colombia: Un Laboratorio Vivo</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#marcadores-geomorficos-y-geocronologia-cuantificando-la-actividad-tectonica">Marcadores Geomórficos y Geocronología: Cuantificando la Actividad Tectónica</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#metodos-complementarios-de-geocronologia-del-cuaternario">Métodos Complementarios de Geocronología del Cuaternario</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#taller-de-autoevaluacion">Taller de Autoevaluación</a></li>
 </ul>
             </nav>
@@ -762,6 +768,110 @@ indican una historia de evolución del paisaje compleja.</p>
 </ul>
 </section>
 <hr class="docutils" />
+<section id="marcadores-geomorficos-y-geocronologia-cuantificando-la-actividad-tectonica">
+<h2>Marcadores Geomórficos y Geocronología: Cuantificando la Actividad Tectónica<a class="headerlink" href="#marcadores-geomorficos-y-geocronologia-cuantificando-la-actividad-tectonica" title="Link to this heading">#</a></h2>
+<p>Identificar geoformas tectónicas es solo el primer paso; el objetivo de la morfotectónica cuantitativa es medir <strong>tasas</strong> de deformación (levantamiento, acortamiento, desplazamiento de fallas) <span class="bibtex-citation" id="id7">[<a class="reference internal" href="referencias.html#id52" title="Paul R. Bierman and David R. Montgomery. Key Concepts in Geomorphology. W. H. Freeman, New York, 2013.">Bierman and Montgomery, 2013</a>, <a class="reference internal" href="referencias.html#id34" title="D.W. Burbank and R.S. Anderson. Tectonic Geomorphology. Wiley-Blackwell, Chichester, 2 edition, 2011.">Burbank and Anderson, 2011</a>]</span>. Para ello se utilizan <strong>marcadores geomórficos</strong>: superficies o líneas de referencia de edad conocida (o datable) que originalmente eran horizontales, planas o rectas, y cuya deformación actual permite calcular una tasa cuando se divide el desplazamiento por el tiempo transcurrido:</p>
+<div class="math notranslate nohighlight">
+\[\text{Tasa de deformación} = \frac{\text{Desplazamiento del marcador}}{\text{Edad del marcador}}\]</div>
+<p>Los marcadores geomórficos más utilizados incluyen terrazas fluviales y marinas escalonadas (ver <a class="reference internal" href="aluvial.html#sec-aluvial"><span class="std std-ref">Geomorfología de Ambientes Fluviales</span></a>), abanicos aluviales, morrenas glaciares (ver <a class="reference internal" href="glacial.html#sec-glacial"><span class="std std-ref">Geomorfología Glacial y Periglacial</span></a>), superficies de erosión regionales, y cauces o crestas desplazados por fallas de rumbo (ver la sección de bordes transformantes, arriba). Determinar la tasa de deformación exige, por lo tanto, poder <strong>datar</strong> el marcador con precisión. La siguiente tabla resume los métodos de geocronología más empleados en morfotectónica y su rango de aplicación temporal <span class="bibtex-citation" id="id8">[<a class="reference internal" href="referencias.html#id52" title="Paul R. Bierman and David R. Montgomery. Key Concepts in Geomorphology. W. H. Freeman, New York, 2013.">Bierman and Montgomery, 2013</a>]</span>:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head text-left"><p>Método de Datación</p></th>
+<th class="head text-left"><p>Material Datado</p></th>
+<th class="head text-left"><p>Rango de Edades Típico</p></th>
+<th class="head text-left"><p>Principio Físico</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-left"><p>Radiocarbono (<span class="math notranslate nohighlight">\(^{14}\)</span>C)</p></td>
+<td class="text-left"><p>Materia orgánica (madera, carbón, conchas)</p></td>
+<td class="text-left"><p>0 – ~50 000 años</p></td>
+<td class="text-left"><p>Decaimiento radiactivo del isótopo cosmogénico <span class="math notranslate nohighlight">\(^{14}\)</span>C tras la muerte del organismo.</p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>Nucleidos Cosmogénicos (<span class="math notranslate nohighlight">\(^{10}\)</span>Be, <span class="math notranslate nohighlight">\(^{26}\)</span>Al, <span class="math notranslate nohighlight">\(^{36}\)</span>Cl)</p></td>
+<td class="text-left"><p>Superficies rocosas expuestas (cantos de morrena, superficies de falla, terrazas)</p></td>
+<td class="text-left"><p>~10² – 10⁶ años</p></td>
+<td class="text-left"><p>Acumulación de isótopos producidos por rayos cósmicos al exponerse la roca a la superficie.</p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>Luminiscencia Ópticamente Estimulada (OSL)</p></td>
+<td class="text-left"><p>Sedimentos (arenas, limos) enterrados</p></td>
+<td class="text-left"><p>10² – 10⁵ años</p></td>
+<td class="text-left"><p>Tiempo transcurrido desde que los granos de cuarzo/feldespato fueron expuestos por última vez a la luz solar.</p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>Series de Uranio (U/Th)</p></td>
+<td class="text-left"><p>Carbonatos (espeleotemas, corales, terrazas marinas)</p></td>
+<td class="text-left"><p>10² – ~600 000 años</p></td>
+<td class="text-left"><p>Decaimiento radiactivo de la serie del uranio hacia el torio.</p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>Trazas de Fisión y (U-Th)/He</p></td>
+<td class="text-left"><p>Minerales accesorios (apatito, circón)</p></td>
+<td class="text-left"><p>10⁵ – 10⁸ años</p></td>
+<td class="text-left"><p>Acumulación de daño cristalino o de helio radiogénico conforme la roca se enfría al ser exhumada.</p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>Paleomagnetismo</p></td>
+<td class="text-left"><p>Secuencias sedimentarias o volcánicas</p></td>
+<td class="text-left"><p>10⁴ – 10⁷ años (correlación con escala de polaridad)</p></td>
+<td class="text-left"><p>Registro de inversiones del campo magnético terrestre preservado en minerales magnéticos.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Un aporte particularmente influyente de la geocronología con nucleidos cosmogénicos ha sido permitir el cálculo de <strong>tasas de denudación integradas a escala de cuenca</strong>, a partir de la concentración de <span class="math notranslate nohighlight">\(^{10}\)</span>Be en los sedimentos del cauce: cuanto más lentamente se erosiona una cuenca, más tiempo permanece cada grano de cuarzo cerca de la superficie acumulando el isótopo, y por lo tanto mayor es su concentración. Esto ha permitido comparar, por primera vez de forma sistemática, las tasas de denudación de largo plazo (10³–10⁵ años) de cordilleras activas como los Andes con las tasas de levantamiento tectónico medidas por geodesia (GPS), evaluando si un orógeno se encuentra en estado estacionario (levantamiento = denudación) o en desequilibrio <span class="bibtex-citation" id="id9">[<a class="reference internal" href="referencias.html#id52" title="Paul R. Bierman and David R. Montgomery. Key Concepts in Geomorphology. W. H. Freeman, New York, 2013.">Bierman and Montgomery, 2013</a>]</span>.</p>
+<section id="metodos-complementarios-de-geocronologia-del-cuaternario">
+<h3>Métodos Complementarios de Geocronología del Cuaternario<a class="headerlink" href="#metodos-complementarios-de-geocronologia-del-cuaternario" title="Link to this heading">#</a></h3>
+<p>La tabla anterior resume los métodos más usados en morfotectónica, pero la caja de herramientas de la <strong>geocronología cuaternaria</strong> es considerablemente más amplia, y la elección del método correcto depende del material disponible en campo y de la ventana temporal de interés <span class="bibtex-citation" id="id10">[<a class="reference internal" href="referencias.html#id55" title="Jay Stratton Noller, Janet M. Sowers, and William R. (eds.) Lettis. Quaternary Geochronology: Methods and Applications. Volume 4 of AGU Reference Shelf. American Geophysical Union, Washington, D.C., 2000.">Noller <em>et al.</em>, 2000</a>, <a class="reference internal" href="referencias.html#id56" title="Mike Walker. Quaternary Dating Methods. John Wiley &amp; Sons, Chichester, 2005.">Walker, 2005</a>]</span>:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head text-left"><p>Método Adicional</p></th>
+<th class="head text-left"><p>Material Datado</p></th>
+<th class="head text-left"><p>Rango de Edades Típico</p></th>
+<th class="head text-left"><p>Principio Físico</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td class="text-left"><p>Dendrocronología</p></td>
+<td class="text-left"><p>Anillos de crecimiento de árboles</p></td>
+<td class="text-left"><p>10⁰ – 10³ años</p></td>
+<td class="text-left"><p>Conteo y correlación de patrones anuales de crecimiento</p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>Datación de Varvas</p></td>
+<td class="text-left"><p>Sedimentos lacustres laminados</p></td>
+<td class="text-left"><p>10¹ – 10⁴ años</p></td>
+<td class="text-left"><p>Conteo de capas sedimentarias anuales (varvas)</p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>Liquenometría</p></td>
+<td class="text-left"><p>Líquenes sobre superficies rocosas expuestas</p></td>
+<td class="text-left"><p>10¹ – 10³ años</p></td>
+<td class="text-left"><p>Tasa de crecimiento radial conocida de una especie de liquen</p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>Resonancia de Espín Electrónico (ESR)</p></td>
+<td class="text-left"><p>Minerales en fallas, dientes, conchas</p></td>
+<td class="text-left"><p>10³ – 10⁶ años</p></td>
+<td class="text-left"><p>Acumulación de defectos paramagnéticos inducidos por radiación</p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>Tefrocronología</p></td>
+<td class="text-left"><p>Capas de ceniza volcánica (tefra) intercaladas en el registro sedimentario</p></td>
+<td class="text-left"><p>Variable (edad de la erupción fuente)</p></td>
+<td class="text-left"><p>Correlación química/mineralógica de una capa de tefra con una erupción de edad conocida</p></td>
+</tr>
+<tr class="row-odd"><td class="text-left"><p>Barniz de Rocas (<em>Rock Varnish</em>)</p></td>
+<td class="text-left"><p>Recubrimientos de óxidos de Mn-Fe sobre superficies rocosas expuestas</p></td>
+<td class="text-left"><p>10² – 10⁵ años</p></td>
+<td class="text-left"><p>Acumulación gradual de la pátina y su composición isotópica/química</p></td>
+</tr>
+<tr class="row-even"><td class="text-left"><p>Racemización de Aminoácidos</p></td>
+<td class="text-left"><p>Conchas, huesos, foraminíferos</p></td>
+<td class="text-left"><p>10³ – 10⁶ años</p></td>
+<td class="text-left"><p>Conversión gradual de aminoácidos de la forma L a la forma D tras la muerte del organismo</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><em>Compilado a partir de <span class="bibtex-citation" id="id11">Noller <em>et al.</em> [<a class="reference internal" href="referencias.html#id55" title="Jay Stratton Noller, Janet M. Sowers, and William R. (eds.) Lettis. Quaternary Geochronology: Methods and Applications. Volume 4 of AGU Reference Shelf. American Geophysical Union, Washington, D.C., 2000.">2000</a>], Walker [<a class="reference internal" href="referencias.html#id56" title="Mike Walker. Quaternary Dating Methods. John Wiley &amp; Sons, Chichester, 2005.">2005</a>]</span>.</em></p>
+<p>La <strong>tefrocronología</strong> es particularmente valiosa en los Andes colombianos: dado el intenso vulcanismo explosivo de la Cordillera Central (ver <a class="reference internal" href="volcanico.html#sec-volcanico"><span class="std std-ref">Geomorfología de Ambientes Volcánicos</span></a>), las capas de ceniza volcánica intercaladas en perfiles de suelo, morrenas y depósitos aluviales ofrecen horizontes de correlación cronoestratigráfica de gran precisión, permitiendo fechar indirectamente geoformas y depósitos que de otro modo carecerían de material datable directamente <span class="bibtex-citation" id="id12">[<a class="reference internal" href="referencias.html#id55" title="Jay Stratton Noller, Janet M. Sowers, and William R. (eds.) Lettis. Quaternary Geochronology: Methods and Applications. Volume 4 of AGU Reference Shelf. American Geophysical Union, Washington, D.C., 2000.">Noller <em>et al.</em>, 2000</a>]</span>.</p>
+</section>
+</section>
+<hr class="docutils" />
 <section id="taller-de-autoevaluacion">
 <h2>Taller de Autoevaluación<a class="headerlink" href="#taller-de-autoevaluacion" title="Link to this heading">#</a></h2>
 <ol class="arabic simple">
@@ -867,6 +977,10 @@ indican una historia de evolución del paisaje compleja.</p>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#morfotectonica-en-colombia-un-laboratorio-vivo">Morfotectónica en Colombia: Un Laboratorio Vivo</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#marcadores-geomorficos-y-geocronologia-cuantificando-la-actividad-tectonica">Marcadores Geomórficos y Geocronología: Cuantificando la Actividad Tectónica</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#metodos-complementarios-de-geocronologia-del-cuaternario">Métodos Complementarios de Geocronología del Cuaternario</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#taller-de-autoevaluacion">Taller de Autoevaluación</a></li>
 </ul>
   </nav></div>

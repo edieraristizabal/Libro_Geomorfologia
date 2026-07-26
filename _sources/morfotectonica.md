@@ -304,6 +304,44 @@ Colombia es un escenario privilegiado para el estudio de la morfotectónica debi
 * **Relieve Invertido:** En el **Valle Superior del Magdalena**, es posible observar estructuras plegadas donde la erosión ha generado relieves conforme e invertidos sobre rocas sedimentarias.
 
 ---
+## Marcadores Geomórficos y Geocronología: Cuantificando la Actividad Tectónica
+
+Identificar geoformas tectónicas es solo el primer paso; el objetivo de la morfotectónica cuantitativa es medir **tasas** de deformación (levantamiento, acortamiento, desplazamiento de fallas) {cite:p}`burbank_tectonic_2011,bierman_key_2013`. Para ello se utilizan **marcadores geomórficos**: superficies o líneas de referencia de edad conocida (o datable) que originalmente eran horizontales, planas o rectas, y cuya deformación actual permite calcular una tasa cuando se divide el desplazamiento por el tiempo transcurrido:
+
+$$\text{Tasa de deformación} = \frac{\text{Desplazamiento del marcador}}{\text{Edad del marcador}}$$
+
+Los marcadores geomórficos más utilizados incluyen terrazas fluviales y marinas escalonadas (ver {ref}`sec-aluvial`), abanicos aluviales, morrenas glaciares (ver {ref}`sec-glacial`), superficies de erosión regionales, y cauces o crestas desplazados por fallas de rumbo (ver la sección de bordes transformantes, arriba). Determinar la tasa de deformación exige, por lo tanto, poder **datar** el marcador con precisión. La siguiente tabla resume los métodos de geocronología más empleados en morfotectónica y su rango de aplicación temporal {cite:p}`bierman_key_2013`:
+
+| Método de Datación | Material Datado | Rango de Edades Típico | Principio Físico |
+| :--- | :--- | :--- | :--- |
+| Radiocarbono ($^{14}$C) | Materia orgánica (madera, carbón, conchas) | 0 – ~50 000 años | Decaimiento radiactivo del isótopo cosmogénico $^{14}$C tras la muerte del organismo. |
+| Nucleidos Cosmogénicos ($^{10}$Be, $^{26}$Al, $^{36}$Cl) | Superficies rocosas expuestas (cantos de morrena, superficies de falla, terrazas) | ~10² – 10⁶ años | Acumulación de isótopos producidos por rayos cósmicos al exponerse la roca a la superficie. |
+| Luminiscencia Ópticamente Estimulada (OSL) | Sedimentos (arenas, limos) enterrados | 10² – 10⁵ años | Tiempo transcurrido desde que los granos de cuarzo/feldespato fueron expuestos por última vez a la luz solar. |
+| Series de Uranio (U/Th) | Carbonatos (espeleotemas, corales, terrazas marinas) | 10² – ~600 000 años | Decaimiento radiactivo de la serie del uranio hacia el torio. |
+| Trazas de Fisión y (U-Th)/He | Minerales accesorios (apatito, circón) | 10⁵ – 10⁸ años | Acumulación de daño cristalino o de helio radiogénico conforme la roca se enfría al ser exhumada. |
+| Paleomagnetismo | Secuencias sedimentarias o volcánicas | 10⁴ – 10⁷ años (correlación con escala de polaridad) | Registro de inversiones del campo magnético terrestre preservado en minerales magnéticos. |
+
+Un aporte particularmente influyente de la geocronología con nucleidos cosmogénicos ha sido permitir el cálculo de **tasas de denudación integradas a escala de cuenca**, a partir de la concentración de $^{10}$Be en los sedimentos del cauce: cuanto más lentamente se erosiona una cuenca, más tiempo permanece cada grano de cuarzo cerca de la superficie acumulando el isótopo, y por lo tanto mayor es su concentración. Esto ha permitido comparar, por primera vez de forma sistemática, las tasas de denudación de largo plazo (10³–10⁵ años) de cordilleras activas como los Andes con las tasas de levantamiento tectónico medidas por geodesia (GPS), evaluando si un orógeno se encuentra en estado estacionario (levantamiento = denudación) o en desequilibrio {cite:p}`bierman_key_2013`.
+
+### Métodos Complementarios de Geocronología del Cuaternario
+
+La tabla anterior resume los métodos más usados en morfotectónica, pero la caja de herramientas de la **geocronología cuaternaria** es considerablemente más amplia, y la elección del método correcto depende del material disponible en campo y de la ventana temporal de interés {cite:p}`noller_quaternary_2000,walker_quaternary_2005`:
+
+| Método Adicional | Material Datado | Rango de Edades Típico | Principio Físico |
+| :--- | :--- | :--- | :--- |
+| Dendrocronología | Anillos de crecimiento de árboles | 10⁰ – 10³ años | Conteo y correlación de patrones anuales de crecimiento |
+| Datación de Varvas | Sedimentos lacustres laminados | 10¹ – 10⁴ años | Conteo de capas sedimentarias anuales (varvas) |
+| Liquenometría | Líquenes sobre superficies rocosas expuestas | 10¹ – 10³ años | Tasa de crecimiento radial conocida de una especie de liquen |
+| Resonancia de Espín Electrónico (ESR) | Minerales en fallas, dientes, conchas | 10³ – 10⁶ años | Acumulación de defectos paramagnéticos inducidos por radiación |
+| Tefrocronología | Capas de ceniza volcánica (tefra) intercaladas en el registro sedimentario | Variable (edad de la erupción fuente) | Correlación química/mineralógica de una capa de tefra con una erupción de edad conocida |
+| Barniz de Rocas (*Rock Varnish*) | Recubrimientos de óxidos de Mn-Fe sobre superficies rocosas expuestas | 10² – 10⁵ años | Acumulación gradual de la pátina y su composición isotópica/química |
+| Racemización de Aminoácidos | Conchas, huesos, foraminíferos | 10³ – 10⁶ años | Conversión gradual de aminoácidos de la forma L a la forma D tras la muerte del organismo |
+
+*Compilado a partir de {cite:t}`noller_quaternary_2000,walker_quaternary_2005`.*
+
+La **tefrocronología** es particularmente valiosa en los Andes colombianos: dado el intenso vulcanismo explosivo de la Cordillera Central (ver {ref}`sec-volcanico`), las capas de ceniza volcánica intercaladas en perfiles de suelo, morrenas y depósitos aluviales ofrecen horizontes de correlación cronoestratigráfica de gran precisión, permitiendo fechar indirectamente geoformas y depósitos que de otro modo carecerían de material datable directamente {cite:p}`noller_quaternary_2000`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Control Estructural:** ¿Cuál es la diferencia fundamental entre una ladera cataclinal y una anaclinal? ¿Cuál de ellas representa un mayor riesgo geológico por deslizamientos en una zona de alta pluviosidad?

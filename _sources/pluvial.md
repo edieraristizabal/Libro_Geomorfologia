@@ -155,6 +155,45 @@ Se centran en disipar la energía del agua y promover la infiltración:
 * **Los Estoraques (Norte de Santander):** Paisaje único de chimeneas de hadas y pilares esculpidos por la erosión pluvial en depósitos ígneos y sedimentarios friables.
 
 ---
+## 8. De la Ladera a la Cuenca: la Relación de Entrega de Sedimentos
+
+No todo el sedimento desprendido en una ladera por *splash*, erosión laminar o en surcos llega efectivamente al cauce principal de la cuenca. Buena parte queda temporalmente almacenado en depresiones locales, en la base de laderas más suaves, o es interceptado por la vegetación antes de alcanzar el canal. La proporción del sedimento bruto erosionado en una cuenca que efectivamente sale de ella (medida, por ejemplo, en la desembocadura) se conoce como la **Relación de Entrega de Sedimentos** (*Sediment Delivery Ratio*, SDR) {cite:p}`bierman_key_2013`:
+
+$$SDR=\frac{\text{Producción de sedimento en la salida de la cuenca}}{\text{Erosión bruta total en la cuenca}}$$
+
+La SDR es casi siempre menor que 1, y tiende a **disminuir** a medida que aumenta el área de la cuenca, porque cuencas más grandes ofrecen más oportunidades de almacenamiento temporal del sedimento (llanuras de inundación, coluvios, abanicos; ver {ref}`sec-cuencas` y {ref}`sec-aluvial`) antes de que el material alcance la salida {cite:p}`bierman_key_2013`. Esta relación tiene consecuencias prácticas directas: los modelos de pérdida de suelo como la USLE (mencionada arriba) estiman la erosión **bruta** en la ladera, pero sobreestiman sistemáticamente el aporte de sedimentos a un embalse o a un cauce principal si no se corrige por la SDR de la cuenca en cuestión.
+
+## 9. Tasas de Denudación por Erosión Pluvial: Orden de Magnitud
+
+Comparar la erosión pluvial con otros procesos denudacionales (ver la tabla de tasas en {ref}`sec-conceptos`) ayuda a dimensionar su importancia relativa en el paisaje tropical:
+
+| Contexto de Ladera | Tasa de Erosión Aproximada | Comentario |
+| :--- | :--- | :--- |
+| Ladera con cobertura boscosa densa | < 0.1 mm/año | La intercepción y las raíces limitan fuertemente el *splash* y la escorrentía |
+| Ladera con cultivos y prácticas de conservación | 0.1 – 1 mm/año | Erosión laminar moderada, parcialmente controlada |
+| Ladera desprotegida (deforestada, sobrepastoreada) | 1 – 10 mm/año | Erosión laminar y en surcos activa; posible inicio de cárcavas |
+| Cárcava activa en crecimiento remontante (badland) | Hasta > 10 mm/año (equivalente areal) | Erosión concentrada y muy localizada; alta variabilidad espacial |
+
+*Órdenes de magnitud de referencia compilados según {cite:t}`bierman_key_2013`; los valores reales dependen fuertemente de la intensidad y frecuencia de las lluvias, la pendiente y el tipo de suelo.*
+
+Estos valores confirman de forma cuantitativa una observación central de este capítulo: la cobertura vegetal es, por un margen de uno a dos órdenes de magnitud, el control más determinante sobre la tasa de erosión pluvial, superando en importancia relativa a factores como la pendiente o la erosividad de la lluvia cuando se comparan laderas con y sin protección vegetal {cite:p}`bierman_key_2013`.
+
+## 10. Erosión Subsuperficial: el Proceso Oculto de la Tubificación (*Piping*)
+
+Todos los procesos descritos en la Sección 6 (*splash*, laminar, surcos, cárcavas) actúan sobre la **superficie** de la ladera. Sin embargo, existe un proceso de erosión hídrica que opera de forma oculta, bajo la superficie del suelo: la **erosión por tubificación** o *piping* {cite:p}`goudie_encyclopedia_2004`.
+
+El *piping* ocurre cuando el agua subsuperficial (flujo *throughflow*, ver {ref}`sec-cuencas`) se concentra a lo largo de una vía de flujo preferencial —una grieta de desecación, un canal de raíz descompuesta, una madriguera de animal, o un contacto entre horizontes de permeabilidad contrastante— y adquiere suficiente velocidad para erosionar internamente las partículas del suelo, ampliando progresivamente ese conducto subterráneo hasta formar un verdadero **túnel o tubo** (*pipe*) de varios centímetros a más de un metro de diámetro {cite:p}`goudie_encyclopedia_2004,shroder_treatise_2013`. Este proceso es particularmente activo en suelos dispersivos (con alto contenido de sodio intercambiable) y en suelos residuales tropicales muy meteorizados (ver {ref}`sec-meteorizacion`), donde perfiles muy permeables se combinan con pendientes pronunciadas.
+
+La expresión geomorfológica superficial de la tubificación es doble y a menudo pasa desapercibida hasta que el daño es severo:
+
+* **Colapso del Techo del Tubo:** Cuando el tubo subterráneo crece lo suficiente, el "techo" de suelo que lo cubre pierde soporte y colapsa, formando una depresión alargada o una serie de hundimientos alineados en la superficie, que frecuentemente se malinterpretan como el inicio de una cárcava superficial cuando en realidad el proceso dominante ya ha erosionado un volumen considerable de material por debajo.
+* **Conexión con Cárcavas:** El colapso progresivo de una red de tubos subsuperficiales es, de hecho, uno de los mecanismos de iniciación de cárcavas (Sección 6) más comunes en suelos residuales tropicales, actuando en paralelo o incluso por delante de la erosión remontante puramente superficial {cite:p}`goudie_encyclopedia_2004`.
+
+:::{tip}
+La tubificación es un factor de riesgo geotécnico frecuentemente subestimado en laderas urbanas de los Andes colombianos: fugas de redes de acueducto y alcantarillado, o la infiltración concentrada de aguas lluvias mal canalizadas, pueden iniciar y acelerar procesos de *piping* en rellenos y suelos residuales, contribuyendo a la inestabilidad de laderas (ver {ref}`sec-MenM`) mucho antes de que aparezca cualquier evidencia visible en superficie.
+:::
+
+---
 ## Taller de Autoevaluación
 
 1. **Splash:** ¿Qué papel juega la energía cinética de la gota de lluvia en el proceso de erosión? ¿Cómo ayuda el dosel de los árboles a reducir este efecto?

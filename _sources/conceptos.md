@@ -107,6 +107,75 @@ Existe una relación inversa entre el tamaño de un evento geomorfológico y la 
 ```
 
 ---
+## Leyes de Transporte Geomórfico
+
+Más allá de describir los procesos de forma cualitativa, la geomorfología moderna busca expresarlos mediante **leyes de transporte geomórfico** (*geomorphic transport laws*), ecuaciones que relacionan la tasa de movimiento de sedimento con las variables que la controlan (pendiente, área de drenaje, humedad, vegetación, etc.). Esta aproximación cuantitativa, que unifica el estudio de laderas, ríos, glaciares y costas bajo un mismo marco matemático, es uno de los aportes centrales de la geomorfología de procesos contemporánea {cite:p}`bierman_key_2013`.
+
+En este marco, la evolución de la elevación $z$ de cualquier punto del paisaje en el tiempo se expresa mediante una ecuación de conservación de masa (ecuación de continuidad):
+
+$$\frac{\partial z}{\partial t}=U-\nabla \cdot q_s$$
+
+Donde $U$ es la tasa de levantamiento o subsidencia tectónica y $\nabla \cdot q_s$ es la divergencia del flujo de sedimento (la diferencia entre lo que sale y lo que entra a una celda del paisaje). Esta misma estructura matemática, con distintas formulaciones de $q_s$, permite describir tanto el suavizado difusivo de una ladera como la incisión de un cañón fluvial {cite:p}`bierman_key_2013`.
+
+Un concepto clave de este marco es la distinción entre sistemas:
+
+* **Limitados por Transporte (*Transport-Limited*):** El suministro de sedimento suelto es abundante (por ejemplo, una ladera cubierta de regolito o suelo). La tasa de denudación está controlada por la capacidad del proceso de transporte (agua, gravedad, viento) para movilizar ese material disponible.
+* **Limitados por Desprendimiento (*Detachment-Limited*):** El sedimento suelto es escaso o inexistente (por ejemplo, un cauce que fluye directamente sobre roca fresca). La tasa de denudación está controlada por la capacidad del proceso para arrancar (desprender) material de un sustrato coherente, más que por su capacidad de transportarlo una vez desprendido {cite:p}`bierman_key_2013,whipple_dynamics_1999`.
+
+Esta distinción es crucial en los Andes colombianos: una ladera cubierta de saprolito grueso (ver {ref}`sec-meteorizacion`) suele comportarse como un sistema limitado por transporte, mientras que un cañón que incide sobre roca fresca en una zona de reciente levantamiento tectónico se comporta como un sistema limitado por desprendimiento.
+
+## Tasas de los Procesos Geomórficos
+
+Comprender el paisaje cuantitativamente exige comparar las velocidades a las que operan sus distintos procesos, generalmente normalizadas en milímetros por año (mm/año) o metros por millón de años (m/Ma). Estas tasas abarcan varios órdenes de magnitud, lo cual explica por qué ciertos procesos dominan el paisaje en ciertas escalas de tiempo y no en otras {cite:p}`bierman_key_2013`.
+
+| Proceso | Tasa Típica | Escala Temporal Característica |
+| :--- | :--- | :--- |
+| Reptación de suelo (*soil creep*) en laderas | 0.1 – 10 mm/año | Años a décadas |
+| Meteorización química de silicatos (producción de regolito) | 0.01 – 0.1 mm/año | Miles a decenas de miles de años |
+| Denudación de cuencas (promedio, nucleidos cosmogénicos) | 0.01 – 1 mm/año | Cientos a miles de años (integrada) |
+| Incisión fluvial en zonas tectónicamente activas | 1 – 10 mm/año | Miles a cientos de miles de años |
+| Levantamiento tectónico (orógenos activos, ej. Andes) | 1 – 15 mm/año | Cientos de miles a millones de años |
+| Retroceso de glaciares tropicales colombianos | Decenas a cientos de m/año (frente) | Años a décadas |
+| Avenida torrencial o flujo de detritos (evento único) | Metros por segundo (instantáneo) | Minutos a horas |
+
+*Valores de referencia compilados a partir de {cite:t}`bierman_key_2013`; los órdenes de magnitud varían según litología, clima y contexto tectónico específico.*
+
+Nótese el contraste entre procesos **continuos y lentos** (reptación, meteorización), que operan de manera casi imperceptible pero durante periodos muy largos, y procesos **episódicos y rápidos** (avenidas torrenciales, deslizamientos), que logran en minutos u horas lo que tomaría siglos de denudación gradual. Este contraste es la base cuantitativa del principio de magnitud-frecuencia discutido más arriba.
+
+## Sensibilidad y Tiempo de Respuesta del Paisaje
+
+No todos los componentes del paisaje reaccionan con la misma velocidad ante un cambio en las condiciones externas (clima o tectónica). El concepto de **tiempo de relajación** (*relaxation time*) describe cuánto tarda un sistema geomorfológico en ajustar su forma a un nuevo estado de equilibrio después de una perturbación {cite:p}`bierman_key_2013,schumm_geomorphic_1979`.
+
+* **Sistemas de respuesta rápida:** Un cauce fluvial de montaña puede ajustar su perfil longitudinal a un nuevo aporte de sedimentos en años a décadas.
+* **Sistemas de respuesta lenta:** La forma general de una cordillera, controlada por la interacción entre el levantamiento tectónico y la denudación regional, puede tardar millones de años en alcanzar un nuevo equilibrio dinámico tras un cambio climático o tectónico sostenido.
+
+La **sensibilidad del paisaje** (*landscape sensitivity*) es la facilidad con la que un componente del sistema cambia ante una perturbación dada. Laderas empinadas y saturadas en los trópicos húmedos son altamente sensibles (umbrales bajos, tiempos de relajación cortos), mientras que superficies de erosión antiguas sobre cratones estables (ver {ref}`sec-morfotectonica`) son poco sensibles, conservando su morfología durante decenas de millones de años {cite:p}`bierman_key_2013`.
+
+---
+## La Geomorfología como Disciplina: Alcance y Organización del Conocimiento
+
+La **Encyclopedia of Geomorphology**, publicada bajo el auspicio de la Asociación Internacional de Geomorfólogos (IAG) y editada por Andrew Goudie, define la geomorfología como el estudio científico de la naturaleza y el origen de las geoformas terrestres y submarinas, y de los procesos que las producen {cite:p}`goudie_encyclopedia_2004`. Esta definición, aparentemente simple, encierra la doble tarea de la disciplina que atraviesa todo este libro: describir la **forma** (morfología) y explicar el **proceso** que la genera, dos enfoques que, como se ha visto en este capítulo, deben integrarse mediante un marco cuantitativo común.
+
+La magnitud del campo de estudio queda ilustrada por la organización del *Treatise on Geomorphology*, una obra de referencia en 14 volúmenes editada por John Shroder, que sistematiza la geomorfología moderna en grandes dominios de proceso {cite:p}`shroder_treatise_2013`. Esta organización temática es, en esencia, un mapa de los capítulos de este mismo libro:
+
+| Dominio de Proceso (Treatise on Geomorphology) | Capítulo Correspondiente en este Libro |
+| :--- | :--- |
+| Fundamentos, Modelado Cuantitativo y Técnicas Geomorfológicas | {ref}`sec-conceptos`, {ref}`sec-evolucion` |
+| Geomorfología Tectónica y Estructural | {ref}`sec-morfotectonica` |
+| Geomorfología Volcánica | {ref}`sec-volcanico` |
+| Geomorfología Glacial y Periglacial | {ref}`sec-glacial` |
+| Meteorización, Suelos y Karst | {ref}`sec-meteorizacion` |
+| Procesos de Ladera y Movimientos en Masa | {ref}`sec-MenM` |
+| Geomorfología Fluvial y de Cuencas | {ref}`sec-cuencas`, {ref}`sec-aluvial`, {ref}`sec-torrencial` |
+| Geomorfología Eólica y de Zonas Áridas | {ref}`sec-eolica` |
+| Geomorfología Costera y Deltaica | Delta |
+| Geomorfología del Cambio Climático y de las Perturbaciones Humanas | Transversal a todos los capítulos |
+
+*Estructura temática simplificada a partir de {cite:t}`shroder_treatise_2013`.*
+
+Esta correspondencia no es casual: refleja que la subdivisión del paisaje en "ambientes" (glacial, volcánico, eólico, fluvial, etc.) que estructura este libro es, en realidad, una subdivisión por **dominio de proceso dominante**, coherente con la forma en que la comunidad científica internacional organiza el conocimiento geomorfológico contemporáneo {cite:p}`goudie_encyclopedia_2004,shroder_treatise_2013`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Relación Escala-Tiempo:** Explique por qué un aluvión torrencial tiene una duración menor que la evolución de una cordillera, utilizando el concepto de presupuesto energético mencionado en el texto.

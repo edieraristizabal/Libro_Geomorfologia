@@ -126,6 +126,42 @@ La morfología de las dunas depende de dos factores clave: la **disponibilidad d
 ```
 
 ---
+## 14. Polvo y Loess: la Fracción más Fina del Transporte Eólico
+
+Las secciones anteriores se han centrado en la arena (transportada por saltación y reptación) y en las geoformas de deflación y abrasión. Sin embargo, la fracción de **suspensión** —partículas de limo y arcilla que pueden viajar a alturas y distancias mucho mayores que la arena— tiene una importancia geomorfológica y paleoclimática que va mucho más allá del desierto donde se origina {cite:p}`bierman_key_2013,pye_aeolian_2009`.
+
+Cuando el polvo eólico se deposita y acumula durante largos periodos sobre superficies estables (a menudo cubiertas de pastos o vegetación baja, que atrapan las partículas), forma un depósito característico conocido como **loess**: un sedimento eólico de grano fino (predominantemente tamaño limo, 0.02–0.05 mm), no estratificado, de color amarillento a pardo, y con una propiedad geotécnica distintiva: es capaz de mantener taludes casi verticales de gran altura debido a la cementación por carbonato de calcio entre sus partículas, pero colapsa catastróficamente (un fenómeno llamado *hidrocompactación* o colapso por humedecimiento) cuando se satura de agua, ya que pierde súbitamente esa cementación {cite:p}`bierman_key_2013`.
+
+| Característica | Loess | Cenizas Volcánicas Retrabajadas (comparación) |
+| :--- | :--- | :--- |
+| Tamaño de grano dominante | Limo (0.02 – 0.05 mm) | Ceniza fina a limo |
+| Agente de transporte | Viento (suspensión de largo alcance) | Caída piroclástica + retrabajo pluvial |
+| Estructura interna | Masiva, sin estratificación, alta porosidad | Puede presentar estratificación de caída |
+| Comportamiento geotécnico | Taludes verticales estables en seco; colapso súbito al saturarse | Alta susceptibilidad a flujos de detritos al saturarse (ver {ref}`sec-torrencial`) |
+| Fuente típica | Superficies deglaciadas, llanuras fluvioglaciales, márgenes de desiertos | Edificios volcánicos activos o recientes |
+
+Los grandes depósitos de loess del mundo (la Meseta de Loess en China, las llanuras del Medio Oeste de EE. UU., y amplias franjas de Europa central) se originaron predominantemente durante los periodos glaciales del Cuaternario (ver {ref}`sec-glacial`), cuando la combinación de vegetación escasa, superficies fluvioglaciales recién expuestas y fuertes gradientes de presión atmosférica generó condiciones ideales para la generación y el transporte masivo de polvo {cite:p}`bierman_key_2013`. Por esta razón, las secuencias de loess —al igual que el hielo de los casquetes polares— se han convertido en un **archivo paleoclimático** de primer orden: sus capas, alternadas con horizontes de suelo fósil (*paleosoles*) formados durante los interglaciales, registran ciclos climáticos del Pleistoceno de forma análoga a los proxies isotópicos descritos en {ref}`sec-glacial` {cite:p}`bierman_key_2013`.
+
+:::{tip}
+Aunque Colombia no posee grandes extensiones de loess clásico (por su posición ecuatorial fuera de las principales fuentes glaciogénicas de polvo del Cuaternario), sí existen depósitos de cenizas volcánicas retrabajadas con un comportamiento geotécnico análogo —estructura porosa, colapso al saturarse— en la Cordillera Central, un factor determinante en la susceptibilidad a movimientos en masa de ciudades como Manizales, Pereira y Armenia (ver {ref}`sec-MenM`).
+:::
+
+---
+## 15. Formas Menores y Complejos Dunares: Ampliando el Vocabulario Eólico
+
+Más allá de los seis tipos clásicos de duna descritos en la Sección 13, la *Encyclopedia of Geomorphology* recoge un vocabulario más amplio para describir la organización jerárquica de las acumulaciones eólicas y algunas geoformas de menor escala frecuentemente observadas en el campo {cite:p}`goudie_encyclopedia_2004`:
+
+* **Rizaduras de Viento (*Wind Ripples*):** La geoforma eólica de menor escala (crestas de pocos centímetros de longitud de onda), formada por el mismo proceso de saltación que construye las dunas, pero a una escala muchísimo menor. A diferencia de las dunas, la longitud de onda de las rizaduras está controlada por la trayectoria balística típica de los granos saltantes, no por la disponibilidad total de arena.
+* **Draa:** Las mayores acumulaciones eólicas reconocidas, megaformas compuestas de decenas a cientos de metros de altura y varios kilómetros de longitud de onda, sobre cuya superficie se superponen dunas de menor escala (que a su vez pueden estar cubiertas de rizaduras). Los draas representan la escala jerárquica más alta de organización de la arena eólica, muy por encima de las dunas individuales descritas en la Sección 13.
+* **Erg (Mar de Arena):** Una extensa región desértica (típicamente >125 km²) cubierta por acumulaciones eólicas continuas —incluyendo dunas y draas—, en contraste con las superficies de pavimento desértico o roca desnuda que dominan la mayor parte de las regiones áridas del mundo.
+* **Nebkha:** Un pequeño montículo de arena atrapada por la base de un arbusto o mata de vegetación aislada en un ambiente árido o costero. A diferencia de la duna parabólica (Sección 13), donde la vegetación ancla los "cuernos" de una forma mayor en migración, la nebkha es una forma individual y estática, cuyo tamaño y forma reflejan directamente la geometría de la planta que la originó.
+* **Sombra de Arena (*Sand Shadow*):** Una acumulación alargada de arena en el lado de sotavento de un obstáculo no vegetal (una roca, una estructura), análoga conceptualmente a la nebkha pero sin la componente de crecimiento biológico progresivo.
+
+*Definiciones adaptadas de {cite:t}`goudie_encyclopedia_2004`.*
+
+Esta jerarquía —rizadura, duna, draa, erg— ilustra un principio general de la geomorfología eólica: la arena se autoorganiza en un espectro continuo de escalas espaciales, cada una gobernada por mecanismos físicos ligeramente distintos (la trayectoria de saltación de un grano individual para las rizaduras, frente a la disponibilidad regional de sedimento y el régimen de vientos de largo plazo para los draas y ergs) {cite:p}`goudie_encyclopedia_2004,bagnold_physics_1941`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Mecanismos de transporte:** Explique por qué la saltación es el mecanismo dominante en el transporte eólico de arena y qué papel cumple el efecto de salpicadura (*splash*) en la reptación.

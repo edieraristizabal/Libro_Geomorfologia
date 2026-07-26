@@ -326,6 +326,50 @@ Debido a su topografía abrupta, geología compleja y alta pluviosidad, Colombia
 
 ---
 
+## 8. Laderas como Sistemas de Transporte: de la Reptación al Deslizamiento
+
+Los movimientos en masa catastróficos descritos en las secciones anteriores son la expresión más visible y peligrosa de un espectro continuo de procesos de transporte de sedimento en laderas. En el extremo opuesto de ese espectro se encuentra la **reptación** (*creep*), el movimiento lento e imperceptible del regolito pendiente abajo, causado por procesos de expansión-contracción cíclicos (humedecimiento-secado, congelamiento-deshielo, actividad biológica de raíces y organismos excavadores) {cite:p}`bierman_key_2013`.
+
+Para laderas dominadas por reptación, donde el transporte de sedimento es aproximadamente proporcional al gradiente topográfico, la geomorfología cuantitativa emplea el modelo de **difusión lineal** ya introducido en {ref}`sec-conceptos` ($q_s=kS$). Sin embargo, las observaciones de campo muestran que, a medida que la pendiente de una ladera se aproxima a un valor crítico o "ángulo límite" ($S_c$), la tasa de transporte de sedimento no crece linealmente sino que tiende asintóticamente al infinito. Esto llevó al desarrollo del modelo de **difusión no lineal** {cite:p}`bierman_key_2013`:
+
+$$q_s=\frac{kS}{1-(S/S_c)^2}$$
+
+Este modelo explica, en un mismo marco matemático, tanto el comportamiento suave y difusivo de laderas de baja pendiente (donde $S \ll S_c$ y el modelo se reduce a la difusión lineal) como el comportamiento catastrófico de laderas empinadas que se aproximan a su ángulo crítico de estabilidad: al acercarse $S$ a $S_c$, pequeños incrementos adicionales de pendiente (por ejemplo, por socavación basal de un río o un corte antrópico) provocan aumentos desproporcionados en la tasa de transporte de sedimento, lo cual es consistente con el concepto de **umbral geomorfológico** discutido en {ref}`sec-conceptos` y con la mecánica de rotura por Factor de Seguridad descrita arriba: el ángulo crítico $S_c$ del modelo de difusión no lineal es, en esencia, el correlato morfológico del ángulo de fricción efectivo ($\phi'$) del criterio de Mohr-Coulomb {cite:p}`bierman_key_2013`.
+
+## 9. Tiempo de Residencia del Sedimento en la Ladera
+
+Otro concepto cuantitativo útil es el **tiempo de residencia del sedimento** (*sediment residence time*): el periodo promedio durante el cual una partícula de suelo permanece almacenada en una posición de la ladera antes de ser movilizada definitivamente hacia el sistema fluvial {cite:p}`bierman_key_2013`. Este tiempo varía en órdenes de magnitud según el proceso dominante:
+
+| Posición / Proceso en la Ladera | Tiempo de Residencia Típico del Sedimento |
+| :--- | :--- |
+| Regolito superficial en reptación lenta | 10² – 10⁴ años |
+| Depósito coluvial en la base de una ladera estable | 10³ – 10⁵ años |
+| Material removilizado por un deslizamiento traslacional | Minutos a horas (removilización súbita) |
+| Depósito de un flujo de detritos en un cono aluvial (ver {ref}`sec-torrencial`) | 10¹ – 10³ años (hasta el próximo evento o incisión) |
+
+*Órdenes de magnitud de referencia según {cite:t}`bierman_key_2013`; varían fuertemente con el clima, la litología y la actividad sísmica local.*
+
+Este concepto es relevante para la gestión del riesgo: un depósito coluvial que ha permanecido "almacenado" en una ladera durante miles de años sin movimiento no es intrínsecamente estable de forma permanente, sino que se encuentra en un estado de **equilibrio metaestable**, susceptible de ser removilizado abruptamente si un detonante (lluvia extrema, sismo, corte antrópico) reduce su Factor de Seguridad por debajo de 1, como se describió en la Sección 3.
+
+---
+
+## 10. Geoinformática y Teledetección para el Monitoreo de Movimientos en Masa
+
+La caracterización de un movimiento en masa individual (Secciones 5 a 7) se ha visto transformada en las últimas décadas por el desarrollo de las **tecnologías de geoinformación**: sensores remotos, sistemas de información geográfica (SIG) y técnicas de procesamiento digital que permiten detectar, mapear y monitorear la inestabilidad de laderas a escalas que van desde un talud individual hasta regiones enteras {cite:p}`pirasteh_global_2017`.
+
+| Tecnología | Qué Permite Medir/Detectar | Aplicación en Movimientos en Masa |
+| :--- | :--- | :--- |
+| Interferometría de Radar de Apertura Sintética (InSAR) | Desplazamientos milimétricos de la superficie del terreno entre pasadas satelitales | Detección de movimientos lentos (reptación acelerada, deslizamientos activos de baja velocidad) previos a una falla catastrófica |
+| LiDAR (Laser Imaging Detection and Ranging), aéreo o terrestre | Modelos digitales de elevación (DEM) de muy alta resolución, capaces de "ver" a través de la cobertura vegetal | Identificación de cicatrices de deslizamientos antiguos ocultos por bosque; cálculo preciso de volúmenes movilizados |
+| Fotogrametría con Drones (UAV) | Ortomosaicos y modelos 3D de alta resolución de un evento reciente | Monitoreo repetido de la evolución de un deslizamiento activo; cálculo de volúmenes de erosión/depósito |
+| Sensores Ópticos Multiespectrales (satelitales) | Cambios en la cobertura del suelo y la vegetación a escala regional | Inventarios multitemporales de movimientos en masa tras un evento sísmico o una temporada de lluvias extrema |
+
+*Compilado a partir de {cite:t}`pirasteh_global_2017`.*
+
+Estas tecnologías son particularmente valiosas para superar dos limitaciones históricas de los inventarios de movimientos en masa en países como Colombia: la dificultad de acceso a zonas de alta montaña con topografía abrupta y cobertura vegetal densa, y la necesidad de generar inventarios multitemporales (antes/después de un evento detonante) para calibrar modelos de amenaza a escala regional {cite:p}`pirasteh_global_2017,aristizabal_avenidas_2020`. La integración de estas fuentes de datos dentro de un SIG permite, además, combinar las variables condicionantes (Sección 4) en modelos estadísticos o de aprendizaje automático de susceptibilidad a movimientos en masa, una aproximación cada vez más estándar en la gestión del riesgo geomorfológico.
+
+---
+
 ## Taller de Autoevaluación
 
 1. **Mecánica de Suelos:** Explique cómo el aumento de la presión de poros ($u$) durante una temporada de lluvias reduce el Factor de Seguridad de una ladera.
