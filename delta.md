@@ -87,6 +87,42 @@ La morfología de un delta es un reflejo del balance entre el **Río** (fuerza d
 * **Importancia Ambiental:** Los deltas colombianos albergan extensos bosques de manglar, ecosistemas críticos para la protección de la costa y la biodiversidad.
 
 ---
+## 5. El Balance Sedimentario de un Delta: Progradación, Subsidencia y Nivel del Mar
+
+La forma y la extensión de un delta en un momento dado no dependen únicamente del suministro de sedimento y la energía del cuerpo receptor (Secciones 2 y 4); dependen de un **balance sedimentario** entre tres términos que compiten entre sí {cite:p}`bierman_key_2013`:
+
+$$\Delta z_{superficie}=\text{Aporte de sedimento} - \text{Subsidencia} - \text{Ascenso relativo del nivel del mar}$$
+
+* **Aporte de Sedimento:** El volumen de sedimento que el río deposita, que construye elevación y hace **prograr** (avanzar) la línea de costa.
+* **Subsidencia:** El hundimiento gradual de la superficie del delta, causado por la compactación natural de los sedimentos finos y orgánicos recién depositados (que pierden agua de poro y se consolidan bajo su propio peso) y, a escalas mayores, por el ajuste isostático de la corteza bajo la carga del propio delta (ver el concepto de isostasia en {ref}`sec-morfotectonica`).
+* **Ascenso Relativo del Nivel del Mar:** La combinación del ascenso eustático (global) del nivel del mar con la subsidencia regional de la cuenca.
+
+Cuando el aporte de sedimento supera a la suma de la subsidencia y el ascenso del nivel del mar, el delta **prograda** (crece hacia el mar), como se describe en la Sección 2. Cuando ocurre lo contrario, el delta **retrograda**: la línea de costa retrocede, las zonas del plano deltaico se inundan permanentemente, y el sistema puede entrar en una fase de abandono y erosión, generando **deltas destructivos** dominados por procesos costeros que retrabajan el sedimento previamente depositado {cite:p}`bierman_key_2013,galloway_process_1975`.
+
+## 6. Impactos Humanos en los Sistemas Deltaicos
+
+Los deltas modernos están entre los paisajes más intensamente modificados por la actividad humana del planeta, principalmente porque la construcción de represas en las cuencas altas y medias intercepta una fracción creciente de la carga de sedimentos que históricamente alimentaba la progradación deltaica {cite:p}`bierman_key_2013`. Este fenómeno, conocido como **inanición de sedimentos** (*sediment starvation*), rompe el balance sedimentario descrito arriba incluso sin que cambien la subsidencia natural o el nivel del mar:
+
+| Factor Antrópico | Efecto sobre el Balance Sedimentario | Ejemplo Global |
+| :--- | :--- | :--- |
+| Represas en la cuenca alta | Reduce drásticamente el aporte de sedimento; atrapa la carga de fondo y buena parte de la carga en suspensión | Delta del Nilo (tras la Presa de Asuán); reducción de más del 95 % del aporte histórico de sedimento |
+| Extracción de agua subterránea/hidrocarburos bajo el delta | Acelera la subsidencia artificial, sumándose a la compactación natural | Delta del Mississippi; algunas zonas subsidiendo varios cm/año |
+| Diques y canalización de distributarios | Impide la avulsión natural (ver el taller de autoevaluación) y concentra el sedimento en un solo canal, en vez de distribuirlo sobre el plano deltaico | Delta del Mississippi (diques del *Bird's Foot*) |
+| Deforestación/erosión acelerada en la cuenca alta | Puede aumentar temporalmente el aporte de sedimento, contrarrestando parcialmente otros efectos | Varía según cuenca; efecto generalmente transitorio frente al represamiento aguas abajo |
+
+*Compilado a partir de {cite:t}`bierman_key_2013`.*
+
+El caso del delta del Mississippi es el más documentado a nivel mundial: la combinación de diques que confinan el río a un único canal, represas en la cuenca del Misuri-Misisipi que retienen sedimento, y subsidencia acelerada por extracción de hidrocarburos ha resultado en la pérdida de miles de kilómetros cuadrados de humedales deltaicos desde mediados del siglo XX, convirtiendo a un delta históricamente progradante en uno claramente retrogradante {cite:p}`bierman_key_2013`. Este mismo principio —la vulnerabilidad de los deltas a la reducción del aporte sedimentario aguas arriba— es directamente relevante para el Canal del Dique en el sistema deltaico del río Magdalena (ver más abajo), donde el manejo de sedimentos tiene efectos documentados sobre los ecosistemas costeros receptores.
+
+## 7. Avulsión y el Ciclo de Lóbulos Deltaicos
+
+Uno de los mecanismos más importantes para el crecimiento lateral (no solo frontal) de un delta es la **avulsión**: el abandono súbito de un canal distributario activo y su reemplazo por un nuevo curso que sigue una ruta topográficamente más favorable (más corta o de mayor pendiente) hacia el cuerpo receptor {cite:p}`goudie_encyclopedia_2004,shroder_treatise_2013`.
+
+La causa física de la avulsión está directamente ligada al balance sedimentario descrito arriba: a medida que un canal distributario deposita sedimento en su propio lecho y en sus diques naturales (ver {ref}`sec-aluvial`), su cauce se va elevando gradualmente por encima de la llanura deltaica circundante, quedando "encaramado" sobre una cresta topográfica propia. Este proceso incrementa progresivamente la inestabilidad del canal, hasta que una crecida extraordinaria rompe el dique natural en un punto débil y el flujo encuentra una ruta alternativa con mayor pendiente y menor distancia al mar, abandonando el canal antiguo casi por completo {cite:p}`shroder_treatise_2013`.
+
+Este ciclo de avulsión repetido a lo largo de miles de años es el mecanismo responsable de la construcción de la forma característica en abanico o triangular de un delta maduro: cada avulsión sucesiva construye un nuevo **lóbulo deltaico** en una posición angular distinta, mientras el lóbulo previamente activo, ya sin aporte de sedimento fresco, deja de prograr y comienza a subsidir y ser retrabajado por el cuerpo receptor (Sección 4), formando bahías someras o completándose el ciclo de abandono descrito en la Sección 5 {cite:p}`goudie_encyclopedia_2004`. El delta del Mississippi es, de nuevo, el ejemplo mejor documentado: su llanura deltaica actual es un mosaico de al menos seis lóbulos sucesivos, cada uno formado y luego abandonado por avulsión en los últimos ~7 000 años, un patrón que solo es visible al analizar la estratigrafía y la edad relativa de sus distintos sectores {cite:p}`shroder_treatise_2013`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Condiciones de Formación:** Si un mar tiene olas extremadamente fuertes y corrientes constantes que barren la costa, ¿es probable que se forme un delta de tipo "pata de pájaro"?

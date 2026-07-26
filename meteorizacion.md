@@ -489,6 +489,41 @@ Las láminas tetraédricas y octaédricas se combinan para formar las capas de l
 
 * **Capas 2:1**: En este caso, una lámina octaédrica está "sándwich" entre dos láminas tetraédricas. Estos minerales, como la pirofilita o el talco, se conocen como filosilicatos 2:1. En estas arcillas, como la esmectita, las láminas tetraédricas de la parte superior e inferior están unidas por enlaces débiles (fuerzas de Van der Waals). Esto permite que el agua, con su naturaleza polar, se infiltre entre las capas. El agua hidrata los cationes que equilibran la carga, como el sodio ($Na^{+}$) y el calcio ($Ca^{2+}$), lo que fuerza la separación de las capas y provoca un hinchamiento masivo. A medida que el suelo se seca, el agua se elimina y las capas se contraen. Este comportamiento de "hinchamiento-contracción" causa grandes problemas en la ingeniería geotécnica.
 ---
+## La Función de Producción de Regolito
+
+Hasta ahora hemos descrito la meteorización de forma cualitativa (tipos, perfiles, índices). La geomorfología cuantitativa formaliza la **tasa** a la que la roca fresca se convierte en regolito mediante la **función de producción de regolito** (*regolith production function*), que relaciona la tasa de meteorización en la interfaz roca-saprolito ($P$) con el espesor del regolito suprayacente ($h$) {cite:p}`bierman_key_2013`:
+
+$$P(h)=P_0 \cdot e^{-h/h_0}$$
+
+Donde $P_0$ es la tasa máxima de producción de regolito (cuando el espesor $h$ tiende a cero) y $h_0$ es una constante de escala que representa qué tan rápido decae la producción con la profundidad. Esta formulación **exponencial decreciente** captura una intuición sencilla: entre menos regolito cubre la roca fresca, más fácilmente el agua, el CO₂ y el oxígeno pueden alcanzarla y meteorizarla; a medida que el manto de regolito se engrosa, actúa como una barrera que limita el acceso de estos agentes reactivos a la roca fresca, ralentizando la producción {cite:p}`bierman_key_2013`.
+
+Sin embargo, estudios posteriores con nucleidos cosmogénicos (ver {ref}`sec-morfotectonica`) han mostrado que, en muchos ambientes —incluyendo laderas tropicales—, la función real no es monótonamente decreciente sino que presenta un máximo en espesores de regolito intermedios (una **función de producción "jorobada"** o *humped production function*): con un regolito muy delgado o ausente, la retención de humedad es baja y la meteorización es lenta; con un espesor moderado, la humedad retenida y la actividad biológica (raíces, microorganismos) maximizan la reactividad química; y con un regolito muy grueso, el acceso de agua y gases a la roca fresca vuelve a limitarse {cite:p}`bierman_key_2013`.
+
+| Modelo de Producción de Regolito | Comportamiento | Contexto Típico de Aplicación |
+| :--- | :--- | :--- |
+| Exponencial decreciente ($P_0 e^{-h/h_0}$) | Máxima producción con regolito nulo o muy delgado | Litologías homogéneas, climas templados, laderas con erosión activa que mantiene el regolito delgado |
+| "Jorobada" (*humped*) | Máxima producción con un espesor intermedio de regolito | Ambientes con fuerte control de la humedad y la biota (bosques tropicales húmedos, páramos) |
+
+Este marco cuantitativo tiene una implicación directa para la ingeniería geotécnica de laderas tropicales (ver {ref}`sec-MenM`): si la tasa de producción de saprolito es menor que la tasa de denudación (por erosión superficial o movimientos en masa), el perfil de meteorización se adelgaza progresivamente, exponiendo roca cada vez más fresca y resistente. Si ocurre lo contrario, el perfil se engrosa, acumulando un espesor cada vez mayor de material geotécnicamente débil {cite:p}`bierman_key_2013`.
+
+## Cuantificación de Tasas de Meteorización con Nucleidos Cosmogénicos
+
+Al igual que en la datación de morrenas glaciares (ver {ref}`sec-glacial`), los nucleidos cosmogénicos producidos in situ ($^{10}$Be, $^{26}$Al) permiten calcular directamente **tasas de denudación de largo plazo** (integradas sobre 10³–10⁵ años) en laderas y cuencas, incluyendo la tasa a la que la interfaz roca-saprolito desciende conforme la roca se meteoriza y el material suprayacente es removido por erosión {cite:p}`bierman_key_2013`. Comparando estas tasas de denudación de largo plazo con mediciones de meteorización química a corto plazo (por ejemplo, balances de solutos en cuencas instrumentadas), es posible evaluar si un paisaje se encuentra en **estado estacionario de meteorización** (donde la producción de regolito iguala a su remoción, manteniendo un espesor de suelo aproximadamente constante en el tiempo) {cite:p}`bierman_key_2013`.
+
+Esta aproximación cuantitativa es particularmente relevante en los Andes colombianos, donde perfiles de meteorización de decenas de metros de espesor (ver la sección de Perfil de Meteorización, arriba) se desarrollan bajo tasas de denudación relativamente altas debido a la combinación de pendientes pronunciadas, alta pluviosidad y actividad sísmica; entender si estos perfiles están creciendo, en equilibrio o adelgazándose es clave para anticipar cambios en la susceptibilidad a movimientos en masa a escala regional.
+
+## Meteorización Esferoidal y Bloques Residuales (Corestones)
+
+Un patrón geomorfológico distintivo de la meteorización química profunda, ampliamente documentado tanto en el *Treatise on Geomorphology* como en la *Encyclopedia of Geomorphology*, es la **meteorización esferoidal** (*spheroidal weathering*), un proceso mediante el cual un bloque de roca originalmente angular (delimitado por diaclasas ortogonales) se redondea progresivamente {cite:p}`goudie_encyclopedia_2004,shroder_treatise_2013`.
+
+El mecanismo es geométrico: el agua y los agentes de meteorización química (ver Hidrólisis, arriba) atacan la roca con mayor eficacia en las esquinas y aristas del bloque, donde la superficie expuesta a la reacción por unidad de volumen de roca es mayor que en las caras planas. Esta meteorización diferencial elimina progresivamente las esquinas, generando una serie de capas concéntricas de alteración (similares a las capas de una cebolla, un proceso conocido como *onion-skin weathering* o descamación esferoidal) alrededor de un núcleo de roca fresca cada vez más pequeño y redondeado {cite:p}`goudie_encyclopedia_2004`.
+
+Cuando este núcleo de roca fresca (o poco meteorizada) queda expuesto en superficie tras la erosión del regolito circundante, se conoce como **corestone** (o bloque residual/núcleo): un bloque redondeado, de tamaño variable (desde centímetros hasta varios metros), que "flota" dentro de una matriz de saprolito mucho más blanda {cite:p}`shroder_treatise_2013`. Los corestones son extremadamente comunes en los perfiles de meteorización tropical de los Andes colombianos y tienen una doble relevancia práctica:
+
+* **Geomorfológica:** Cuando el saprolito circundante es erosionado por completo, los corestones quedan expuestos como bloques residuales aislados sobre la superficie, un paisaje conocido internacionalmente como *boulder-strewn landscape* o, en su expresión más extrema sobre rocas graníticas, como paisaje de "berrocales" (ver la lista de geoformas en la Sección de Meteorización Física).
+* **Geotécnica:** Durante exploraciones geotécnicas y excavaciones en laderas tropicales, los corestones representan un peligro de caracterización, ya que perforaciones puntuales pueden interpretar erróneamente un corestone aislado como "roca sana continua", subestimando el espesor real y la baja resistencia del saprolito circundante que en realidad domina el comportamiento geomecánico de la ladera (ver {ref}`sec-MenM`) {cite:p}`shroder_treatise_2013`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Física vs. Química:** ¿Bajo qué condiciones climáticas (P, T) predomina la meteorización física por gelifracción y bajo cuáles la meteorización química por hidrólisis?

@@ -80,3 +80,41 @@ El modelo de King es principalmente un modelo de retroceso paralelo de escarpes.
 | **Fase Final** | Peneplanicie | Endrumpf | Pediplanicie |
 | **Cerros Residuales** | Monadnock | Inselbergs | Inselbergs |
 | **Entorno Análogo** | Apalaches (EE.UU.) | Andes (Sudamérica) | Karoo (Sudáfrica) |
+
+---
+## 4. La Perspectiva Cuantitativa Moderna: Modelos de Evolución del Paisaje
+
+Los modelos de Davis, Penck y King comparten una limitación fundamental: son esquemas conceptuales y descriptivos, construidos a partir de la observación de paisajes en distintas etapas presumibles de un ciclo, pero no incorporan ecuaciones que relacionen explícitamente las tasas de los procesos con las variables físicas que los controlan (clima, litología, tectónica). La geomorfología cuantitativa que se desarrolló a partir de la segunda mitad del siglo XX buscó superar esta limitación combinando la observación de campo con las **leyes de transporte geomórfico** (ver {ref}`sec-conceptos`), dando origen a los **Modelos de Evolución del Paisaje** (*Landscape Evolution Models*, LEM) {cite:p}`bierman_key_2013`.
+
+Un LEM típico combina al menos dos leyes de transporte fundamentales que operan simultáneamente sobre una malla topográfica:
+
+1.  **Difusión en laderas:** $\dfrac{\partial z}{\partial t} = \kappa \nabla^2 z$, que suaviza el relieve y redondea las divisorias (un proceso análogo al *downwearing* de Davis).
+2.  **Incisión fluvial (Ley de la Potencia de Corriente):** $\dfrac{\partial z}{\partial t} = -KA^mS^n$, que profundiza los valles y genera relieve (un proceso análogo, en su efecto sobre el paisaje, al *backwearing* de Penck y King) {cite:p}`whipple_dynamics_1999,bierman_key_2013`.
+
+Al resolver estas ecuaciones numéricamente bajo distintos escenarios de levantamiento tectónico y clima, los LEM permiten poner a prueba, de forma reproducible, cuál de las intuiciones clásicas (declive, reemplazo o retroceso paralelo) se ajusta mejor a un paisaje real, y muestran que los tres comportamientos —lejos de ser mutuamente excluyentes— pueden coexistir en un mismo paisaje, dependiendo de la posición topográfica (divisorias vs. cauces) y del balance local entre levantamiento y denudación {cite:p}`bierman_key_2013`.
+
+### La Curva Hipsométrica: Cuantificando el "Estado" de un Paisaje
+
+Davis clasificó los paisajes en etapas cualitativas (juventud, madurez, senectud) a partir de su aspecto general. La geomorfología cuantitativa ofrece una herramienta objetiva para expresar esta misma idea: la **curva hipsométrica**, que grafica la proporción de área de una cuenca que se encuentra por encima de una elevación relativa dada, y el **integral hipsométrico** ($HI$), el área bajo esa curva {cite:p}`strahler_quantitative_1957,bierman_key_2013`.
+
+| Etapa (Concepto de Davis) | Forma de la Curva Hipsométrica | Integral Hipsométrico (HI) | Interpretación en Términos de Procesos |
+| :--- | :--- | :--- | :--- |
+| Juventud | Convexa | HI alto (> 0.6) | Poca erosión acumulada; predomina el volumen de roca por remover; superficies residuales amplias en las divisorias. |
+| Madurez | Sigmoidal (en "S") | HI intermedio (0.35 – 0.6) | Balance entre la remoción de masa en las partes altas y bajas de la cuenca; máxima disección del relieve. |
+| Senectud | Cóncava | HI bajo (< 0.35) | La mayor parte del volumen original ya ha sido erosionado; predominan superficies bajas y planas cercanas al nivel de base. |
+
+A diferencia de la clasificación puramente descriptiva de Davis, el integral hipsométrico puede calcularse directamente de un Modelo Digital de Elevación (DEM) y comparar objetivamente cuencas de tamaños y contextos climáticos distintos, o dar seguimiento a cómo cambia una misma cuenca en respuesta a perturbaciones tectónicas o climáticas, sin necesidad de asumir a priori un ciclo evolutivo único {cite:p}`bierman_key_2013`.
+
+:::{tip}
+En los Andes colombianos, cuencas con valores de HI altos suelen coincidir con sectores de levantamiento tectónico activo o litologías muy resistentes (ver {ref}`sec-morfotectonica`), mientras que valores bajos se asocian a cuencas sobre las superficies de erosión más antiguas del Escudo Guayanés.
+:::
+
+## 5. Superficies de Planación: el Legado Conceptual de los Modelos Clásicos
+
+Más allá de sus mecanismos particulares, los tres modelos clásicos comparten una predicción común: bajo condiciones de estabilidad tectónica prolongada, el relieve tiende hacia una superficie de muy bajo relieve cercana al nivel de base, denominada genéricamente **superficie de planación** (*planation surface*). La *Encyclopedia of Geomorphology* recoge y sistematiza la terminología asociada a este concepto, que en la práctica de campo suele generar confusión terminológica {cite:p}`goudie_encyclopedia_2004`:
+
+* **Peneplanicie (*Peneplain*):** El término original de Davis para la superficie final de su ciclo geográfico, formada predominantemente por *downwearing* (desgaste vertical).
+* **Pediplanicie (*Pediplain*):** El término de King para la superficie final formada por la coalescencia de pedimentos, producto del retroceso paralelo de escarpes (*backwearing*).
+* **Etchplain (Superficie de Etchado):** Un tercer tipo de superficie de planación, reconocido más ampliamente desde mediados del siglo XX, que se forma por la meteorización química profunda del sustrato (ver {ref}`sec-meteorizacion`) seguida de la remoción erosiva del regolito, exhumando una superficie de roca fresca (la "etch surface") que puede conservar un relieve residual irregular controlado por la profundidad previa de meteorización, en lugar de la superficie perfectamente plana que implican los modelos de Davis o King {cite:p}`goudie_encyclopedia_2004`.
+
+Esta distinción entre peneplanicie, pediplanicie y *etchplain* es especialmente relevante en el contexto tropical de este libro: en climas húmedos y cálidos como los de buena parte de Colombia, la meteorización química profunda (ver {ref}`sec-meteorizacion`) es tan intensa que muchas superficies de bajo relieve descritas en el paisaje no son el resultado de un desgaste o retroceso puramente mecánico, sino de la exhumación de un frente de meteorización irregular, lo que las clasificaría más apropiadamente como *etchplains* que como peneplanicies o pediplanicies en el sentido estricto de Davis o King {cite:p}`goudie_encyclopedia_2004,shroder_treatise_2013`.

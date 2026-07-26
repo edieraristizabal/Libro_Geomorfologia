@@ -287,6 +287,37 @@ El término "periglacial" se refiere a los ambientes fríos no glaciados, domina
 * **Última Glaciación (LGM):** Durante el Último Máximo Glacial (~21.000 años), la EQL en los Andes colombianos descendió hasta los ~3.000-3.500 msnm. Los glaciares cubrieron vastas áreas que hoy son páramos.
 * **Evidencias:** Las morrenas terminales y laterales, los valles en U, los circos y los numerosos lagos (tarns) en parques como Los Nevados, El Cocuy o el Parque Nacional Natural Chingaza son la evidencia geomorfológica inequívoca de esta extensa glaciación pasada.
 ---
+## 16. Datación de Morrenas: Nucleidos Cosmogénicos
+
+¿Cómo sabemos que el Último Máximo Glacial ocurrió hace ~21 000 años en los Andes colombianos? La respuesta más robusta proviene de la **datación por nucleidos cosmogénicos**, una técnica que ha revolucionado la cronología glacial en las últimas tres décadas {cite:p}`bierman_key_2013`.
+
+Cuando un bloque de roca es depositado en la cresta de una morrena por el hielo en retroceso, queda expuesto por primera vez a la radiación cósmica. Los rayos cósmicos que inciden sobre la superficie de la roca producen reacciones nucleares en los minerales (típicamente en el cuarzo), generando isótopos raros como el berilio-10 ($^{10}$Be) o el aluminio-26 ($^{26}$Al) a una tasa de producción conocida y dependiente de la altitud y la latitud. Midiendo la concentración de estos isótopos acumulados en los primeros centímetros de la roca, y conociendo la tasa de producción del sitio, se puede calcular directamente el **tiempo de exposición**, es decir, cuánto tiempo ha transcurrido desde que el hielo abandonó ese bloque {cite:p}`bierman_key_2013`:
+
+$$N=P\cdot t\left(1-e^{-\lambda t}\right)+N_{inh}$$
+
+Donde $N$ es la concentración medida del nucleido, $P$ es la tasa de producción local, $t$ es la edad de exposición, $\lambda$ es la constante de decaimiento radiactivo del isótopo, y $N_{inh}$ es una concentración heredada de exposición previa (que idealmente se minimiza muestreando la superficie superior de bloques grandes y estables de la cresta morrénica).
+
+Esta técnica ha permitido datar directamente las morrenas de El Cocuy, Los Nevados y otros macizos andinos, confirmando la sincronía (o los desfases) entre los avances glaciares tropicales y los del hemisferio norte durante el Pleistoceno tardío, una pregunta clave para entender la dinámica climática global {cite:p}`bierman_key_2013,rabatel_current_2013`.
+
+## 17. La Hipótesis de la "Sierra de Hielo" Glacial (*Glacial Buzzsaw*)
+
+Un patrón notable observado en cordilleras de todo el mundo es que las cumbres de alta montaña rara vez superan significativamente la altitud de la línea de nieve o la línea de equilibrio glacial (EQL) durante los periodos glaciales, incluso cuando el levantamiento tectónico continúa activo. Esta observación dio origen a la hipótesis de la **"sierra de hielo" glacial** (*glacial buzzsaw hypothesis*), que propone que la erosión glacial actúa como un límite superior autorregulado sobre la altitud máxima de las cordilleras {cite:p}`bierman_key_2013`.
+
+El mecanismo propuesto es una retroalimentación negativa (ver {ref}`sec-conceptos`): a medida que el levantamiento tectónico eleva el terreno por encima de la EQL, se favorece la formación y expansión de circos y glaciares de valle (ver Secciones 9 y 10). La erosión glacial es extremadamente eficiente en las zonas cercanas a la EQL (por los ciclos de congelamiento-deshielo y el arranque basal), lo que "poda" activamente las cumbres que intentan crecer por encima de esta altitud crítica, manteniendo la topografía cerca de un techo altitudinal relativamente constante a lo largo de millones de años {cite:p}`bierman_key_2013`.
+
+:::{tip}
+Esta hipótesis es un excelente ejemplo de la interacción entre procesos endógenos y exógenos discutida en {ref}`sec-conceptos`: aunque el motor primario (levantamiento tectónico) es interno, el resultado final de la altitud de la cordillera está fuertemente condicionado por un proceso climático-erosivo externo. En los Andes tropicales, donde la EQL actual se encuentra muy por encima de los 4 800 msnm, este efecto es menos evidente que en cordilleras de latitudes medias y altas, donde la EQL histórica ha sido mucho más baja durante los ciclos glaciales del Cuaternario.
+:::
+
+## 18. El Forzamiento Radiativo y el Retroceso Glaciar Contemporáneo
+
+Las causas orbitales y tectónicas de las glaciaciones descritas en la Sección 4 operan en escalas de miles a millones de años. El retroceso acelerado que hoy documentan los glaciares colombianos (Sección 14) responde, en cambio, a un mecanismo físico de acción mucho más rápida: el **forzamiento radiativo** por gases de efecto invernadero de origen antropogénico {cite:p}`archer_global_2006`.
+
+El principio físico es directo: los gases de efecto invernadero (CO₂, CH₄, entre otros) son transparentes a la radiación solar de onda corta entrante, pero absorben y reemiten parte de la radiación infrarroja de onda larga que la Tierra irradia de vuelta al espacio. Al aumentar su concentración atmosférica, se reduce la eficiencia con la que el planeta pierde calor, generando un desequilibrio energético neto —el forzamiento radiativo— que eleva la temperatura media global hasta que se alcanza un nuevo equilibrio {cite:p}`archer_global_2006`. Los glaciares de montaña, por su pequeño volumen individual y su gran superficie de contacto con la atmósfera en relación con su masa, se encuentran entre los componentes más sensibles del sistema climático a este calentamiento, respondiendo con tiempos de relajación (ver {ref}`sec-conceptos`) de años a décadas, mucho más cortos que los mantos de hielo continentales {cite:p}`archer_global_2006`.
+
+Este marco climático explica por qué los pequeños casquetes de hielo tropicales de Colombia (Sección 14), al ser cuerpos de hielo de escaso volumen y altamente sensibles, se cuentan entre los sistemas glaciares que están desapareciendo más rápidamente a nivel mundial, muy por delante de glaciares de mayor tamaño en latitudes altas, y por qué su desaparición es esperable incluso bajo escenarios de estabilización climática moderada, dado el desfase (tiempo de relajación) entre el forzamiento radiativo ya acumulado en la atmósfera y la respuesta completa del sistema criosférico {cite:p}`archer_global_2006,rabatel_current_2013`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Balance de Masa:** Si un glaciar presenta una Línea de Equilibrio (EQL) que asciende en altitud año tras año, ¿qué podemos concluir sobre su estado de salud? ¿Está en avance o retroceso?

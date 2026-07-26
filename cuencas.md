@@ -204,6 +204,54 @@ Colombia cuenta con cinco grandes regiones hidrográficas (Amazonas, Orinoco, Ca
 * **Gestión de Cuencas:** En Colombia, las **POMCA** (Planes de Ordenación y Manejo de Cuencas Hidrográficas) son el instrumento legal para la gestión del riesgo y el recurso hídrico.
 
 ---
+## 12. Morfometría de Cuencas: Más Allá del Orden de Strahler
+
+La jerarquización de Strahler (Sección 3) es solo el punto de partida de la **morfometría de cuencas**, el análisis cuantitativo sistemático de la geometría de las redes de drenaje. Robert Horton, precursor de este enfoque, observó que ciertas proporciones entre variables de la red de drenaje se mantienen notablemente constantes de una cuenca a otra, lo que sugiere que las redes fluviales no son aleatorias sino el resultado de procesos físicos que producen una organización jerárquica predecible {cite:p}`strahler_quantitative_1957,bierman_key_2013`.
+
+### Leyes de Horton
+
+* **Ley de los Números de Canal:** La razón entre el número de canales de un orden dado ($N_u$) y el número de canales del orden inmediatamente superior ($N_{u+1}$) es aproximadamente constante para todos los órdenes de una cuenca. Esta constante se conoce como la **razón de bifurcación** ($R_b$):
+
+$$R_b=\frac{N_u}{N_{u+1}}$$
+
+* **Ley de las Longitudes de Canal:** De forma análoga, la longitud promedio de los canales tiende a aumentar geométricamente con el orden, según una razón de longitud ($R_L$) también aproximadamente constante entre órdenes sucesivos {cite:p}`bierman_key_2013`.
+
+En la mayoría de las cuencas naturales, $R_b$ toma valores entre 3 y 5. Valores de $R_b$ inusualmente altos o bajos pueden indicar un fuerte control estructural o litológico sobre la red de drenaje (ver {ref}`sec-morfotectonica`), en lugar de un desarrollo puramente erosivo "libre".
+
+### La Ley de Hack: Longitud del Cauce Principal vs. Área de la Cuenca
+
+Otra relación morfométrica robusta, documentada por John Hack, vincula la longitud del cauce principal ($L$) con el área de la cuenca que drena ($A$) mediante una ley de potencia {cite:p}`bierman_key_2013`:
+
+$$L=cA^{h}$$
+
+Donde $c$ es una constante y el exponente $h$ toma típicamente valores cercanos a 0.6 en cuencas de todo el mundo, un valor notablemente consistente entre climas y litologías muy distintos. Este exponente, ligeramente mayor a 0.5 (el valor esperado si las cuencas fueran geométricamente similares en todas las escalas), implica que las cuencas grandes tienden a ser proporcionalmente más alargadas que las cuencas pequeñas, un patrón con implicaciones directas sobre la forma del hidrograma (ver Sección 10, arriba) {cite:p}`bierman_key_2013`.
+
+| Herramienta Morfométrica | Qué Cuantifica | Aplicación Práctica |
+| :--- | :--- | :--- |
+| Razón de Bifurcación ($R_b$) | Grado de ramificación de la red de drenaje | Detectar control estructural/litológico anómalo |
+| Razón de Longitud ($R_L$) | Tasa de crecimiento de la longitud de canal con el orden | Comparar la eficiencia de drenaje entre cuencas |
+| Curva/Integral Hipsométrico (ver {ref}`sec-evolucion`) | Distribución de área con la elevación (etapa de disección) | Inferir el "estado" evolutivo relativo de una cuenca |
+| Ley de Hack ($L=cA^h$) | Relación entre longitud del cauce principal y área de cuenca | Predecir la forma y el tiempo de concentración de una cuenca no instrumentada |
+
+Estas herramientas morfométricas, calculables directamente a partir de un Modelo Digital de Elevación, permiten caracterizar objetivamente cuencas no instrumentadas —una situación común en buena parte del territorio colombiano— y son la base cuantitativa que sustenta muchos de los criterios cualitativos de forma y respuesta hidrológica discutidos en la Sección 10 {cite:p}`bierman_key_2013`.
+
+## 13. Estructuras Hidráulicas para el Manejo de Cauces de Montaña
+
+La gestión de cuencas hidrográficas (Sección 12, POMCA) frecuentemente requiere intervenir directamente el cauce con **estructuras hidráulicas de control**, diseñadas para modificar la pendiente efectiva, disipar energía o estabilizar el fondo del canal. La ingeniería fluvial distingue varios tipos de estructuras según su función específica {cite:p}`radeckipawlik_open_2017`:
+
+| Estructura | Función Principal | Efecto Geomorfológico |
+| :--- | :--- | :--- |
+| Presa de Control de Sedimentos (*Check Dam*) | Reducir la pendiente efectiva de un tramo, atrapando sedimento aguas arriba | Crea una serie de escalones (perfil en "diente de sierra"); reduce la energía disponible para la erosión del lecho |
+| Rampa Hidráulica (*Ramp Structure*) | Disipar energía en un cambio de pendiente sin crear una caída vertical | Permite el paso de sedimento y de fauna acuática (conectividad longitudinal), a diferencia de un vertedero vertical |
+| Vertedero de Fondo (*Grade Control/Sill*) | Fijar la cota del lecho en un punto, evitando la incisión remontante | Ancla el perfil longitudinal (ver Sección 4) impidiendo que la erosión se propague aguas arriba |
+| Espolón o Deflector (*Groyne/Spur*) | Redirigir el flujo, alejándolo de una margen erosionable | Protege márgenes; puede inducir deposición local en la zona de sombra hidráulica |
+| Gavión / Revestimiento de Margen | Aumentar la resistencia al corte de la margen del canal | Reduce la migración lateral natural del canal (con el efecto secundario de simplificar el hábitat fluvial) |
+
+*Compilado a partir de {cite:t}`radeckipawlik_open_2017`.*
+
+Un principio de diseño destacado en la literatura de hidráulica fluvial es que las estructuras que **imitan la morfología natural** del cauce (como las rampas de bajo gradiente en lugar de caídas verticales abruptas) tienden a lograr los mismos objetivos de control de erosión con un menor impacto sobre la conectividad ecológica y sedimentaria de la cuenca, un principio cada vez más incorporado en el diseño de obras de mitigación en quebradas de montaña colombianas {cite:p}`radeckipawlik_open_2017`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Órdenes de Drenaje:** Dado un mapa de una red de drenaje, identifique los canales de orden 1, 2 y 3 según Strahler. ¿De qué orden es la cuenca si su río principal es de orden 4?

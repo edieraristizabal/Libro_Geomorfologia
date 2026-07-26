@@ -138,6 +138,46 @@ Los Andes colombianos albergan una gran variedad de centros volcánicos, princip
 * **Remanentes Erosivos:** El **Peñol de Guatapé** es a menudo confundido, pero es un batolito; sin embargo, existen cuellos volcánicos reales expuestos en departamentos como Caldas.
 
 ---
+## 6. Degradación de Edificios Volcánicos: la Morfología como Reloj Geomórfico
+
+Un edificio volcánico recién construido presenta laderas rectas y pendientes cercanas al ángulo de reposo del material piroclástico (~30-33°). Sin embargo, desde el momento en que cesa la actividad eruptiva, los procesos exógenos (erosión pluvial, meteorización, movimientos en masa; ver {ref}`sec-pluvial` y {ref}`sec-MenM`) comienzan a suavizar progresivamente su forma. Este suavizado sigue, en primera aproximación, una ley de difusión (ver {ref}`sec-conceptos`), lo que permite usar la morfología de un cono volcánico como un verdadero "reloj geomórfico" para estimar su edad relativa, incluso en ausencia de dataciones radiométricas {cite:p}`bierman_key_2013`.
+
+$$\frac{\partial z}{\partial t}=\kappa \nabla^2 z$$
+
+A medida que el tiempo transcurre, el coeficiente de difusión ($\kappa$, que integra el efecto de la lluvia, la vegetación y la litología del depósito piroclástico) actúa acumulativamente, de modo que la pendiente máxima de un cono disminuye y su perfil se redondea de forma predecible y cuantificable {cite:p}`bierman_key_2013`. Esta relación se ha calibrado extensamente en conos de escoria de edad conocida (dataciones radiométricas o históricas), permitiendo construir curvas de referencia entre la pendiente máxima observada y la edad del edificio:
+
+| Estado Morfológico del Cono | Pendiente Máxima Aproximada | Edad Relativa Aproximada |
+| :--- | :--- | :--- |
+| Cono fresco, sin disección | 30° – 33° (ángulo de reposo) | < 1 000 años |
+| Cono suavizado, con incipientes cárcavas radiales | 20° – 28° | 1 000 – 10 000 años |
+| Cono muy degradado, fuertemente disectado por drenajes | 10° – 18° | 10 000 – 100 000 años |
+| Remanente erosivo (cuello volcánico, ver Sección 5.1) | Variable, controlado por la resistencia del material | > 100 000 años (a menudo mucho mayor) |
+
+*Rangos de referencia basados en estudios de degradación de conos de escoria compilados por {cite:t}`bierman_key_2013`; los valores absolutos varían con el clima y la litología del material piroclástico.*
+
+Este enfoque morfométrico es especialmente útil para estimar la edad relativa de campos volcánicos monogenéticos (como los mencionados en San Diego, Antioquia, o en Nariño), donde decenas de pequeños conos pueden haberse formado en momentos distintos a lo largo de miles de años, y donde no siempre se dispone de dataciones radiométricas para cada estructura individual.
+
+---
+## 7. Peligros Volcánicos: una Perspectiva desde la Vulcanología
+
+La geomorfología volcánica no puede separarse del estudio de los **peligros volcánicos** (*volcanic hazards*), ya que cada geoforma descrita en este capítulo es, a la vez, el registro de un proceso eruptivo pasado y un indicador de los peligros que ese mismo volcán puede volver a generar {cite:p}`francis_oppenheimer_volcanoes_2003`. Francis y Oppenheimer clasifican los peligros volcánicos en dos grandes categorías, útiles para vincular la morfología del edificio con la gestión del riesgo:
+
+* **Peligros Proximales (cerca del cráter):** Caída de piroclastos gruesos (bombas balísticas), flujos piroclásticos (*nuées ardentes*, asociados al estilo Peleano y Pliniano descritos en la Sección 1), y coladas de lava.
+* **Peligros Distales (pueden afectar zonas alejadas del cráter):** Caída de ceniza fina (tefra), que puede viajar cientos de kilómetros según la altura de la columna eruptiva y el viento; y especialmente los **lahares**, que —como ya se mencionó— pueden recorrer decenas de kilómetros valle abajo mucho después de que ha cesado la actividad eruptiva propiamente dicha, e incluso ser generados por lluvia intensa que removiliza depósitos piroclásticos no consolidados sin necesidad de una erupción activa {cite:p}`francis_oppenheimer_volcanoes_2003`.
+
+| Tipo de Peligro | Alcance Típico desde el Cráter | Geoforma/Depósito Asociado (ver Secciones 2-4) |
+| :--- | :--- | :--- |
+| Flujo piroclástico (*nuée ardente*) | Hasta ~20-30 km, canalizado por valles | Depósitos de flujo (ignimbritas), domos colapsados |
+| Caída de tefra | Cientos a miles de km (ceniza fina) | Depósitos de caída estratificados |
+| Lahar | Decenas de km, confinado a valles | Depósitos masivos, mal seleccionados, en abanicos y llanuras aluviales (ver {ref}`sec-torrencial`) |
+| Colada de lava | Hasta decenas de km (basáltica fluida) | Morfología Pāhoehoe/ʻAʻā (Sección 4.3) |
+| Avalancha de escombros / colapso de flanco | Decenas de km | Topografía de montículos (*hummocks*, Sección 4.4) |
+
+*Clasificación adaptada de {cite:t}`francis_oppenheimer_volcanoes_2003`.*
+
+Un aspecto que Francis y Oppenheimer enfatizan, y que es directamente relevante para el contexto colombiano, es que el peligro por lahar es **desproporcionadamente alto en volcanes con casquetes glaciares o nevados** (ver {ref}`sec-glacial`), ya que incluso erupciones de magnitud moderada pueden fundir grandes volúmenes de hielo súbitamente, generando lahares catastróficos sin necesidad de una erupción pliniana de gran escala. Este mecanismo fue precisamente el que causó la tragedia de Armero en 1985 en el Nevado del Ruiz {cite:p}`francis_oppenheimer_volcanoes_2003`.
+
+---
 ## Taller de Autoevaluación
 
 1. **Magma y Morfología:** ¿Por qué un volcán en escudo (ej. Mauna Loa) tiene pendientes mucho más suaves que un estratovolcán (ej. Nevado del Ruiz)? Relacione su respuesta con la viscosidad del magma.
