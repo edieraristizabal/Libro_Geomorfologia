@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 320" font-family="Arial, sans-serif">
+  <rect width="780" height="320" fill="#ffffff"/>
+
+  <g transform="translate(20,20)">
+    <text x="170" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Terrazas Apareadas (paired)</text>
+    <rect x="20" y="150" width="120" height="80" fill="#a89a8a"/>
+    <rect x="220" y="150" width="120" height="80" fill="#a89a8a"/>
+    <rect x="150" y="200" width="60" height="30" fill="#4472a8"/>
+    <text x="170" y="260" text-anchor="middle" font-size="10" fill="#555555">misma elevación en ambos lados</text>
+  </g>
+
+  <g transform="translate(400,20)">
+    <text x="170" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Terrazas No Apareadas (unpaired)</text>
+    <rect x="20" y="120" width="120" height="60" fill="#a89a8a"/>
+    <rect x="220" y="170" width="120" height="60" fill="#a89a8a"/>
+    <rect x="150" y="200" width="60" height="30" fill="#4472a8"/>
+    <text x="170" y="260" text-anchor="middle" font-size="10" fill="#555555">elevación distinta a cada lado</text>
+  </g>
+
+  <text x="390" y="300" text-anchor="middle" font-size="10" fill="#666666">Terrazas degradacionales (erosivas) vs. agradacionales (deposicionales) según el origen del material</text>
+</svg>

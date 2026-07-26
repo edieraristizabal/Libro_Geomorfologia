@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="Arial, sans-serif">
+  <rect width="760" height="320" fill="#ffffff"/>
+  <text x="380" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Cambios del canal: nacimiento a desembocadura</text>
+
+  <path d="M 40 260 Q 250 100 400 160 Q 600 210 720 230" fill="none" stroke="#1f6feb" stroke-width="3"/>
+
+  <g font-size="10" text-anchor="middle" fill="#333333">
+    <text x="90" y="90">Nacimiento</text>
+    <text x="90" y="105">pendiente alta</text>
+    <text x="90" y="120">Q bajo, sustrato grueso</text>
+    <g fill="#8a8a8a"><circle cx="70" cy="245" r="6"/><circle cx="90" cy="240" r="8"/><circle cx="110" cy="248" r="5"/></g>
+
+    <text x="400" y="130">Curso medio</text>
+    <text x="400" y="145">pendiente moderada</text>
+    <text x="400" y="160">Q creciente, gravas/arenas</text>
+    <g fill="#c9a06a"><circle cx="380" cy="195" r="4"/><circle cx="395" cy="198" r="3"/><circle cx="410" cy="193" r="4"/><circle cx="425" cy="197" r="3"/></g>
+
+    <text x="650" y="190">Desembocadura</text>
+    <text x="650" y="205">pendiente casi nula</text>
+    <text x="650" y="220">Q máximo, limos/arcillas</text>
+  </g>
+
+  <text x="380" y="290" text-anchor="middle" font-size="10" fill="#666666">Perfil longitudinal cóncavo de equilibrio</text>
+</svg>

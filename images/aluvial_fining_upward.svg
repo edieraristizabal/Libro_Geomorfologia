@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" font-family="Arial, sans-serif">
+  <rect width="500" height="400" fill="#ffffff"/>
+  <text x="250" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Secuencia "Fining Upward"</text>
+
+  <rect x="180" y="60" width="140" height="50" fill="#8a7256"/>
+  <text x="330" y="90" font-size="11" fill="#333333">limos/arcillas (llanura de inundación)</text>
+
+  <rect x="180" y="110" width="140" height="60" fill="#c9a06a"/>
+  <text x="330" y="145" font-size="11" fill="#333333">arena fina-media</text>
+
+  <rect x="180" y="170" width="140" height="70" fill="#b98f5e"/>
+  <g fill="#8a7256"><circle cx="210" cy="200" r="4"/><circle cx="240" cy="210" r="5"/><circle cx="270" cy="195" r="4"/><circle cx="290" cy="215" r="5"/></g>
+  <text x="330" y="205" font-size="11" fill="#333333">arena gruesa</text>
+
+  <rect x="180" y="240" width="140" height="70" fill="#8a8a8a"/>
+  <g fill="#6b6b6b"><circle cx="210" cy="270" r="9"/><circle cx="245" cy="280" r="10"/><circle cx="280" cy="265" r="8"/><circle cx="300" cy="285" r="9"/></g>
+  <text x="330" y="280" font-size="11" fill="#333333">grava (channel lag)</text>
+
+  <path d="M 150 60 L 130 60 L 130 310 L 150 310" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#fuArrow)"/>
+  <text x="120" y="185" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333" transform="rotate(-90 120 185)">Tiempo / pérdida de energía →</text>
+
+  <text x="250" y="345" text-anchor="middle" font-size="10" fill="#666666">El tamaño de grano disminuye hacia arriba</text>
+
+  <defs>
+    <marker id="fuArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker>
+  </defs>
+</svg>

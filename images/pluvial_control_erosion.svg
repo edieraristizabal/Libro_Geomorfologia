@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" font-family="Arial, sans-serif">
+  <rect width="700" height="320" fill="#ffffff"/>
+
+  <g transform="translate(20,30)">
+    <text x="140" y="0" text-anchor="middle" font-size="13" font-weight="bold" fill="#333333">Terrazas y cultivos de contorno</text>
+    <path d="M 20 250 L 280 250 L 280 60 L 20 200 Z" fill="#d8d8d8"/>
+    <path d="M 30 210 L 260 165" stroke="#2ca02c" stroke-width="6"/>
+    <path d="M 40 180 L 270 135" stroke="#2ca02c" stroke-width="6"/>
+    <path d="M 50 150 L 275 105" stroke="#2ca02c" stroke-width="6"/>
+    <text x="150" y="280" text-anchor="middle" font-size="10" fill="#555555">siguen las curvas de nivel, frenan la escorrentía</text>
+  </g>
+
+  <g transform="translate(370,30)">
+    <text x="140" y="0" text-anchor="middle" font-size="13" font-weight="bold" fill="#333333">Trinchos (check dams) en cárcavas</text>
+    <path d="M 40 60 Q 100 150 90 250 L 190 250 Q 180 150 240 60 Z" fill="#8a6a45" opacity="0.5"/>
+    <rect x="70" y="140" width="90" height="10" fill="#5c4326"/>
+    <rect x="60" y="190" width="110" height="10" fill="#5c4326"/>
+    <text x="140" y="280" text-anchor="middle" font-size="10" fill="#555555">reducen la pendiente y velocidad del flujo</text>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" font-family="Arial, sans-serif">
+  <rect width="700" height="420" fill="#ffffff"/>
+  <text x="350" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Comportamiento reológico de los flujos</text>
+
+  <line x1="90" y1="360" x2="640" y2="360" stroke="#333333" stroke-width="2" marker-end="url(#rhArrow)"/>
+  <line x1="90" y1="360" x2="90" y2="60" stroke="#333333" stroke-width="2" marker-end="url(#rhArrow)"/>
+  <text x="365" y="395" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Tasa de deformación (γ̇) →</text>
+  <text x="45" y="210" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333" transform="rotate(-90 45 210)">Esfuerzo cortante (τ) →</text>
+
+  <!-- Newtonian: water, straight line through origin -->
+  <line x1="90" y1="360" x2="600" y2="90" stroke="#1f6feb" stroke-width="3"/>
+  <text x="500" y="110" fill="#1f6feb" font-size="12" font-weight="bold">Newtoniano (agua) — creciente súbita</text>
+
+  <!-- Bingham: offset then linear -->
+  <line x1="90" y1="300" x2="600" y2="140" stroke="#d62728" stroke-width="3"/>
+  <circle cx="90" cy="300" r="5" fill="#d62728"/>
+  <text x="500" y="160" fill="#d62728" font-size="12" font-weight="bold">Bingham (viscoso/cohesivo)</text>
+
+  <!-- Dilatant/frictional: curve concave up -->
+  <path d="M 90 360 Q 300 355 600 210" fill="none" stroke="#e67e22" stroke-width="3"/>
+  <text x="420" y="255" fill="#e67e22" font-size="12" font-weight="bold">Friccional / Dilatante (granular)</text>
+
+  <!-- Yield stress marker -->
+  <line x1="70" y1="300" x2="90" y2="300" stroke="#d62728" stroke-width="2"/>
+  <text x="40" y="304" font-size="10" fill="#d62728">τy</text>
+
+  <text x="365" y="30" text-anchor="middle" font-size="10" fill="#888888"></text>
+</svg>

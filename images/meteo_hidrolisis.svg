@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220" font-family="Arial, sans-serif">
+  <rect width="760" height="220" fill="#ffffff"/>
+  <text x="380" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Hidrólisis del feldespato</text>
+
+  <g font-size="12" text-anchor="middle" fill="#333333">
+    <rect x="20" y="70" width="140" height="60" fill="#c9a06a" stroke="#6b4020" stroke-width="1.5"/>
+    <text x="90" y="105">Feldespato</text>
+
+    <text x="175" y="105" font-size="16">+</text>
+
+    <rect x="200" y="70" width="140" height="60" fill="#7fb3d5" stroke="#1f6feb" stroke-width="1.5"/>
+    <text x="270" y="100">H₂CO₃</text>
+    <text x="270" y="116" font-size="9">(ácido carbónico)</text>
+
+    <line x1="360" y1="100" x2="420" y2="100" stroke="#333333" stroke-width="2.5" marker-end="url(#hArrow)"/>
+
+    <rect x="440" y="70" width="140" height="60" fill="#8a6a45" stroke="#5c4326" stroke-width="1.5"/>
+    <text x="510" y="100">Arcilla</text>
+    <text x="510" y="116" font-size="9">(caolinita)</text>
+
+    <text x="595" y="105" font-size="16">+</text>
+
+    <rect x="615" y="70" width="130" height="60" fill="#f1c40f" opacity="0.7" stroke="#8a6100" stroke-width="1.5"/>
+    <text x="680" y="95">Cationes</text>
+    <text x="680" y="110" font-size="9">(K⁺, Na⁺)</text>
+    <text x="680" y="123" font-size="9">+ sílice disuelta</text>
+  </g>
+
+  <text x="380" y="180" text-anchor="middle" font-size="10" fill="#666666">El H⁺ del ácido rompe los enlaces del mineral, liberando cationes y sílice</text>
+
+  <defs>
+    <marker id="hArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#333333"/></marker>
+  </defs>
+</svg>

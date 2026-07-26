@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" font-family="Arial, sans-serif">
+  <rect width="600" height="320" fill="#ffffff"/>
+  <text x="300" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Solifluxión en un talud de páramo</text>
+
+  <path d="M 40 280 L 460 60 L 560 60 L 560 280 Z" fill="#c9a06a" stroke="#6b4020" stroke-width="2"/>
+
+  <!-- saturated soil layer flowing over frozen/impermeable layer -->
+  <path d="M 60 265 Q 200 190 340 130 Q 420 95 460 75" fill="none" stroke="#5c4326" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="420" y="65" font-size="10" fill="#5c4326">capa congelada / impermeable</text>
+
+  <!-- lobes of solifluction -->
+  <path d="M 120 250 Q 160 235 200 250 Q 180 265 140 265 Z" fill="#8a6a45" opacity="0.8"/>
+  <path d="M 220 210 Q 260 195 300 210 Q 280 225 240 225 Z" fill="#8a6a45" opacity="0.8"/>
+  <path d="M 320 165 Q 355 152 390 165 Q 372 178 336 178 Z" fill="#8a6a45" opacity="0.8"/>
+
+  <line x1="150" y1="230" x2="180" y2="245" stroke="#1f6feb" stroke-width="2" marker-end="url(#slArrow)"/>
+  <line x1="250" y1="190" x2="280" y2="205" stroke="#1f6feb" stroke-width="2" marker-end="url(#slArrow)"/>
+
+  <text x="300" y="300" text-anchor="middle" font-size="11" fill="#333333">Flujo lento del suelo saturado sobre una capa congelada o impermeable, formando lóbulos</text>
+
+  <defs>
+    <marker id="slArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#1f6feb"/></marker>
+  </defs>
+</svg>

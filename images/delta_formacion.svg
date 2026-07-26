@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" font-family="Arial, sans-serif">
+  <rect width="700" height="320" fill="#ffffff"/>
+  <text x="350" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Formación de un delta</text>
+
+  <rect x="0" y="180" width="700" height="140" fill="#7fb3d5" opacity="0.6"/>
+  <path d="M 40 180 L 300 180 L 340 165 L 380 175 L 700 175 L 700 180 Z" fill="#c9a06a"/>
+
+  <path d="M 100 175 L 320 178" stroke="#4472a8" stroke-width="14"/>
+  <text x="150" y="160" font-size="11" font-weight="bold" fill="#333333">Río (alta velocidad)</text>
+
+  <path d="M 320 178 Q 420 190 550 210 Q 620 225 680 250" fill="none" stroke="#c9a06a" stroke-width="10" opacity="0.8"/>
+  <text x="420" y="240" font-size="11" font-weight="bold" fill="#8a6a45">Progradación (sedimento se apila)</text>
+
+  <text x="500" y="130" font-size="11" fill="#333333">La velocidad y turbulencia caen</text>
+  <text x="500" y="145" font-size="11" fill="#333333">abruptamente al entrar al mar/lago</text>
+
+  <text x="350" y="300" text-anchor="middle" font-size="10" fill="#666666">Requiere alto suministro de sedimento y baja energía del cuerpo receptor</text>
+</svg>

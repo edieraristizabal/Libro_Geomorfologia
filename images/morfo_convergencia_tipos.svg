@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" font-family="Arial, sans-serif">
+  <rect width="840" height="320" fill="#ffffff"/>
+
+  <!-- Oceanic-Oceanic -->
+  <g transform="translate(20,30)">
+    <text x="125" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Oceánica-Oceánica</text>
+    <rect x="0" y="150" width="90" height="30" fill="#7fb3d5"/>
+    <rect x="0" y="130" width="90" height="20" fill="#4472a8"/>
+    <rect x="160" y="150" width="90" height="30" fill="#7fb3d5"/>
+    <path d="M 90 130 Q 130 200 160 150 L 160 180 L 90 180 Z" fill="#4472a8"/>
+    <path d="M 130 130 L 145 90 L 160 130 Z" fill="#c0392b"/>
+    <text x="55" y="200" font-size="9" fill="#555555">fosa</text>
+    <text x="145" y="80" font-size="9" fill="#555555" text-anchor="middle">arco de islas</text>
+  </g>
+
+  <!-- Oceanic-Continental -->
+  <g transform="translate(300,30)">
+    <text x="130" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Oceánica-Continental</text>
+    <rect x="0" y="150" width="90" height="30" fill="#7fb3d5"/>
+    <rect x="0" y="130" width="90" height="20" fill="#4472a8"/>
+    <rect x="160" y="140" width="120" height="40" fill="#c9a06a"/>
+    <path d="M 90 130 Q 140 210 160 150 L 160 180 L 90 180 Z" fill="#4472a8"/>
+    <path d="M 200 140 L 220 90 L 240 140 Z" fill="#c0392b"/>
+    <text x="45" y="200" font-size="9" fill="#555555">fosa</text>
+    <text x="220" y="80" font-size="9" fill="#555555" text-anchor="middle">arco volcánico</text>
+    <text x="140" y="205" font-size="9" fill="#555555">prisma acreción</text>
+  </g>
+
+  <!-- Continental-Continental -->
+  <g transform="translate(600,30)">
+    <text x="120" y="0" text-anchor="middle" font-size="12" font-weight="bold" fill="#333333">Continental-Continental</text>
+    <rect x="0" y="150" width="100" height="30" fill="#c9a06a"/>
+    <rect x="140" y="150" width="100" height="30" fill="#c9a06a"/>
+    <path d="M 100 150 Q 150 60 180 90 Q 200 60 240 150 Z" fill="#a97a50"/>
+    <text x="120" y="200" text-anchor="middle" font-size="9" fill="#555555">colisión, engrosamiento cortical</text>
+    <text x="120" y="213" text-anchor="middle" font-size="9" fill="#555555">sin volcanismo (ej. Himalaya)</text>
+  </g>
+</svg>

@@ -1,7 +1,7 @@
 (sec-eolica)=
 # Erosión Eólica
 
-Es el desprendimiento y transporte de material (principalmente limo y arena) por la acción del viento. Es el proceso geomorfológico dominante en ambientes áridos, semiáridos y costeros.
+Es el desprendimiento y transporte de material (principalmente limo y arena) por la acción del viento. Es el proceso geomorfológico dominante en ambientes áridos, semiáridos y costeros, donde la escasa cobertura vegetal y la disponibilidad de sedimento suelto le permiten actuar sin la competencia de otros agentes erosivos {cite:p}`bagnold_physics_1941,cooke_desert_1993`.
 
 :::{important}
 **Objetivos de aprendizaje:**
@@ -13,114 +13,142 @@ Es el desprendimiento y transporte de material (principalmente limo y arena) por
 ---
 ## 9. Transporte Eólico
 
-El viento mueve las partículas mediante tres mecanismos:
-* **Suspensión:** Partículas muy finas (arcilla, limo) que son levantadas y transportadas a grandes alturas y distancias (ej. polvo del Sahara llegando al Amazonas).
-* **Saltación:** El mecanismo principal (80% del transporte). Partículas de arena (0.1-0.5 mm) que son levantadas por el viento, viajan en un arco balístico, y al golpear la superficie desprenden a otras partículas.
-* **Reptación (Creep):** Partículas más gruesas que son empujadas y rodadas por la superficie.
-  
+El viento mueve las partículas mediante tres mecanismos, descritos originalmente por Bagnold a partir de sus experimentos en túnel de viento {cite:p}`bagnold_physics_1941`:
 
-```{figure} https://i.pinimg.com/736x/60/69/1b/60691bf598b4bd6dddebf3d9f404d647.jpg
-:name: fig-6777
-:width: 400
+* **Suspensión:** Partículas muy finas (arcilla, limo, menores a ~0.06 mm) que son levantadas por la turbulencia atmosférica y transportadas a grandes alturas y distancias, en ocasiones miles de kilómetros (ej. polvo del Sahara llegando al Amazonas).
+* **Saltación:** El mecanismo principal, responsable de cerca del 80% del transporte total. Partículas de arena (0.1-0.5 mm) que son levantadas por el viento, viajan en un arco balístico de pocos centímetros de altura y, al golpear la superficie, desprenden y ponen en movimiento a otras partículas (efecto de "salpicadura" o *splash*).
+* **Reptación (Creep):** Partículas más gruesas (hasta ~1-2 mm), demasiado pesadas para saltar, que son empujadas y ruedan por la superficie al ser golpeadas por los granos en saltación. Representa cerca del 20-25% del transporte total {cite:p}`pye_aeolian_2009`.
+
+```{figure} images/eolica_transporte.svg
+:name: fig-transporte-eolico
+:width: 600px
+
+Mecanismos de transporte eólico: suspensión, saltación y reptación. Elaboración propia con base en {cite:t}`bagnold_physics_1941`.
 ```
 
 ---
 ## 10. Procesos y Geoformas de Erosión Eólica (Deflación y Abrasión)
 
 ### Procesos
-* **Deflación:** Es el "barrido" selectivo del viento, que levanta y se lleva las partículas finas (arena, limo), dejando atrás los fragmentos más gruesos (grava, cantos) como un "rezago".
-* **Abrasión Eólica:** Es el "lijado" o pulido de las superficies rocosas por el impacto de las partículas de arena transportadas en saltación. Es más efectiva en el primer metro sobre la superficie.
-  
+* **Deflación:** Es el "barrido" selectivo del viento, que levanta y se lleva las partículas finas (arena, limo), dejando atrás los fragmentos más gruesos (grava, cantos) como un residuo o "rezago" (*lag deposit*).
+* **Abrasión Eólica:** Es el desgaste o "lijado" de las superficies rocosas por el impacto de las partículas de arena transportadas en saltación. Es más efectiva en el primer metro sobre la superficie, que es donde se concentra la mayor parte de la carga saltante {cite:p}`cooke_desert_1993`.
 
-```{figure} https://i.pinimg.com/736x/c7/63/9d/c7639dccca9b6b7e3445ba6bf84ba4a1.jpg
-:name: fig-8180
-:width: 400
+```{figure} images/eolica_deflacion_abrasion.svg
+:name: fig-deflacion-abrasion
+:width: 650px
+
+Procesos de deflación (izquierda) y abrasión eólica (derecha). Elaboración propia con base en {cite:t}`cooke_desert_1993`.
 ```
 
 ### Geoformas Resultantes
-* **Pavimento Desértico (Desert Pavement):** Una superficie de cantos y gravas fuertemente entrelazados, formada por la deflación completa de los finos. Una vez formado, protege al material subyacente de futura erosión.
+* **Pavimento Desértico (Desert Pavement):** Una superficie de cantos y gravas fuertemente entrelazados, formada por la deflación de los materiales finos. Una vez formado, protege al material subyacente de futura erosión, por lo que su destrucción (p. ej. por tránsito vehicular) puede reactivar la deflación {cite:p}`cooke_desert_1993`.
 
-```{figure} https://i.pinimg.com/736x/09/bd/40/09bd40374b29345c7d4d9e0857c24440.jpg
-:name: fig-8225
-:width: 400
+```{figure} images/Desert_pavement.jpg
+:name: fig-pavimento-desertico
+:width: 500px
+
+Pavimento desértico formado por deflación de los sedimentos finos. Fotografía: Javad Moini, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Desert_pavement.jpg) (CC BY-SA 4.0).
 ```
 
-* **Ventifactos:** Rocas pulidas, facetadas y estriadas por la abrasión eólica. La orientación de las facetas indica la dirección del viento dominante.
+* **Ventifactos:** Rocas pulidas, facetadas y estriadas por la abrasión eólica. La orientación de las facetas indica la dirección del viento dominante que las esculpió.
 
-```{figure} https://i.pinimg.com/1200x/e6/a9/c7/e6a9c78ec8bcd72a6577253995880be4.jpg
-:name: fig-8635
-:width: 400
+```{figure} images/VentifactMojaveDesert.jpg
+:name: fig-ventifacto
+:width: 500px
+
+Ventifacto en el desierto de Mojave, California, con facetas pulidas por abrasión eólica. Fotografía: Mark A. Wilson, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:VentifactMojaveDesert031511.jpg) (dominio público).
 ```
 
-* **Yardangs:** Crestas rocosas alargadas y aerodinámicas, esculpidas por la abrasión, paralelas a la dirección del viento.
+* **Yardangs:** Crestas rocosas alargadas y aerodinámicas, esculpidas por la abrasión, orientadas de forma paralela a la dirección del viento dominante.
 
-```{figure} https://i.pinimg.com/736x/28/e3/6e/28e36eff21b68784ee8f524cf6ee2268.jpg
-:name: fig-5904
-:width: 400
+```{figure} images/Dunhuang_Yardang.jpg
+:name: fig-yardangs
+:width: 500px
+
+Yardangs en el Geoparque Nacional de Dunhuang, China. Fotografía: Yoshi Canopus, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dunhuang_Yardang_National_Geopark_3.JPG) (CC BY-SA 3.0).
 ```
-  
+
 ---
 ## 11. Dunas: Acumulación Eólica
 
-Una **duna** es una acumulación de arena transportada por el viento. Una duna activa tiene una morfología asimétrica:
-* **Cara de Barlovento:** Pendiente suave (~10-15°) por donde la arena sube por saltación.
-* **Cara de Sotavento (Cara de Deslizamiento):** Pendiente abrupta que mantiene el ángulo de reposo de la arena (~34°). La duna migra a medida que la arena cae por esta cara.
+Una **duna** es una acumulación de arena transportada por el viento. Una duna activa tiene una morfología asimétrica {cite:p}`bagnold_physics_1941`:
+* **Cara de Barlovento:** Pendiente suave (~10-15°) por donde la arena asciende por saltación y reptación.
+* **Cara de Sotavento (Cara de Deslizamiento):** Pendiente abrupta que mantiene el ángulo de reposo de la arena seca (~30-34°). La duna migra a medida que la arena se acumula en la cresta y cae por esta cara mediante avalanchas.
 
 ---
 ## 12. Tipos de Dunas: Relación Viento y Sedimento
 
-La morfología de las dunas depende de dos factores clave: la **disponibilidad de arena** y la **direccionalidad del viento**.
+La morfología de las dunas depende principalmente de dos factores: la **disponibilidad de arena** y la **direccionalidad del viento** (unidireccional, bidireccional o multidireccional). Esta relación fue sistematizada por McKee a partir del estudio de los principales mares de arena del planeta {cite:p}`mckee_study_1979`.
 
-```{figure} https://i.pinimg.com/1200x/b9/a3/b1/b9a3b1bec736133ab62844d191a99b52.jpg
-:name: fig-8209
-:width: 600
+```{figure} images/eolica_clasificacion_dunas.svg
+:name: fig-clasificacion-dunas
+:width: 600px
+
+Clasificación de tipos de dunas según la disponibilidad de arena y la direccionalidad del viento. Elaboración propia con base en {cite:t}`mckee_study_1979`.
 ```
 
 ---
 ## 13. Clasificación de Dunas
 
 * **Barján (Barchan):**
-    * **Forma:** Media luna. Los "cuernos" apuntan en la dirección del viento.
-    * **Condiciones:** Suministro **limitado** de arena y viento **unidireccional**. Son dunas rápidas y móviles.
+    * **Forma:** Media luna. Los "cuernos" apuntan en la dirección hacia la que sopla el viento.
+    * **Condiciones:** Suministro **limitado** de arena sobre un sustrato firme y viento **unidireccional**. Son las dunas más móviles y de más rápida migración {cite:p}`bagnold_physics_1941`.
 
-```{figure} https://i.pinimg.com/736x/60/d1/b5/60d1b5ca41efdb4bc896eb2b6b8e13c8.jpg
-:name: fig-5797
-:width: 600
+```{figure} images/ISS_Barchan_Brazil.jpg
+:name: fig-duna-barjan
+:width: 600px
+
+Campo de dunas barján migrando sobre lagunas costeras, sur de Brasil. Fotografía astronauta ISS-52, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISS-52_Barchan_Dunes_and_Lagoons,_Southern_Brazil.jpg) (NASA, dominio público).
 ```
 
 * **Duna Transversal (Transverse):**
-    * **Forma:** Crestas largas y rectilíneas, perpendiculares a la dirección del viento. Son esencialmente barjanes unidos lateralmente.
+    * **Forma:** Crestas largas y rectilíneas, perpendiculares a la dirección del viento. Son esencialmente barjanes unidos lateralmente por un suministro de arena continuo.
     * **Condiciones:** Suministro **abundante** de arena y viento **unidireccional**.
 
-```{figure} https://i.pinimg.com/736x/2f/34/98/2f3498b15b2479320fcb2171e1492f77.jpg
-:name: fig-2399
-:width: 600
+```{figure} images/Transverse_dune_diagram.jpg
+:name: fig-duna-transversal
+:width: 600px
+
+Esquema de una duna transversal, con crestas perpendiculares a la dirección del viento. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tranverse_dune.jpg) (CC BY 3.0).
 ```
 
 * **Duna Longitudinal (o Seif):**
-    * **Forma:** Crestas largas, rectilíneas y paralelas a la dirección resultante del viento.
-    * **Condiciones:** Suministro **limitado** de arena y viento **bidireccional** (dos direcciones convergentes en ángulo agudo).
-  
-  
-```{figure} https://i.pinimg.com/736x/8e/9e/3b/8e9e3b6733eabe31d8a13e4bb48de8e1.jpg
-:name: fig-6374
-:width: 600
+    * **Forma:** Crestas largas, rectilíneas y paralelas a la dirección resultante del viento, pudiendo alcanzar decenas de kilómetros de longitud.
+    * **Condiciones:** Suministro **limitado** de arena y régimen de viento **bidireccional**, con dos direcciones dominantes que convergen en un ángulo agudo {cite:p}`mckee_study_1979`.
+
+```{figure} images/ISS_Linear_Dunes_Egypt.jpg
+:name: fig-duna-longitudinal
+:width: 600px
+
+Dunas longitudinales (seif) en el Gran Mar de Arena, suroeste de Egipto. Fotografía astronauta ISS-31, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISS-31_Linear_dunes_in_the_Great_Sand_Sea_in_southwest_Egypt.jpg) (NASA, dominio público).
 ```
 
 * **Duna Parabólica:**
-    * **Forma:** Forma de U o V. Los "cuernos" apuntan *contra* el viento.
-    * **Condiciones:** Se forman por la deflación (*blowout*) de la arena, donde la vegetación ancla los brazos (cuernos) y permite que la parte central avance.
+    * **Forma:** Forma de U o V. A diferencia del barján, los "cuernos" apuntan *contra* el viento (en dirección opuesta a su desplazamiento).
+    * **Condiciones:** Se forman por deflación (*blowout*) en un manto de arena parcialmente vegetado, donde la vegetación ancla los brazos (cuernos) mientras la parte central, desprovista de vegetación, avanza más rápido {cite:p}`pye_aeolian_2009`. Son comunes en ambientes costeros.
 
-```{figure} https://i.pinimg.com/1200x/a6/0d/80/a60d80a8fc5d47c7db07ba55f572c635.jpg
-:name: fig-8863
-:width: 600
+```{figure} images/Parabolic_dune_diagram.jpg
+:name: fig-duna-parabolica
+:width: 600px
+
+Esquema de una duna parabólica costera, con los cuernos anclados por vegetación apuntando contra el viento. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parabolic_dune.jpg) (CC BY 3.0).
 ```
 
 * **Duna en Estrella (Star):**
-    * **Forma:** Montículo piramidal con varias crestas afiladas que radian desde un punto central.
-    * **Condiciones:** Suministro **abundante** de arena y viento **multidireccional**. Estas dunas crecen verticalmente más que migrar.
+    * **Forma:** Montículo piramidal con tres o más crestas afiladas que radian desde un punto central de acumulación.
+    * **Condiciones:** Suministro **abundante** de arena y régimen de viento **multidireccional**. Al no tener una dirección de migración neta dominante, estas dunas crecen principalmente en altura en lugar de desplazarse, alcanzando las mayores alturas conocidas para dunas (hasta más de 300 m) {cite:p}`mckee_study_1979,pye_aeolian_2009`.
 
-```{figure} https://i.pinimg.com/1200x/25/c6/74/25c674e877d89df0eec0370abfe5d6d2.jpg
-:name: fig-9685
-:width: 600
+```{figure} images/Star_dunes_Algeria.jpg
+:name: fig-duna-estrella
+:width: 600px
+
+Dunas en estrella del Gran Erg Oriental, Argelia, vistas desde el satélite Terra (sensor ASTER). Imagen: NASA/GSFC/METI/ERSDAC/JAROS y equipo científico ASTER EE.UU./Japón.
 ```
+
+---
+## Taller de Autoevaluación
+
+1. **Mecanismos de transporte:** Explique por qué la saltación es el mecanismo dominante en el transporte eólico de arena y qué papel cumple el efecto de salpicadura (*splash*) en la reptación.
+2. **Deflación vs. Abrasión:** ¿Por qué el pavimento desértico, una vez formado, tiende a autoprotegerse frente a una mayor deflación? ¿Qué pasaría si dicho pavimento es alterado por tránsito de vehículos todoterreno?
+3. **Lectura de geoformas:** Si encuentra en campo una duna con cuernos apuntando en dirección opuesta al viento dominante y anclada por vegetación en sus brazos, ¿qué tipo de duna es y en qué ambiente es más probable encontrarla?
+4. **Clasificación de dunas:** Compare las condiciones de disponibilidad de arena y direccionalidad del viento necesarias para formar una duna transversal frente a una duna en estrella.

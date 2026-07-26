@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 420" font-family="Arial, sans-serif">
+  <rect width="780" height="420" fill="#ffffff"/>
+  <text x="390" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Partes de un movimiento en masa (rotacional)</text>
+
+  <!-- undisturbed slope -->
+  <path d="M 20 350 L 700 350 L 700 340 L 480 100 L 20 250 Z" fill="#d8d8d8"/>
+
+  <!-- rupture surface -->
+  <path d="M 120 300 Q 250 150 420 130" fill="none" stroke="#333333" stroke-width="2" stroke-dasharray="5 3"/>
+
+  <!-- displaced mass -->
+  <path d="M 120 300 Q 250 150 420 130 L 470 160 Q 340 220 260 330 Q 220 355 160 345 Z" fill="#a97a50" opacity="0.85" stroke="#6b4020" stroke-width="1.5"/>
+
+  <!-- crown -->
+  <text x="440" y="95" font-size="11" font-weight="bold" fill="#333333">Corona</text>
+  <line x1="450" y1="100" x2="430" y2="128" stroke="#333333" stroke-width="1"/>
+
+  <!-- main scarp -->
+  <text x="480" y="150" font-size="11" font-weight="bold" fill="#d62728">Escarpe Principal</text>
+  <line x1="475" y1="152" x2="440" y2="150" stroke="#d62728" stroke-width="1"/>
+
+  <!-- head -->
+  <text x="360" y="160" font-size="11" font-weight="bold" fill="#333333">Cabeza</text>
+
+  <!-- body -->
+  <text x="290" y="230" font-size="11" font-weight="bold" fill="#333333">Cuerpo</text>
+
+  <!-- flank -->
+  <text x="150" y="270" font-size="11" font-weight="bold" fill="#333333">Flanco</text>
+  <line x1="145" y1="275" x2="180" y2="290" stroke="#333333" stroke-width="1"/>
+
+  <!-- toe / foot -->
+  <text x="150" y="360" font-size="11" font-weight="bold" fill="#2ca02c">Pie</text>
+  <text x="200" y="378" font-size="11" font-weight="bold" fill="#2ca02c">Pata</text>
+
+  <!-- rupture surface label -->
+  <text x="230" y="200" font-size="11" fill="#555555">Superficie de Ruptura</text>
+</svg>

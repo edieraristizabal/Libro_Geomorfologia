@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 460" font-family="Arial, sans-serif">
+  <rect width="840" height="460" fill="#ffffff"/>
+  <text x="420" y="26" text-anchor="middle" font-size="17" font-weight="bold" fill="#333333">Tres modelos clásicos de evolución de laderas</text>
+
+  <!-- Davis panel -->
+  <g transform="translate(20,50)">
+    <text x="130" y="0" text-anchor="middle" font-size="14" font-weight="bold" fill="#333333">Davis: Slope Decline</text>
+    <text x="130" y="18" text-anchor="middle" font-size="11" fill="#666666">(downwearing)</text>
+    <line x1="0" y1="330" x2="260" y2="330" stroke="#5c4326" stroke-width="3"/>
+    <path d="M 20 330 L 130 60 L 240 330" fill="none" stroke="#999999" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="M 20 330 L 130 150 L 240 330" fill="none" stroke="#e07b39" stroke-width="2.5" stroke-dasharray="5 4"/>
+    <path d="M 20 330 Q 130 260 240 330" fill="none" stroke="#d62728" stroke-width="3"/>
+    <text x="10" y="345" font-size="10" fill="#999999">Juventud</text>
+    <text x="180" y="345" font-size="10" fill="#d62728">Senectud</text>
+    <text x="90" y="290" font-size="11" fill="#333333" font-weight="bold">Monadnock</text>
+    <text x="130" y="400" text-anchor="middle" font-size="11" fill="#333333">El ángulo de la ladera</text>
+    <text x="130" y="415" text-anchor="middle" font-size="11" fill="#333333">disminuye con el tiempo</text>
+  </g>
+
+  <!-- Penck panel -->
+  <g transform="translate(300,50)">
+    <text x="130" y="0" text-anchor="middle" font-size="14" font-weight="bold" fill="#333333">Penck: Slope Replacement</text>
+    <text x="130" y="18" text-anchor="middle" font-size="11" fill="#666666">(backwearing, U vs. D)</text>
+    <line x1="0" y1="330" x2="260" y2="330" stroke="#5c4326" stroke-width="3"/>
+    <path d="M 20 330 L 130 60 L 240 330" fill="none" stroke="#999999" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="M 20 330 L 90 200 L 130 60 L 170 200 L 240 330" fill="none" stroke="#e07b39" stroke-width="2.5"/>
+    <path d="M 20 330 L 60 260 L 130 60 L 200 260 L 240 330" fill="none" stroke="#d62728" stroke-width="3"/>
+    <text x="130" y="400" text-anchor="middle" font-size="11" fill="#333333">Unidades de menor pendiente</text>
+    <text x="130" y="415" text-anchor="middle" font-size="11" fill="#333333">reemplazan a las más empinadas</text>
+  </g>
+
+  <!-- King panel -->
+  <g transform="translate(580,50)">
+    <text x="130" y="0" text-anchor="middle" font-size="14" font-weight="bold" fill="#333333">King: Parallel Retreat</text>
+    <text x="130" y="18" text-anchor="middle" font-size="11" fill="#666666">(backwearing, escarpe + pedimento)</text>
+    <line x1="0" y1="330" x2="260" y2="330" stroke="#5c4326" stroke-width="3"/>
+    <path d="M 20 330 L 60 330 L 130 60 L 145 330 L 240 330" fill="none" stroke="#999999" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="M 20 330 L 100 328 L 155 60 L 170 328 L 240 330" fill="none" stroke="#e07b39" stroke-width="2.5"/>
+    <path d="M 20 330 L 150 326 L 195 60 L 205 326 L 240 330" fill="none" stroke="#d62728" stroke-width="3"/>
+    <text x="130" y="400" text-anchor="middle" font-size="11" fill="#333333">El escarpe retrocede manteniendo</text>
+    <text x="130" y="415" text-anchor="middle" font-size="11" fill="#333333">su ángulo; se forma el pedimento</text>
+  </g>
+
+  <text x="420" y="445" text-anchor="middle" font-size="10" fill="#888888">Líneas gris → naranja → roja: secuencia temporal de evolución de la ladera</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" font-family="Arial, sans-serif">
+  <rect width="700" height="320" fill="#ffffff"/>
+  <text x="350" y="24" text-anchor="middle" font-size="15" font-weight="bold" fill="#333333">Paisaje Jurásico: relieve conforme</text>
+
+  <path d="M 40 260 Q 150 60 260 260 Q 370 60 480 260 Q 590 60 660 260" fill="none" stroke="#6b4020" stroke-width="3"/>
+  <path d="M 40 260 Q 150 90 260 260 Q 370 90 480 260 Q 590 90 660 260" fill="none" stroke="#a97a50" stroke-width="2" stroke-dasharray="4 3"/>
+
+  <text x="150" y="50" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Mont anticlinal</text>
+  <path d="M 130 140 L 170 140" stroke="#d62728" stroke-width="2" marker-end="url(#jArrow)"/>
+  <text x="120" y="130" font-size="9" fill="#d62728">combe</text>
+
+  <text x="480" y="50" text-anchor="middle" font-size="11" font-weight="bold" fill="#333333">Crêt / Mont dérivé</text>
+
+  <rect x="245" y="150" width="30" height="110" fill="#8c6a45" opacity="0.85"/>
+  <text x="260" y="290" text-anchor="middle" font-size="10" fill="#333333">cluse</text>
+
+  <text x="350" y="300" text-anchor="middle" font-size="10" fill="#666666">Estructura joven: la topografía refleja directamente el plegamiento</text>
+
+  <defs>
+    <marker id="jArrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#d62728"/></marker>
+  </defs>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" font-family="Arial, sans-serif">
+  <rect width="700" height="300" fill="#ffffff"/>
+
+  <g transform="translate(30,30)">
+    <text x="140" y="0" text-anchor="middle" font-size="13" font-weight="bold" fill="#333333">Capas 1:1 (ej. caolinita)</text>
+    <rect x="40" y="40" width="200" height="25" fill="#c9a06a"/>
+    <text x="140" y="57" text-anchor="middle" font-size="9" fill="#333333">tetraédrica</text>
+    <rect x="40" y="65" width="200" height="25" fill="#8a6a45"/>
+    <text x="140" y="82" text-anchor="middle" font-size="9" fill="#ffffff">octaédrica</text>
+    <path d="M 40 90 L 240 90" stroke="#d62728" stroke-width="3"/>
+    <text x="140" y="105" text-anchor="middle" font-size="9" fill="#d62728">enlace H fuerte (no expansiva)</text>
+    <rect x="40" y="130" width="200" height="25" fill="#c9a06a"/>
+    <rect x="40" y="155" width="200" height="25" fill="#8a6a45"/>
+    <text x="140" y="200" text-anchor="middle" font-size="10" fill="#555555">No se hincha con el agua</text>
+  </g>
+
+  <g transform="translate(390,30)">
+    <text x="140" y="0" text-anchor="middle" font-size="13" font-weight="bold" fill="#333333">Capas 2:1 (ej. esmectita)</text>
+    <rect x="40" y="40" width="200" height="22" fill="#c9a06a"/>
+    <rect x="40" y="62" width="200" height="22" fill="#8a6a45"/>
+    <rect x="40" y="84" width="200" height="22" fill="#c9a06a"/>
+    <path d="M 40 106 L 240 106" stroke="#1f6feb" stroke-width="2" stroke-dasharray="4 3"/>
+    <text x="140" y="122" text-anchor="middle" font-size="9" fill="#1f6feb">enlace débil (Van der Waals)</text>
+    <rect x="40" y="130" width="200" height="22" fill="#c9a06a"/>
+    <rect x="40" y="152" width="200" height="22" fill="#8a6a45"/>
+    <rect x="40" y="174" width="200" height="22" fill="#c9a06a"/>
+    <text x="140" y="210" text-anchor="middle" font-size="10" fill="#555555">El agua se infiltra entre capas: hinchamiento-contracción</text>
+  </g>
+</svg>
