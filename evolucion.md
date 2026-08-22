@@ -117,4 +117,11 @@ Más allá de sus mecanismos particulares, los tres modelos clásicos comparten 
 * **Pediplanicie (*Pediplain*):** El término de King para la superficie final formada por la coalescencia de pedimentos, producto del retroceso paralelo de escarpes (*backwearing*).
 * **Etchplain (Superficie de Etchado):** Un tercer tipo de superficie de planación, reconocido más ampliamente desde mediados del siglo XX, que se forma por la meteorización química profunda del sustrato (ver {ref}`sec-meteorizacion`) seguida de la remoción erosiva del regolito, exhumando una superficie de roca fresca (la "etch surface") que puede conservar un relieve residual irregular controlado por la profundidad previa de meteorización, en lugar de la superficie perfectamente plana que implican los modelos de Davis o King {cite:p}`goudie_encyclopedia_2004`.
 
+```{figure} https://i.pinimg.com/736x/c4/f6/66/c4f666a41a01de3abd9769dc433ac482.jpg
+:name: fig-superficies-planacion
+:width: 500px
+
+Peneplanicie, pediplanicie y etchplain (superficie de meteorización enmantada y etchplain exhumado con inselberg).
+```
+
 Esta distinción entre peneplanicie, pediplanicie y *etchplain* es especialmente relevante en el contexto tropical de este libro: en climas húmedos y cálidos como los de buena parte de Colombia, la meteorización química profunda (ver {ref}`sec-meteorizacion`) es tan intensa que muchas superficies de bajo relieve descritas en el paisaje no son el resultado de un desgaste o retroceso puramente mecánico, sino de la exhumación de un frente de meteorización irregular, lo que las clasificaría más apropiadamente como *etchplains* que como peneplanicies o pediplanicies en el sentido estricto de Davis o King {cite:p}`goudie_encyclopedia_2004,shroder_treatise_2013`.

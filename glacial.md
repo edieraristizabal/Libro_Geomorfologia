@@ -299,16 +299,6 @@ Donde $N$ es la concentración medida del nucleido, $P$ es la tasa de producció
 
 Esta técnica ha permitido datar directamente las morrenas de El Cocuy, Los Nevados y otros macizos andinos, confirmando la sincronía (o los desfases) entre los avances glaciares tropicales y los del hemisferio norte durante el Pleistoceno tardío, una pregunta clave para entender la dinámica climática global {cite:p}`bierman_key_2013,rabatel_current_2013`.
 
-## 17. La Hipótesis de la "Sierra de Hielo" Glacial (*Glacial Buzzsaw*)
-
-Un patrón notable observado en cordilleras de todo el mundo es que las cumbres de alta montaña rara vez superan significativamente la altitud de la línea de nieve o la línea de equilibrio glacial (EQL) durante los periodos glaciales, incluso cuando el levantamiento tectónico continúa activo. Esta observación dio origen a la hipótesis de la **"sierra de hielo" glacial** (*glacial buzzsaw hypothesis*), que propone que la erosión glacial actúa como un límite superior autorregulado sobre la altitud máxima de las cordilleras {cite:p}`bierman_key_2013`.
-
-El mecanismo propuesto es una retroalimentación negativa (ver {ref}`sec-conceptos`): a medida que el levantamiento tectónico eleva el terreno por encima de la EQL, se favorece la formación y expansión de circos y glaciares de valle (ver Secciones 9 y 10). La erosión glacial es extremadamente eficiente en las zonas cercanas a la EQL (por los ciclos de congelamiento-deshielo y el arranque basal), lo que "poda" activamente las cumbres que intentan crecer por encima de esta altitud crítica, manteniendo la topografía cerca de un techo altitudinal relativamente constante a lo largo de millones de años {cite:p}`bierman_key_2013`.
-
-:::{tip}
-Esta hipótesis es un excelente ejemplo de la interacción entre procesos endógenos y exógenos discutida en {ref}`sec-conceptos`: aunque el motor primario (levantamiento tectónico) es interno, el resultado final de la altitud de la cordillera está fuertemente condicionado por un proceso climático-erosivo externo. En los Andes tropicales, donde la EQL actual se encuentra muy por encima de los 4 800 msnm, este efecto es menos evidente que en cordilleras de latitudes medias y altas, donde la EQL histórica ha sido mucho más baja durante los ciclos glaciales del Cuaternario.
-:::
-
 ## 18. El Forzamiento Radiativo y el Retroceso Glaciar Contemporáneo
 
 Las causas orbitales y tectónicas de las glaciaciones descritas en la Sección 4 operan en escalas de miles a millones de años. El retroceso acelerado que hoy documentan los glaciares colombianos (Sección 14) responde, en cambio, a un mecanismo físico de acción mucho más rápida: el **forzamiento radiativo** por gases de efecto invernadero de origen antropogénico {cite:p}`archer_global_2006`.
