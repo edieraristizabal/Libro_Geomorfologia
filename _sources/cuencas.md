@@ -235,22 +235,6 @@ Donde $c$ es una constante y el exponente $h$ toma típicamente valores cercanos
 
 Estas herramientas morfométricas, calculables directamente a partir de un Modelo Digital de Elevación, permiten caracterizar objetivamente cuencas no instrumentadas —una situación común en buena parte del territorio colombiano— y son la base cuantitativa que sustenta muchos de los criterios cualitativos de forma y respuesta hidrológica discutidos en la Sección 10 {cite:p}`bierman_key_2013`.
 
-## 13. Estructuras Hidráulicas para el Manejo de Cauces de Montaña
-
-La gestión de cuencas hidrográficas (Sección 12, POMCA) frecuentemente requiere intervenir directamente el cauce con **estructuras hidráulicas de control**, diseñadas para modificar la pendiente efectiva, disipar energía o estabilizar el fondo del canal. La ingeniería fluvial distingue varios tipos de estructuras según su función específica {cite:p}`radeckipawlik_open_2017`:
-
-| Estructura | Función Principal | Efecto Geomorfológico |
-| :--- | :--- | :--- |
-| Presa de Control de Sedimentos (*Check Dam*) | Reducir la pendiente efectiva de un tramo, atrapando sedimento aguas arriba | Crea una serie de escalones (perfil en "diente de sierra"); reduce la energía disponible para la erosión del lecho |
-| Rampa Hidráulica (*Ramp Structure*) | Disipar energía en un cambio de pendiente sin crear una caída vertical | Permite el paso de sedimento y de fauna acuática (conectividad longitudinal), a diferencia de un vertedero vertical |
-| Vertedero de Fondo (*Grade Control/Sill*) | Fijar la cota del lecho en un punto, evitando la incisión remontante | Ancla el perfil longitudinal (ver Sección 4) impidiendo que la erosión se propague aguas arriba |
-| Espolón o Deflector (*Groyne/Spur*) | Redirigir el flujo, alejándolo de una margen erosionable | Protege márgenes; puede inducir deposición local en la zona de sombra hidráulica |
-| Gavión / Revestimiento de Margen | Aumentar la resistencia al corte de la margen del canal | Reduce la migración lateral natural del canal (con el efecto secundario de simplificar el hábitat fluvial) |
-
-*Compilado a partir de {cite:t}`radeckipawlik_open_2017`.*
-
-Un principio de diseño destacado en la literatura de hidráulica fluvial es que las estructuras que **imitan la morfología natural** del cauce (como las rampas de bajo gradiente en lugar de caídas verticales abruptas) tienden a lograr los mismos objetivos de control de erosión con un menor impacto sobre la conectividad ecológica y sedimentaria de la cuenca, un principio cada vez más incorporado en el diseño de obras de mitigación en quebradas de montaña colombianas {cite:p}`radeckipawlik_open_2017`.
-
 ---
 ## Taller de Autoevaluación
 

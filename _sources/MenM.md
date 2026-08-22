@@ -145,6 +145,13 @@ El concepto de esfuerzo efectivo (Terzaghi) es la clave para entender la inestab
 
     * *Ejemplos:* Lluvias intensas o prolongadas (el detonante más común en climas tropicales), sismos, actividad humana (cortes en la base, sobrecarga en la corona), erupciones volcánicas (sismicidad, sobrecarga de ceniza, lahares).
 
+```{figure} https://i.pinimg.com/736x/e3/76/eb/e376eb0c202f698226d54e70fa059895.jpg
+:name: fig-margen-estabilidad
+:width: 600
+
+Evolución del margen de estabilidad de una ladera en el tiempo: los factores predisponentes y preparatorios reducen progresivamente el margen de estabilidad, hasta que un detonante produce un pico de esfuerzo que supera el umbral de inestabilidad (Steger, 2017).
+```
+
 ---
 
 ## 5. Clasificación de Cruden y Varnes (1996)
